@@ -1,0 +1,17 @@
+{
+  "performance_metrics": {
+    "response_time_avg": 0,
+    "uptime_percentage": 100,
+    "error_rate": 0
+  },
+  "user_metrics": {
+    "active_users_24h": 0,
+    "active_users_7d": 0,
+    "retention_rate": 0
+  },
+  "system_metrics": {
+    "memory_usage": 0,
+    "cpu_usage": 0,
+    "disk_usage": 0
+  }
+}
