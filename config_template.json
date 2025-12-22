@@ -1,0 +1,64 @@
+{
+  "bot_info": {
+    "name": "YOUR_CRUSH ⟵o_0",
+    "developer": "RANA",
+    "version": "1.0.0",
+    "description": "Professional Safe Telegram UserBot with Islamic features"
+  },
+  "settings": {
+    "timezone": "Asia/Dhaka",
+    "language": "bn",
+    "human_delay": 1.5,
+    "max_retries": 3,
+    "log_level": "INFO",
+    "log_rotation": "daily",
+    "max_log_files": 7,
+    "auto_backup": true,
+    "backup_interval_hours": 24,
+    "max_backups": 7
+  },
+  "features": {
+    "auto_reply": true,
+    "namaz_alert": true,
+    "slot_reminders": true,
+    "quotes_enabled": true,
+    "duas_enabled": true,
+    "developer_info": true,
+    "user_stats": true,
+    "daily_reports": true
+  },
+  "telegram": {
+    "api_id": 123456,
+    "api_hash": "your_api_hash_here",
+    "phone": "+8801234567890",
+    "session_name": "main_account"
+  },
+  "security": {
+    "max_messages_per_minute": 10,
+    "block_duration_seconds": 300,
+    "max_login_attempts": 3,
+    "enable_flood_control": true,
+    "enable_blacklist": true
+  },
+  "notifications": {
+    "namaz_alert_minutes_before": 5,
+    "slot_reminder_interval_minutes": 30,
+    "daily_quote_hour": 9,
+    "daily_dua_hour": 19,
+    "enable_push_notifications": false
+  },
+  "admin": {
+    "admin_ids": [123456789],
+    "enable_admin_panel": true,
+    "broadcast_enabled": true,
+    "backup_enabled": true
+  },
+  "analytics": {
+    "track_messages": true,
+    "track_users": true,
+    "track_errors": true,
+    "daily_report_hour": 23,
+    "weekly_report_day": 0,
+    "monthly_report_day": 1
+  }
+}
