@@ -1,1 +1,11 @@
-
+{
+  "admins": [ ],
+  "permissions": {
+    "can_edit_responses": true,
+    "can_edit_times": true,
+    "can_manage_users": true,
+    "can_view_logs": true,
+    "can_broadcast": true,
+    "can_backup": true
+  }
+}

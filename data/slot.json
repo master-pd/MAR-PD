@@ -1,0 +1,60 @@
+{
+  "slots": [
+    {
+      "name": "fajr",
+      "start": "04:00",
+      "end": "06:00",
+      "level1": "Fajr time! Wake up for Tahajjud or prepare for Fajr prayer. 🤲",
+      "level2": "Early morning blessings! Recite Quran and make dua. 📖",
+      "level3": "The early morning is blessed. Start your day with dhikr. ☀️"
+    },
+    {
+      "name": "morning",
+      "start": "06:00",
+      "end": "09:00",
+      "level1": "Good morning! 🌞 Start your day with Bismillah!",
+      "level2": "Time for breakfast and planning your day! 🍳",
+      "level3": "Start your work or studies with focus and dedication! 💼"
+    },
+    {
+      "name": "afternoon",
+      "start": "12:00",
+      "end": "15:00",
+      "level1": "Afternoon! Time for Dhuhr prayer soon! 🕌",
+      "level2": "Take a break and refresh yourself! ☕",
+      "level3": "Continue your work with renewed energy! ⚡"
+    },
+    {
+      "name": "asr",
+      "start": "15:00",
+      "end": "17:00",
+      "level1": "Asr time! Don't miss the middle prayer! 🕌",
+      "level2": "The afternoon is passing. Review your day's progress! 📊",
+      "level3": "Prepare for the evening ahead! 🌆"
+    },
+    {
+      "name": "evening",
+      "start": "17:00",
+      "end": "19:00",
+      "level1": "Evening time! Maghrib prayer is approaching! 🌆",
+      "level2": "Time to relax and spend with family! 👨‍👩‍👧‍👦",
+      "level3": "Reflect on your day and make istighfar! 🤲"
+    },
+    {
+      "name": "night",
+      "start": "19:00",
+      "end": "22:00",
+      "level1": "Night time! Isha prayer and Quran recitation! 🌙",
+      "level2": "Family time and personal development! 📚",
+      "level3": "Prepare for sleep and tomorrow's plans! 🛏️"
+    },
+    {
+      "name": "late_night",
+      "start": "22:00",
+      "end": "04:00",
+      "level1": "Late night! Time for rest and Tahajjud preparation! 😴",
+      "level2": "The night is for rest. Sleep well to recharge! ⚡",
+      "level3": "Qiyam-ul-lail time for the night worshippers! 🤲"
+    }
+  ]
+}

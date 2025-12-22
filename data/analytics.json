@@ -1,0 +1,20 @@
+{
+  "daily_stats": {},
+  "user_activity": {},
+  "message_stats": {
+    "total_messages": 0,
+    "auto_replies": 0,
+    "commands_used": {}
+  },
+  "reminder_stats": {
+    "namaz_alerts_sent": 0,
+    "slot_reminders_sent": 0,
+    "total_reminders": 0
+  },
+  "system_stats": {
+    "uptime": 0,
+    "errors": 0,
+    "restarts": 0,
+    "last_start": null
+  }
+}

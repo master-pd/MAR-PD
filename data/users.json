@@ -1,0 +1,22 @@
+{
+  "123456789": {
+    "id": "123456789",
+    "name": "Rana Vai",
+    "namaz_alert": true,
+    "slot_reminder": true,
+    "quotes_enabled": true,
+    "duas_enabled": true,
+    "slot_reminder_count": {
+      "morning": 5,
+      "night": 3
+    },
+    "namaz_count": 12,
+    "total_messages": 47,
+    "last_activity": "2025-12-22T10:30:00",
+    "join_date": "2025-12-01T08:00:00",
+    "settings": {
+      "language": "bn",
+      "timezone": "Asia/Dhaka"
+    }
+  }
+}

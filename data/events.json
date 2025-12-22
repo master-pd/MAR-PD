@@ -1,0 +1,21 @@
+{
+  "eid_ul_fitr_2024": {
+    "name": "Eid-ul-Fitr",
+    "date": "2024-04-10",
+    "message": "Eid Mubarak! May Allah accept our Ramadan and grant us forgiveness! 🌙",
+    "type": "religious"
+  },
+  "eid_ul_adha_2024": {
+    "name": "Eid-ul-Adha",
+    "date": "2024-06-17",
+    "message": "Eid Mubarak! May Allah accept your sacrifices and good deeds! 🐑",
+    "type": "religious"
+  },
+  "ramadan_2024": {
+    "name": "Ramadan",
+    "date": "2024-03-11",
+    "message": "Ramadan Mubarak! Welcome the blessed month of fasting! 🕌",
+    "type": "religious",
+    "duration": 30
+  }
+}

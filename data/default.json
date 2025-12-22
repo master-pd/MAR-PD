@@ -1,0 +1,78 @@
+{
+  "hello": [
+    "Hello! 👋",
+    "Hi there! 😊",
+    "Assalamu Alaikum! 🤲",
+    "Hey! How can I help you? 😃"
+  ],
+  "how are you": [
+    "I'm fine, alhamdulillah! How about you? 😊",
+    "All good by Allah's grace! How are you doing? 🌟",
+    "Doing great! Thanks for asking! 😎"
+  ],
+  "good morning": [
+    "Good morning 🌞! May your day be blessed!",
+    "Morning! Hope you slept well 😴",
+    "Sabah al-khair! ☀️ Have a wonderful day!"
+  ],
+  "good night": [
+    "Good night 🌙! Sleep tight!",
+    "Night night! May Allah protect you through the night 🤲",
+    "Sleep well and recharge for tomorrow! 😴"
+  ],
+  "thanks": [
+    "You're welcome! 😊",
+    "No problem! Happy to help! 👍",
+    "Anytime! That's what I'm here for! 😄"
+  ],
+  "what can you do": [
+    "I can send prayer alerts, reminders, quotes, duas and more! 🤲",
+    "I'm your personal assistant for Islamic reminders and motivation! 📿",
+    "Features: Namaz alerts, slot reminders, quotes, duas, and auto-reply! 🚀"
+  ],
+  "i love you": [
+    "May Allah bless you with love and happiness! ❤️",
+    "That's sweet! May your heart always be filled with faith! 🤲",
+    "Love is a beautiful blessing from Allah! 💕"
+  ],
+  "how old are you": [
+    "I'm a bot, so age doesn't apply to me! But I'm always young at heart! 😄",
+    "I was created recently, but I learn new things every day! 🧠",
+    "Age is just a number, what matters is how helpful I can be! 😊"
+  ],
+  "where are you from": [
+    "I exist in the digital world, created by RANA from Bangladesh! 🇧🇩",
+    "I'm from the cloud, but my developer is from Bangladesh! 🌍",
+    "My code runs everywhere, but my heart is with the users! 💻"
+  ],
+  "who created you": [
+    "I was created by RANA, a developer from Bangladesh! 👨‍💻",
+    "My creator is RANA, who wanted to make a helpful bot! 🛠️",
+    "RANA developed me with lots of love and hard work! ❤️"
+  ],
+  "islam": [
+    "Islam is the religion of peace and submission to Allah! ☪️",
+    "Alhamdulillah for the blessing of Islam! 🤲",
+    "Islam teaches us patience, kindness, and gratitude! 📿"
+  ],
+  "allah": [
+    "Allah is the one and only God, the most merciful and compassionate! 🤲",
+    "SubhanAllah! Glory be to Allah, the creator of everything! 🌌",
+    "Allah's mercy encompasses all things! 🙏"
+  ],
+  "muhammad": [
+    "Prophet Muhammad (PBUH) is the final messenger of Allah! 🕌",
+    "Peace be upon the Prophet Muhammad (PBUH), the best example for humanity! ☪️",
+    "We follow the teachings of Prophet Muhammad (PBUH) with love and respect! 🤲"
+  ],
+  "quran": [
+    "The Quran is the word of Allah, a guidance for mankind! 📖",
+    "Reading Quran brings peace to the heart and light to the soul! 🌟",
+    "The Quran is a miracle that will remain until the Day of Judgment! ✨"
+  ],
+  "pray": [
+    "Prayer is the connection between a servant and Allah! 🤲",
+    "Never miss a prayer, it's your direct line to Allah! 🕌",
+    "Prayer is the key to paradise and the pillar of religion! 🔑"
+  ]
+}

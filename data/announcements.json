@@ -1,0 +1,30 @@
+{
+  "birthday": [
+    "🎂 Happy Birthday, {name}! May Allah bless you with many more happy and healthy years! 🎉",
+    "🎈 Birthday Mubarak, {name}! May your life be filled with happiness, success, and Allah's blessings! ✨",
+    "🥳 Happy Birthday to an amazing person, {name}! May all your dreams come true with Allah's mercy! 🌟",
+    "🎁 On your special day, {name}, may Allah shower His countless blessings upon you! 🎊",
+    "🌸 Happy Birthday, {name}! May this year bring you closer to Allah and fill your life with barakah! 🤲"
+  ],
+  "anniversary": [
+    "🎉 Happy {years} years anniversary, {name}! May Allah continue to bless your journey together! 👫",
+    "💖 Congratulations on {years} wonderful years, {name}! May your bond grow stronger with each passing day! 🌹",
+    "🥂 Cheers to {years} years of togetherness, {name}! May Allah grant you many more years of happiness! 🎊",
+    "✨ Happy Anniversary, {name}! {years} years of love and commitment is truly inspiring! ❤️",
+    "🏆 Congratulations on reaching {years} years, {name}! May your relationship always be blessed by Allah! 🤲"
+  ],
+  "eid": [
+    "🌙 Eid Mubarak! May Allah accept our good deeds and forgive our sins! 🤲",
+    "✨ Taqabbal Allahu Minna wa Minkum! Eid Mubarak to you and your family! 🎉",
+    "🕌 May the blessings of Eid fill your home with happiness and peace! Eid Mubarak! 🌟",
+    "🎊 Eid Mubarak! May Allah shower His mercy and blessings upon you! ☪️",
+    "❤️ Wishing you and your family a blessed Eid filled with joy and prosperity! Eid Mubarak! 🎁"
+  ],
+  "ramadan": [
+    "🕌 Ramadan Mubarak! May this holy month bring you closer to Allah! 🌙",
+    "🌟 Welcome Ramadan! May Allah accept your fasting, prayers, and good deeds! 🤲",
+    "✨ May this Ramadan be a source of spiritual cleansing and divine blessings for you! 🕌",
+    "📖 Ramadan Kareem! May the Quran be your companion this holy month! 🌙",
+    "🤲 May Allah forgive our sins and grant us Jannah in this blessed month of Ramadan! 🕌"
+  ]
+}
