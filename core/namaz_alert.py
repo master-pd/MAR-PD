@@ -64,7 +64,7 @@ class NamazAlert:
                     return {
                         'name': namaz,
                         'time': time_str,
-                        'message': f"⏰ **{namaz}** নামাজ {minutes_before} মিনিট পর!\nসময়: {time_str}\nওজু করে প্রস্তুত হোন 🤲"
+                        'message': f"⏰ {namaz} নামাজ {minutes_before} মিনিট পর!\nসময়: {time_str}\nওজু করে প্রস্তুত হোন 🤲"
                     }
                 
                 # এক্সাক্ট টাইম
@@ -72,20 +72,20 @@ class NamazAlert:
                     return {
                         'name': namaz,
                         'time': time_str,
-                        'message': f"🕌 **{namaz}** নামাজের সময় এখন!\n{time_str}\nদ্রুত নামাজ পড়ে নিন! 🕌"
+                        'message': f"🕌 {namaz} নামাজের সময় এখন!\n{time_str}\nদ্রুত নামাজ পড়ে নিন! 🕌"
                     }
         
         return None
     
     def get_all_namaz_times(self) -> str:
         """সব নামাজের সময়"""
-        result = "🕌 **আজকের নামাজের সময়সূচি:**\n\n"
+        result = "🕌 আজকের নামাজের সময়সূচি:\n\n"
         for namaz in self.namaz_order:
             if namaz in self.namaz_times:
-                result += f"• **{namaz}**: {self.namaz_times[namaz]}\n"
+                result += f"• {namaz}: {self.namaz_times[namaz]}\n"
         
         next_namaz = self.get_next_namaz()
-        result += f"\n👉 পরের নামাজ: **{next_namaz['name']}** - {next_namaz['time']}"
+        result += f"\n👉 পরের নামাজ: {next_namaz['name']} - {next_namaz['time']}"
         
         return result
     
