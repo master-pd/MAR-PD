@@ -2,7 +2,7 @@
   "user_reminders": {},
   "group_reminders": {},
   "settings": {
-    "max_reminders_per_user": 10,
+    "max_reminders_per_user": 02,
     "default_reminder_hours": 24
   }
 }
