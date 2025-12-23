@@ -25,12 +25,12 @@ class PrayerNotifier:
         """ডেইলি সামারি"""
         status = self.namaz_alert.get_namaz_status()
         
-        summary = f"📊 **আজকের নামাজ স্ট্যাটাস:**\n\n"
+        summary = f"📊 আজকের নামাজ স্ট্যাটাস:\n\n"
         summary += f"✅ সম্পন্ন: {status['completed']}/{status['total']}\n"
         summary += f"⏳ বাকি: {status['remaining']}\n"
         summary += f"📈 অগ্রগতি: {status['percentage']:.1f}%\n"
         
         next_namaz = self.namaz_alert.get_next_namaz()
-        summary += f"\n👉 পরের নামাজ: **{next_namaz['name']}** - {next_namaz['time']}"
+        summary += f"\n👉 পরের নামাজ: {next_namaz['name']} - {next_namaz['time']}"
         
         return summary
