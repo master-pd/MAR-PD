@@ -407,11 +407,11 @@ Developed by Rana 💝
                                     except Exception as e:
                                         log.error(f"Failed to send to {user_id}: {e}")
                     
-                    await asyncio.sleep(300)  # প্রতি 5 মিনিটে
+                    await asyncio.sleep(3000)  # প্রতি 5 মিনিটে
                     
                 except Exception as e:
                     log.error(f"Scheduler error (slots): {e}")
-                    await asyncio.sleep(300)
+                    await asyncio.sleep(3000)
         
         async def daily_quotes():
             """ডেইলি কোটস"""
