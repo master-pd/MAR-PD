@@ -200,10 +200,11 @@ class SafeUserBot:
         emoji = self.media_handler.get_emoji()
         
         return f"""
-{emoji} **Welcome to Safe UserBot!** {emoji}
+{emoji} **Welcome YOUR CRUSH ⟵o_0** {emoji}
 
 🤖 **Bot Name:** {self.bot_info.get('name', 'YOUR CRUSH ⟵o_0')}
 👤 **Your ID:** {user_id}
+🌚 **Your Name** {first_name}
 📅 **Member Since:** {user.get('join_date', 'Today')}
 
 **Available Commands:**
@@ -289,12 +290,13 @@ Developed with ❤️ by RANA
     def format_user_stats(self, stats: dict, user_id: str) -> str:
         """ইউজার স্ট্যাটস ফরম্যাট"""
         user = self.user_manager.get_user(user_id)
+        user = self.user_manager.get_user(first_name)
         
         return f"""
 📊 **YOUR STATISTICS:**
 
 👤 **User ID:** {user_id}
-📛 **Name:** {user.get('name', 'User')}
+📛 **Name:** {first_name}
 
 📈 **Activity:**
 • Total Messages: {stats['total_messages']}
@@ -346,7 +348,7 @@ Keep using the bot for more features! 🚀
 • No need to remember commands
 • Just chat normally!
 
-Developed by RANA with ❤️
+Developed by Rana 💝
 """
     
     async def start_scheduler(self):
@@ -452,7 +454,7 @@ Developed by RANA with ❤️
             
             # রানিং মেসেজ
             log.info("""
-🎉 **SAFE USERBOT IS NOW RUNNING!** 🎉
+🎉 **MAR PD IS NOW RUNNING!** 🎉
 
 📊 **SYSTEM STATUS:**
 • Bot: Online ✅
