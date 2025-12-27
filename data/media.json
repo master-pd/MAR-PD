@@ -29,5 +29,8 @@
     "quote": "💭 \"{message}\"",
     "dua": "🤲 {message}",
     "reminder": "⏰ {message}"
-  }
+  },
+  {
+  "help": "media/photos/help.png"
+ }
 }
