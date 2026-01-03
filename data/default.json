@@ -4466,7 +4466,5 @@
   "matte surface vehicle": ["non-reflective vehicle", "light-absorbing vehicle", "dull finish vehicle"],
   "light-absorbing vehicle": ["non-reflective vehicle", "matte surface vehicle", "dull finish vehicle"],
   "dull finish vehicle": ["non-reflective vehicle", "matte surface vehicle", "light-absorbing vehicle"],
-  "voice": "media/audio/bot.mp3",
-  "bot": "media/audio/bot.wav",
   "defended as": ["protected as", "guarded as", "shielded as", ["stood up for as"], ["supported as"]]
 }
