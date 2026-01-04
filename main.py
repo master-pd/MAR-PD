@@ -10,6 +10,10 @@ Version: 1.0.0
 import asyncio
 import sys
 import os
+import plugins.admin_reminder
+plugins.admin_reminder.setup(client)
+import plugins.welcome_system
+plugins.welcome_system.setup(client)
 from datetime import datetime
 
 # কাস্টম মডিউল ইম্পোর্ট
