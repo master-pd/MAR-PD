@@ -136,7 +136,25 @@ class ConfigManager:
             },
             "events": {},
             "announcements": {}
-        }
+        },
+        "hacking": {
+    "module": "hacking",
+    "enabled": false,
+    "mode": "learning",
+    "permissions": {
+        "admin_only": true,
+        "allowed_users": []
+    },
+    "features": {
+        "scanner": true,
+        "analyzer": false,
+        "logger": true
+    },
+    "limits": {
+        "cooldown_seconds": 60,
+        "daily_limit": 50
+    }
+}
         
         if file_type in default_data:
             file_path = os.path.join(self.data_dir, f"{file_type}.json")
