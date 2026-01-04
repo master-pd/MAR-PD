@@ -75,7 +75,8 @@ class ConfigManager:
             "duas": "duas.json",
             "media": "media.json",
             "events": "events.json",
-            "announcements": "announcements.json"
+            "announcements": "announcements.json",
+            "hacking": "hacking.json"
         }
         
         if file_type in files:
