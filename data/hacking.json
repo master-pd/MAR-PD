@@ -1,1 +1,18 @@
-
+{
+  "module": "hacking",
+  "enabled": true,
+  "mode": "learning",
+  "permissions": {
+    "admin_only": true,
+    "allowed_users": []
+  },
+  "features": {
+    "scanner": true,
+    "analyzer": false,
+    "logger": true
+  },
+  "limits": {
+    "cooldown_seconds": 60,
+    "daily_limit": 50
+  }
+}
