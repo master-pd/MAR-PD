@@ -1,7 +1,7 @@
 {
   "audio": {
     "voice": "media/audio/bot.mp3",
-    "bot": "media/audio/bot.wav",
+    "bot": "media/audio/bot.wav"
   },
   "emojis": [
     "😊", "👍", "❤️", "🤲", "🌙", "☀️", "🌟", "✨", "🎉", "🎂",
