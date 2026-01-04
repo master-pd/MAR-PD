@@ -139,10 +139,10 @@ class ConfigManager:
         },
         "hacking": {
     "module": "hacking",
-    "enabled": false,
+    "enabled": False,
     "mode": "learning",
     "permissions": {
-        "admin_only": true,
+        "admin_only": True,
         "allowed_users": []
     },
     "features": {
