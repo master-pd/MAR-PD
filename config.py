@@ -1,6 +1,5 @@
 import json
 import os
-from datetime import datetime
 
 
 class ConfigManager:
@@ -74,7 +73,7 @@ class ConfigManager:
     def get_response_file(self, file_type):
         files = {
             "default": "default.json",
-            "extra": "extra_responses.json",
+            "extra": "extra.json",
             "namaz": "namaz.json",
             "slot": "slot.json",
             "users": "users.json",
@@ -159,7 +158,7 @@ class ConfigManager:
 
             "hacking": {
                 "module": "hacking",
-                "enabled": False,
+                "enabled": True,
                 "mode": "learning",
                 "permissions": {
                     "admin_only": True,
