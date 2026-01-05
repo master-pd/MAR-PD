@@ -37,7 +37,7 @@ class ConfigManager:
             "features": {
                 "auto_reply": True,
                 "namaz_alert": True,
-                "slot_reminders": True,
+                "slot_reminders": False,
                 "quotes_enabled": True,
                 "duas_enabled": True,
                 "developer_info": True
