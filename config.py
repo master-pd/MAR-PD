@@ -19,6 +19,20 @@ class ConfigManager:
     # CONFIG.JSON HANDLING
     # ===============================
 
+    def is_valid_config(self):
+    try:
+        api_id = self.config["telegram"]["api_id"]
+        api_hash = self.config["telegram"]["api_hash"]
+
+        if not api_id or not api_hash:
+            print("❌ Telegram API credentials missing")
+            return False
+
+        return True
+    except KeyError:
+        print("❌ Telegram config section missing")
+        return False
+
     def _load_config(self):
         """JSON থেকে কনফিগারেশন লোড"""
         default_config = {
