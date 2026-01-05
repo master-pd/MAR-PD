@@ -9,32 +9,36 @@ class ConfigManager:
         self.data_dir = os.path.join(self.base_dir, "data")
         self.config_file = os.path.join(self.data_dir, "config.json")
 
-        # Create data directory if not exists
+        # Ensure data directory exists
         os.makedirs(self.data_dir, exist_ok=True)
 
-        # Load config
+        # Load configuration
         self.config = self._load_config()
 
-    # ===============================
-    # CONFIG.JSON HANDLING
-    # ===============================
+    # ==================================
+    # CONFIG VALIDATION
+    # ==================================
 
     def is_valid_config(self):
-    try:
-        api_id = self.config["telegram"]["api_id"]
-        api_hash = self.config["telegram"]["api_hash"]
+        try:
+            telegram = self.config.get("telegram", {})
+            api_id = telegram.get("api_id")
+            api_hash = telegram.get("api_hash")
 
-        if not api_id or not api_hash:
-            print("❌ Telegram API credentials missing")
+            if not api_id or not api_hash:
+                print("❌ Telegram API credentials missing")
+                return False
+
+            return True
+        except Exception as e:
+            print(f"❌ Config validation failed: {e}")
             return False
 
-        return True
-    except KeyError:
-        print("❌ Telegram config section missing")
-        return False
+    # ==================================
+    # CONFIG.JSON HANDLING
+    # ==================================
 
     def _load_config(self):
-        """JSON থেকে কনফিগারেশন লোড"""
         default_config = {
             "bot_info": {
                 "name": "YOUR CRUSH ⟵o_0",
@@ -67,7 +71,7 @@ class ConfigManager:
                 with open(self.config_file, "r", encoding="utf-8") as f:
                     return json.load(f)
             except Exception:
-                print("[CONFIG] Corrupted config.json, recreating...")
+                print("[CONFIG] Corrupted config.json detected, recreating...")
                 return self._create_default_config(default_config)
         else:
             return self._create_default_config(default_config)
@@ -80,9 +84,9 @@ class ConfigManager:
         with open(self.config_file, "w", encoding="utf-8") as f:
             json.dump(config, f, indent=4, ensure_ascii=False)
 
-    # ===============================
+    # ==================================
     # RESPONSE FILE HANDLING
-    # ===============================
+    # ==================================
 
     def get_response_file(self, file_type):
         files = {
@@ -104,11 +108,12 @@ class ConfigManager:
             if not os.path.exists(file_path):
                 self.create_default_json(file_type)
             return file_path
+
         return None
 
-    # ===============================
+    # ==================================
     # DEFAULT JSON CREATOR
-    # ===============================
+    # ==================================
 
     def create_default_json(self, file_type):
         default_data = {
@@ -119,12 +124,10 @@ class ConfigManager:
                     "All good by Allah's grace!"
                 ]
             },
-
             "extra": {
                 "good morning": ["Good morning 🌞", "Morning! 😴"],
                 "good night": ["Good night 🌙", "Sleep tight 🌟"]
             },
-
             "namaz": {
                 "Fajr": "05:00",
                 "Dhuhr": "12:30",
@@ -132,7 +135,6 @@ class ConfigManager:
                 "Maghrib": "18:20",
                 "Isha": "19:40"
             },
-
             "slot": {
                 "slots": [
                     {
@@ -145,31 +147,25 @@ class ConfigManager:
                     }
                 ]
             },
-
             "users": {},
-
             "quotes": {
                 "quotes": [
                     "The best among you are those who have the best manners.",
                     "Patience is the key to success."
                 ]
             },
-
             "duas": {
                 "duas": [
                     "O Allah, guide me to the straight path.",
                     "Grant me patience and strength."
                 ]
             },
-
             "media": {
                 "emojis": ["😊", "👍", "❤️", "🤲", "🌙", "☀️"],
                 "stickers": []
             },
-
             "events": {},
             "announcements": {},
-
             "hacking": {
                 "module": "hacking",
                 "enabled": True,
@@ -195,12 +191,10 @@ class ConfigManager:
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(default_data[file_type], f, indent=4, ensure_ascii=False)
 
-    # ===============================
-    # TELEGRAM CREDS
-    # ===============================
+    # ==================================
+    # TELEGRAM CREDENTIALS
+    # ==================================
 
     def get_telegram_creds(self):
-        return (
-            self.config["telegram"]["api_id"],
-            self.config["telegram"]["api_hash"]
-        )
+        telegram = self.config.get("telegram", {})
+        return telegram.get("api_id"), telegram.get("api_hash")
