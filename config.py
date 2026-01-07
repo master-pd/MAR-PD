@@ -15,6 +15,10 @@ class ConfigManager:
         # Load configuration
         self.config = self._load_config()
 
+        # master.json path
+    def get_master_file(self):
+        return os.path.join(self.base_path, 'master.json')
+        
     # ==================================
     # CONFIG VALIDATION
     # ==================================
