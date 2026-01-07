@@ -1,12 +1,6 @@
 {
-  "files": [
-    "age.json",
-    "love.json",
-    "funny.json"
-  ],
-  "responses": {
-    "start": "Welcome to Safe UserBot!",
-    "help": "Use /help to see all commands",
-    "no_permission": "❌ You do not have permission for this action!"
-  }
+  "hello": ["Hello! 👋", "Hi there! 😊", "Assalamu Alaikum! 🤲"],
+  "bye": ["Goodbye! 👋", "See you later! 😊", "Take care! 🤲"],
+  "thanks": ["You're welcome! 😊", "No problem! 👍", "Anytime! 😄"],
+  "how are you": ["I'm fine, thank you! How about you?", "Doing great! 😎", "All good! ✅"]
 }
