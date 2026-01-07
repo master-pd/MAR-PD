@@ -1,11 +1,12 @@
 {
-  "response_files": [
-    "default",
-    "extra",
-    "quotes",
-    "duas",
-    "media",
-    "events",
-    "announcements"
-  ]
+    "responses": [
+        "default.json",
+        "extra.json",
+        "quotes.json",
+        "duas.json",
+        "media.json",
+        "events.json",
+        "announcements.json",
+        "hacking.json"
+    ]
 }
