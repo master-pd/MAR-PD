@@ -1,8 +1,12 @@
 {
-  "response_files": [
-    "normal.json",
+  "files": [
     "age.json",
     "love.json",
     "funny.json"
-  ]
+  ],
+  "responses": {
+    "start": "Welcome to Safe UserBot!",
+    "help": "Use /help to see all commands",
+    "no_permission": "❌ You do not have permission for this action!"
+  }
 }
