@@ -8,8 +8,8 @@ class SlotManager:
         self.slots_file = self.config.get_response_file("slot")
         self.slots = self.load_slots()
 
-    def get_active_slots(self):
-        return self.slots
+    #def get_active_slots(self):
+       # return self.slots
         
     def load_slots(self) -> List[Dict]:
         """স্লট লোড"""
