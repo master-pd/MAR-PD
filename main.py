@@ -176,10 +176,9 @@ class SafeUserBot:
         return f"""
 {emoji} **Welcome to Safe UserBot!** {emoji}
 
-🤖 **Bot Name:** {self.bot_info.get('name', 'YOUR CRUSH ⟵o_0')}
-👤 **Your ID:** {user_id}
-💌 **Name:** {first_name}
-📅 **Member Since:** {user.get('join_date', 'Today')}
+🙈 **Bot Name:** {self.bot_info.get('name', 'YOUR CRUSH ⟵o_0')}
+💌 **Your ID:** {user_id}
+😃 **Member Since:** {user.get('join_date', 'Today')}
 
 **Available Commands:**
 • `namaz` - Prayer times
@@ -197,7 +196,7 @@ class SafeUserBot:
 • Chat box : https://t.me/+_F4jBwQ4M64wZGNl
 
 
-Developed with ❤️ by RANA
+Developed by RANA
 """
 
     # =========================
