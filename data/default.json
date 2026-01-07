@@ -1,6 +1,6 @@
 {
   "response_files": [
-    "default.json",
+    "normal.json",
     "age.json",
     "love.json",
     "funny.json"
