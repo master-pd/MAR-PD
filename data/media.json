@@ -32,9 +32,7 @@
     "info": "ℹ️ {message} ℹ️",
     "quote": "💭 \"{message}\"",
     "dua": "🤲 {message}",
-    "reminder": "⏰ {message}"
-  },
-  {
-  "help": "media/photos/help.png"
- }
+    "reminder": "⏰ {message}",
+    "help": "media/photos/help.png"
+  }
 }
