@@ -19,7 +19,12 @@ class ConfigManager:
     # ==================================
     def get_master_file(self):
         """Return path to master.json"""
-        return os.path.join(self.data_dir, 'master.json')
+        master_path = os.path.join(self.data_dir, 'master.json')
+        if not os.path.exists(master_path):
+            # create empty master.json if missing
+            with open(master_path, "w", encoding="utf-8") as f:
+                json.dump([], f, indent=4, ensure_ascii=False)
+        return master_path
 
     # ==================================
     # RESPONSE FILES
@@ -155,6 +160,25 @@ class ConfigManager:
     def _save_config(self, config):
         with open(self.config_file, "w", encoding="utf-8") as f:
             json.dump(config, f, indent=4, ensure_ascii=False)
+
+    # ==================================
+    # CONFIG VALIDATION
+    # ==================================
+    def is_valid_config(self):
+        """Check Telegram API credentials"""
+        try:
+            telegram = self.config.get("telegram", {})
+            api_id = telegram.get("api_id")
+            api_hash = telegram.get("api_hash")
+
+            if not api_id or not api_hash:
+                print("❌ Telegram API credentials missing")
+                return False
+
+            return True
+        except Exception as e:
+            print(f"❌ Config validation failed: {e}")
+            return False
 
     # ==================================
     # TELEGRAM CREDENTIALS
