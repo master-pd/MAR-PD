@@ -178,6 +178,7 @@ class SafeUserBot:
 
 🤖 **Bot Name:** {self.bot_info.get('name', 'YOUR CRUSH ⟵o_0')}
 👤 **Your ID:** {user_id}
+💌 **Name:** {first_name}
 📅 **Member Since:** {user.get('join_date', 'Today')}
 
 **Available Commands:**
@@ -186,6 +187,15 @@ class SafeUserBot:
 • `dua` - Daily duas
 • `my stats` - Your statistics
 • `help` - All commands
+• `developer` - Bot owner info 
+
+**Available package:**
+• Normal bot: - @black_lovers1_bot
+• Editing: https://t.me/master_editz_team
+• Adult: https://t.me/+oOGhfUxEzhozMTg1
+• Photo Gelary: https://t.me/+V9XzZZEgu9MwM2Y9
+• Chat box : https://t.me/+_F4jBwQ4M64wZGNl
+
 
 Developed with ❤️ by RANA
 """
