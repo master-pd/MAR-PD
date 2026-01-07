@@ -1,34 +1,8 @@
 {
-  "hi": [
-    "Hi 😊",
-    "Hello 👋",
-    "Hey! How are you?"
-  ],
-
-  "hello": [
-    "Hello there 👋",
-    "Hi! Nice to see you 😊"
-  ],
-
-  "how are you": [
-    "I'm fine 😊 What about you?",
-    "Doing great! 💫"
-  ],
-
-  "age": [
-    "Age is just a number 😄",
-    "I don't focus on age 😉",
-    "Guess my age 😜"
-  ],
-
-  "love": [
-    "Love is beautiful ❤️",
-    "Love makes life meaningful 💖"
-  ],
-
-  "bye": [
-    "Goodbye 👋",
-    "Take care 😊",
-    "See you again 🌸"
+  "response_files": [
+    "default.json",
+    "age.json",
+    "love.json",
+    "funny.json"
   ]
 }
