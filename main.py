@@ -174,9 +174,9 @@ class SafeUserBot:
         user = self.user_manager.get_user(user_id)
         emoji = self.media_handler.get_emoji()
         return f"""
-{emoji} **Welcome to Safe UserBot!** {emoji}
+{emoji} **Welcome To 𝗬𝗢𝗨𝗥 𝗖𝗥𝗨𝗦𝗛 ⟵𝗼_𝟬** {emoji}
 
-🙈 **Bot Name:** {self.bot_info.get('name', 'YOUR CRUSH ⟵o_0')}
+🙈 **Bot Name:** {self.bot_info.get('name', '𝗬𝗢𝗨𝗥 𝗖𝗥𝗨𝗦𝗛 ⟵𝗼_𝟬')}
 💌 **Your ID:** {user_id}
 😃 **Member Since:** {user.get('join_date', 'Today')}
 
