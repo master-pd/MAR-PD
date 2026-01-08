@@ -7,6 +7,7 @@
         "media.json",
         "events.json",
         "announcements.json",
-        "hacking.json"
+        "hacking.json",
+        "love.json"
     ]
 }
