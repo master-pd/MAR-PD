@@ -1,0 +1,10167 @@
+{
+  "absolutely": [
+    "Positively! ✨",
+    "Without a doubt! 💫",
+    "Certainly! ✅"
+  ],
+  "accept": [
+    "I accept. 🤝",
+    "Taken into account. 📥",
+    "Received with thanks. 🙏"
+  ],
+  "access": [
+    "Access granted. 🔓",
+    "You may proceed. 🟢",
+    "Entry approved. ✅"
+  ],
+  "accomplish": [
+    "Mission accomplished! 🎯",
+    "Task completed. ✅",
+    "Achievement unlocked! 🏆"
+  ],
+  "accurate": [
+    "Precision noted. 🎯",
+    "Correct and exact. ✔️",
+    "Spot on! ✅"
+  ],
+  "achieve": [
+    "Goal reached! 🏁",
+    "Successfully done! ✨",
+    "Milestone achieved! 🎉"
+  ],
+  "acknowledge": [
+    "Acknowledged. 📨",
+    "Noted with thanks. 📝",
+    "Message received. 📬"
+  ],
+  "acquire": [
+    "Successfully obtained. 🛒",
+    "Item acquired. 📦",
+    "Now in possession. ✅"
+  ],
+  "activate": [
+    "System activated. 🔛",
+    "Now operational. ⚙️",
+    "Function enabled. 🟢"
+  ],
+  "adapt": [
+    "Adjusted accordingly. 🔄",
+    "Successfully adapted. 🌱",
+    "Modified to fit. ✂️"
+  ],
+  "add": [
+    "Added successfully. ➕",
+    "Included. 📥",
+    "Appended. 📎"
+  ],
+  "address": [
+    "Topic addressed. 🎯",
+    "Issue noted. 📌",
+    "Point taken. ✅"
+  ],
+  "adjust": [
+    "Settings adjusted. ⚙️",
+    "Fine-tuned. 🎛️",
+    "Calibrated. 🔧"
+  ],
+  "admire": [
+    "Much appreciated! 🌟",
+    "Respectfully noted. 🙌",
+    "Highly regarded. ✨"
+  ],
+  "admit": [
+    "Admission accepted. ✅",
+    "Truth acknowledged. 💎",
+    "Point conceded. 🤝"
+  ],
+  "advance": [
+    "Moving forward. 🚶",
+    "Progressing. 📈",
+    "Advancing. 🔼"
+  ],
+  "advice": [
+    "Guidance provided. 💡",
+    "Suggestions offered. 🗨️",
+    "Recommendations shared. 📋"
+  ],
+  "affirm": [
+    "Affirmed. ✅",
+    "Confirmed positively. ✔️",
+    "Stated with certainty. 💯"
+  ],
+  "afford": [
+    "Made possible. 🤲",
+    "Within reach. 🎯",
+    "Accessible. 🔓"
+  ],
+  "afraid": [
+    "Fear acknowledged. 😨",
+    "Concern noted. ⚠️",
+    "Apprehension understood. 🫣"
+  ],
+  "after": [
+    "Following that. ⏭️",
+    "Subsequently. 🔄",
+    "In succession. 📆"
+  ],
+  "again": [
+    "Once more. 🔁",
+    "Repeated. ↩️",
+    "Another time. 🔄"
+  ],
+  "against": [
+    "In opposition. ⚔️",
+    "Contrary to. 🔀",
+    "Opposing. 🛡️"
+  ],
+  "age": [
+    "Time's passage. ⌛",
+    "Years counted. 📅",
+    "Chronological note. 🎂"
+  ],
+  "agent": [
+    "Representative ready. 🤵",
+    "Acting on behalf. 📋",
+    "Delegate active. 🕴️"
+  ],
+  "agree": [
+    "In agreement. 🤝",
+    "Harmonious opinion. 🎵",
+    "Mutual consent. ✅"
+  ],
+  "ahead": [
+    "Moving forward. 🚀",
+    "Progressive path. 🛣️",
+    "Future directed. 🔮"
+  ],
+  "aim": [
+    "Target set. 🎯",
+    "Objective defined. 📍",
+    "Goal established. 🥅"
+  ],
+  "air": [
+    "Atmosphere present. 💨",
+    "Breathable space. 🌬️",
+    "Open air. 🌤️"
+  ],
+  "alarm": [
+    "Alert triggered. 🚨",
+    "Warning issued. ⚠️",
+    "Notification sent. 📢"
+  ],
+  "album": [
+    "Collection compiled. 📔",
+    "Memory archive. 🖼️",
+    "Gallery formed. 🎨"
+  ],
+  "alert": [
+    "Attention requested. 👁️",
+    "Vigilance advised. 🧐",
+    "Heads up! ⚠️"
+  ],
+  "alive": [
+    "Vitality confirmed. 💓",
+    "Living state. 🌱",
+    "Active existence. ✨"
+  ],
+  "all": [
+    "Complete set. 🧮",
+    "Total entirety. 💯",
+    "Everything included. 🌐"
+  ],
+  "allow": [
+    "Permission granted. ✅",
+    "Access permitted. 🟢",
+    "Authorization approved. 🎫"
+  ],
+  "almost": [
+    "Nearly there. 🎯",
+    "Approximately done. 📏",
+    "On the verge. ⚖️"
+  ],
+  "alone": [
+    "Solo status. 🧍",
+    "Unaccompanied. 🌌",
+    "Singular presence. ✨"
+  ],
+  "along": [
+    "Accompanying. 🤝",
+    "Parallel path. ➡️",
+    "Together with. 👥"
+  ],
+  "already": [
+    "Previously done. ⏪",
+    "Prior completion. ✅",
+    "Earlier accomplished. 🕐"
+  ],
+  "also": [
+    "Additionally. ➕",
+    "Likewise. 🔄",
+    "Included too. ✔️"
+  ],
+  "alter": [
+    "Modified. 🔄",
+    "Changed aspect. ♻️",
+    "Adjusted form. ✂️"
+  ],
+  "always": [
+    "Perpetually. ♾️",
+    "Constantly. 🔄",
+    "Without exception. ✅"
+  ],
+  "amaze": [
+    "Impressive! 🤩",
+    "Astonishing! ✨",
+    "Wonder-filled! 🌟"
+  ],
+  "ambition": [
+    "Goal-oriented. 🎯",
+    "Aspiring drive. 🚀",
+    "Purposeful aim. 📍"
+  ],
+  "amount": [
+    "Quantity measured. 📊",
+    "Total sum. 🧮",
+    "Volume counted. 🔢"
+  ],
+  "amuse": [
+    "Entertainment provided. 🎭",
+    "Enjoyment delivered. 😄",
+    "Delight created. ✨"
+  ],
+  "analyze": [
+    "Examination done. 🔍",
+    "Study completed. 📊",
+    "Assessment finished. 📈"
+  ],
+  "anchor": [
+    "Secure point. ⚓",
+    "Stable base. 🏗️",
+    "Fixed position. 📍"
+  ],
+  "ancient": [
+    "Historically deep. 🏛️",
+    "Age-old. 🕰️",
+    "Timeless. ⌛"
+  ],
+  "anger": [
+    "Fury noted. 😠",
+    "Irritation seen. 💢",
+    "Rage acknowledged. 🌋"
+  ],
+  "angle": [
+    "Perspective taken. 📐",
+    "Viewpoint set. 👁️",
+    "Direction angled. ↗️"
+  ],
+  "angry": [
+    "Emotion heated. 🔥",
+    "Upset state. 😤",
+    "Frustration high. 💥"
+  ],
+  "animal": [
+    "Creature observed. 🐾",
+    "Being recognized. 🦁",
+    "Living organism. 🌿"
+  ],
+  "announce": [
+    "Declaration made. 📢",
+    "Public statement. 🗣️",
+    "Formal notice. 📜"
+  ],
+  "annual": [
+    "Yearly occurrence. 📅",
+    "Once per year. 🗓️",
+    "Annual event. 🎊"
+  ],
+  "another": [
+    "Additional one. ➕",
+    "Extra unit. 🆕",
+    "Different item. 🔄"
+  ],
+  "answer": [
+    "Response given. 💬",
+    "Reply provided. ✅",
+    "Solution offered. 🔑"
+  ],
+  "antique": [
+    "Vintage item. 🕰️",
+    "Historical piece. 🏺",
+    "Classic artifact. 🖼️"
+  ],
+  "anxiety": [
+    "Worry sensed. 😟",
+    "Nervous energy. 🫠",
+    "Unease noted. 🌫️"
+  ],
+  "any": [
+    "Whichever applicable. 🔀",
+    "Indefinite selection. ❔",
+    "Possible option. 💭"
+  ],
+  "apart": [
+    "Separated. ➖",
+    "Divided. 🔀",
+    "Distant. 🌌"
+  ],
+  "apology": [
+    "Regret expressed. 🙇",
+    "Sorry stated. 😔",
+    "Remorse shown. 🫂"
+  ],
+  "appear": [
+    "Become visible. 👁️",
+    "Show presence. ✨",
+    "Manifest. 🪄"
+  ],
+  "apple": [
+    "Fruit noted. 🍎",
+    "Healthy snack. 🍏",
+    "Fresh produce. 🌳"
+  ],
+  "apply": [
+    "Implementation done. 🛠️",
+    "Put to use. ✅",
+    "Utilization. 🔧"
+  ],
+  "appoint": [
+    "Designated role. 🎯",
+    "Assigned position. 📋",
+    "Official selection. 🤝"
+  ],
+  "approach": [
+    "Method adopted. 🛤️",
+    "Coming closer. 👣",
+    "Strategy taken. 🧭"
+  ],
+  "approve": [
+    "Authorization given. ✅",
+    "Endorsement made. 👍",
+    "Formal consent. 🖊️"
+  ],
+  "April": [
+    "Fourth month. 🌸",
+    "Spring period. 🐦",
+    "April time. 📅"
+  ],
+  "area": [
+    "Region defined. 🗺️",
+    "Space measured. 📏",
+    "Zone marked. 🏞️"
+  ],
+  "argue": [
+    "Debate engaged. 🗣️",
+    "Discussion held. 💬",
+    "Point contested. ⚔️"
+  ],
+  "arise": [
+    "Emergence noted. 🌅",
+    "Coming up. ⬆️",
+    "Origination. 🌱"
+  ],
+  "arm": [
+    "Limb recognized. 💪",
+    "Body part. 🦾",
+    "Extension. 🖐️"
+  ],
+  "army": [
+    "Military force. ⚔️",
+    "Troop group. 🪖",
+    "Defense unit. 🛡️"
+  ],
+  "around": [
+    "Surrounding. 🔄",
+    "Circular motion. ⭕",
+    "Approximate area. 📍"
+  ],
+  "arrange": [
+    "Organization done. 🗂️",
+    "Order established. 📋",
+    "Setup completed. 🛠️"
+  ],
+  "arrest": [
+    "Detention made. 🚓",
+    "Stopped movement. 🛑",
+    "Legal hold. ⚖️"
+  ],
+  "arrive": [
+    "Destination reached. 🏁",
+    "Successful arrival. ✅",
+    "Here now. 📍"
+  ],
+  "art": [
+    "Creative work. 🎨",
+    "Expression shown. 🖼️",
+    "Aesthetic piece. ✨"
+  ],
+  "article": [
+    "Written piece. 📰",
+    "Publication item. 📄",
+    "Informative text. 📑"
+  ],
+  "artist": [
+    "Creator recognized. 🧑‍🎨",
+    "Creative person. 🎭",
+    "Art maker. ✨"
+  ],
+  "as": [
+    "In role of. 🎭",
+    "Similar to. 🔄",
+    "Functioning as. ⚙️"
+  ],
+  "ask": [
+    "Question posed. ❓",
+    "Inquiry made. 🤔",
+    "Request stated. 🙏"
+  ],
+  "aspect": [
+    "Facet considered. 💎",
+    "Element viewed. 🔍",
+    "Feature seen. 👁️"
+  ],
+  "assist": [
+    "Help provided. 🤲",
+    "Support given. 🫂",
+    "Aid delivered. 🆘"
+  ],
+  "assume": [
+    "Presumption made. 💭",
+    "Taken as true. ✅",
+    "Hypothesis set. 🧪"
+  ],
+  "assure": [
+    "Confirmation given. ✅",
+    "Promise made. 🤝",
+    "Guarantee offered. 🛡️"
+  ],
+  "at": [
+    "Location specified. 📍",
+    "Position noted. 🎯",
+    "Point defined. 🔘"
+  ],
+  "athlete": [
+    "Sports person. 🏃‍♂️",
+    "Physical competitor. 🏆",
+    "Trained performer. 💪"
+  ],
+  "attach": [
+    "Connection made. 📎",
+    "Joined together. 🔗",
+    "Linked item. ⛓️"
+  ],
+  "attack": [
+    "Offensive action. ⚔️",
+    "Strike launched. 🔥",
+    "Aggression shown. 🛡️"
+  ],
+  "attempt": [
+    "Effort made. 💪",
+    "Trial executed. 🧪",
+    "Endeavor tried. 🎯"
+  ],
+  "attend": [
+    "Presence marked. ✅",
+    "Participation noted. 👥",
+    "Being present. 🪑"
+  ],
+  "attract": [
+    "Draw attention. ✨",
+    "Pull towards. 🧲",
+    "Appeal generated. 💫"
+  ],
+  "auction": [
+    "Bidding event. 🏷️",
+    "Sale process. 🤝",
+    "Price competition. 💰"
+  ],
+  "audience": [
+    "Viewers present. 👁️",
+    "Listeners gathered. 🎧",
+    "Spectator group. 👥"
+  ],
+  "August": [
+    "Eighth month. ☀️",
+    "Summer period. 🏖️",
+    "August days. 📅"
+  ],
+  "aunt": [
+    "Family relative. 👩",
+    "Parent's sister. 🌳",
+    "Kinship figure. 💕"
+  ],
+  "author": [
+    "Writer credited. ✍️",
+    "Creator named. 📖",
+    "Originator. 🧠"
+  ],
+  "auto": [
+    "Automatic mode. 🤖",
+    "Self-operating. ⚙️",
+    "Vehicle type. 🚗"
+  ],
+  "autumn": [
+    "Fall season. 🍂",
+    "Harvest time. 🍎",
+    "Cooling period. 🌥️"
+  ],
+  "available": [
+    "Accessible now. 🟢",
+    "Ready for use. ✅",
+    "Obtainable. 📦"
+  ],
+  "average": [
+    "Median value. 📊",
+    "Standard measure. ⚖️",
+    "Typical amount. 🔢"
+  ],
+  "avoid": [
+    "Evasion successful. 🚫",
+    "Steered clear. 🧭",
+    "Prevention done. 🛡️"
+  ],
+  "awake": [
+    "Conscious state. 👁️",
+    "Fully alert. 🧠",
+    "Not sleeping. 🌅"
+  ],
+  "award": [
+    "Prize given. 🏆",
+    "Honor bestowed. 🎖️",
+    "Recognition awarded. ✨"
+  ],
+  "aware": [
+    "Knowledge present. 🧠",
+    "Consciousness noted. 👁️",
+    "Informed state. 📚"
+  ],
+  "away": [
+    "Distant location. 🌌",
+    "Not present. 🚶",
+    "Remote position. 📍"
+  ],
+  "awesome": [
+    "Extremely impressive! 🤩",
+    "Remarkable! ✨",
+    "Fantastic! 🎉"
+  ],
+  "awful": [
+    "Highly unpleasant. 😨",
+    "Terrible state. 💀",
+    "Dreadful. 🌧️"
+  ],
+  "baby": [
+    "Infant stage. 👶",
+    "Newborn. 🌟",
+    "Little one. 💕"
+  ],
+  "back": [
+    "Rear position. ↩️",
+    "Return direction. 🔙",
+    "Supportive. 🫂"
+  ],
+  "background": [
+    "Context provided. 🖼️",
+    "Behind scene. 🌌",
+    "Historical basis. 📜"
+  ],
+  "bad": [
+    "Negative quality. 👎",
+    "Poor condition. 💔",
+    "Undesirable. 🚫"
+  ],
+  "bag": [
+    "Container item. 🛍️",
+    "Carrying case. 🎒",
+    "Storage sack. 📦"
+  ],
+  "balance": [
+    "Equilibrium achieved. ⚖️",
+    "Stable state. 🧘",
+    "Harmonized. 🎵"
+  ],
+  "ball": [
+    "Spherical object. ⚽",
+    "Round item. 🏀",
+    "Play object. 🎾"
+  ],
+  "banana": [
+    "Fruit type. 🍌",
+    "Yellow snack. 💛",
+    "Tropical produce. 🌴"
+  ],
+  "band": [
+    "Group formed. 👥",
+    "Musical team. 🎸",
+    "Stripe pattern. 🎗️"
+  ],
+  "bank": [
+    "Financial institution. 🏦",
+    "River edge. 🌊",
+    "Storage place. 💰"
+  ],
+  "bar": [
+    "Rod shape. 🍫",
+    "Establishment. 🍻",
+    "Obstacle. 🚧"
+  ],
+  "base": [
+    "Foundation set. 🏗️",
+    "Starting point. 🎯",
+    "Fundamental. 📍"
+  ],
+  "basic": [
+    "Fundamental level. 🔰",
+    "Simple form. ⭕",
+    "Essential. ✅"
+  ],
+  "basket": [
+    "Container woven. 🧺",
+    "Carrying holder. 🛒",
+    "Collection vessel. 🍎"
+  ],
+  "bath": [
+    "Cleaning process. 🛁",
+    "Water immersion. 💦",
+    "Relaxation time. 🧼"
+  ],
+  "battle": [
+    "Combat engaged. ⚔️",
+    "Conflict fought. 🛡️",
+    "Struggle. 🔥"
+  ],
+  "beach": [
+    "Sandy shore. 🏖️",
+    "Coastal area. 🌊",
+    "Ocean edge. 🏝️"
+  ],
+  "bear": [
+    "Animal type. 🐻",
+    "Carry weight. 🏋️",
+    "Endure. 💪"
+  ],
+  "beat": [
+    "Rhythm tapped. 🥁",
+    "Defeat opponent. 👊",
+    "Pulsation. 💓"
+  ],
+  "beauty": [
+    "Aesthetic quality. ✨",
+    "Visual appeal. 🌸",
+    "Grace noted. 🦢"
+  ],
+  "because": [
+    "Reason given. 🧠",
+    "Causation stated. ⚙️",
+    "Explanation. 💡"
+  ],
+  "become": [
+    "Transform into. 🔄",
+    "Evolution occurred. 🐛",
+    "Turn to. ✨"
+  ],
+  "bed": [
+    "Sleeping place. 🛏️",
+    "Rest area. 💤",
+    "Furniture piece. 🏠"
+  ],
+  "bee": [
+    "Insect flying. 🐝",
+    "Pollinator. 🌻",
+    "Honey maker. 🍯"
+  ],
+  "beef": [
+    "Meat type. 🥩",
+    "Protein source. 💪",
+    "Food item. 🍽️"
+  ],
+  "beer": [
+    "Beverage type. 🍺",
+    "Fermented drink. 🍻",
+    "Social drink. 🥂"
+  ],
+  "before": [
+    "Prior time. ⏪",
+    "Earlier than. 🕐",
+    "Preceding. 🔙"
+  ],
+  "begin": [
+    "Start initiated. 🚀",
+    "Commencement. 🎬",
+    "Opening move. 🎯"
+  ],
+  "behave": [
+    "Conduct shown. 🧍",
+    "Act appropriately. ✅",
+    "Manner displayed. 🎭"
+  ],
+  "behind": [
+    "Rear position. ↩️",
+    "Following after. 🐌",
+    "Supportive back. 🫂"
+  ],
+  "believe": [
+    "Faith held. 🙏",
+    "Trust placed. 🤝",
+    "Accept as true. ✅"
+  ],
+  "bell": [
+    "Ringing object. 🔔",
+    "Sound maker. 🔊",
+    "Signal device. ⏰"
+  ],
+  "belong": [
+    "Ownership claimed. 🏷️",
+    "Part of group. 👥",
+    "Appropriate place. 📍"
+  ],
+  "below": [
+    "Under position. ⬇️",
+    "Lower than. 🔽",
+    "Beneath. 🪨"
+  ],
+  "belt": [
+    "Clothing accessory. 🛡️",
+    "Fastening strip. ⚙️",
+    "Support band. 💪"
+  ],
+  "bench": [
+    "Seating furniture. 🪑",
+    "Long seat. 🏞️",
+    "Work table. 🛠️"
+  ],
+  "bend": [
+    "Curve formed. ↩️",
+    "Flex action. 🏹",
+    "Angle change. 📐"
+  ],
+  "benefit": [
+    "Advantage gained. 🎁",
+    "Positive outcome. ✅",
+    "Useful result. 💡"
+  ],
+  "beside": [
+    "Next to. ➡️",
+    "Adjacent position. 👥",
+    "Alongside. 🚶"
+  ],
+  "best": [
+    "Top quality. 🥇",
+    "Finest level. 💎",
+    "Optimal choice. ✅"
+  ],
+  "bet": [
+    "Wager placed. 💰",
+    "Risk taken. 🎲",
+    "Confident guess. 💭"
+  ],
+  "better": [
+    "Improved state. 📈",
+    "Superior quality. ⬆️",
+    "Enhanced. ✨"
+  ],
+  "between": [
+    "Middle position. ⚖️",
+    "Intermediary. 🔀",
+    "Among two. 👥"
+  ],
+  "beyond": [
+    "Exceeding limits. 🚀",
+    "Past boundary. 🌌",
+    "Further than. 🔮"
+  ],
+  "bicycle": [
+    "Two-wheeled vehicle. 🚲",
+    "Pedal-powered. 👣",
+    "Cycle type. 🛣️"
+  ],
+  "big": [
+    "Large size. 🐘",
+    "Considerable scale. 🌍",
+    "Substantial. 🏔️"
+  ],
+  "bill": [
+    "Invoice presented. 🧾",
+    "Payment request. 💵",
+    "Legislation. 📜"
+  ],
+  "bird": [
+    "Feathered creature. 🐦",
+    "Flying animal. 🕊️",
+    "Avian species. 🌳"
+  ],
+  "birth": [
+    "Beginning of life. 👶",
+    "Emergence. 🌟",
+    "Nativity. ✨"
+  ],
+  "bit": [
+    "Small amount. 🔹",
+    "Tiny piece. 💎",
+    "Fragment. 🧩"
+  ],
+  "bite": [
+    "Chewing action. 🦷",
+    "Small meal. 🍎",
+    "Insect sting. 🐜"
+  ],
+  "black": [
+    "Color shade. ⚫",
+    "Dark tone. 🌑",
+    "Absence of light. 🕶️"
+  ],
+  "blade": [
+    "Sharp edge. 🔪",
+    "Cutting tool. ⚔️",
+    "Knife part. 🗡️"
+  ],
+  "blame": [
+    "Responsibility assigned. 👆",
+    "Fault attributed. ⚠️",
+    "Accusation made. 🗣️"
+  ],
+  "blank": [
+    "Empty space. ⬜",
+    "Without content. 🚫",
+    "Clean slate. 🪞"
+  ],
+  "bless": [
+    "Divine favor. 🙏",
+    "Bestow good. ✨",
+    "Grace given. 💫"
+  ],
+  "blind": [
+    "Vision absent. 🕶️",
+    "Sightless. 👁️",
+    "Unable to see. 🌑"
+  ],
+  "block": [
+    "Obstruction placed. 🧱",
+    "Prevent movement. 🚫",
+    "Cube shape. ⬛"
+  ],
+  "blood": [
+    "Life fluid. 💉",
+    "Circulating red. ❤️",
+    "Vital liquid. 🩸"
+  ],
+  "blow": [
+    "Air movement. 💨",
+    "Strike delivered. 👊",
+    "Wind action. 🌬️"
+  ],
+  "blue": [
+    "Color tone. 🔵",
+    "Sky hue. 🌤️",
+    "Ocean shade. 🌊"
+  ],
+  "board": [
+    "Flat surface. 🛹",
+    "Plank material. 🏗️",
+    "Decision group. 👥"
+  ],
+  "boat": [
+    "Water vessel. 🚤",
+    "Small ship. ⛵",
+    "Maritime transport. 🌊"
+  ],
+  "body": [
+    "Physical form. 🧍",
+    "Organism structure. 💪",
+    "Corporal entity. 🌟"
+  ],
+  "boil": [
+    "Heated liquid. ♨️",
+    "Bubbling state. 🫧",
+    "Cooking process. 🍲"
+  ],
+  "bold": [
+    "Courageous act. 💪",
+    "Daring move. 🚀",
+    "Confident style. ✨"
+  ],
+  "bone": [
+    "Skeletal part. 🦴",
+    "Body framework. 🏗️",
+    "Hard tissue. 💀"
+  ],
+  "book": [
+    "Bound pages. 📖",
+    "Reading material. 📚",
+    "Published work. ✍️"
+  ],
+  "boost": [
+    "Increase given. 📈",
+    "Enhancement. ⬆️",
+    "Energy lift. 🔋"
+  ],
+  "border": [
+    "Edge line. 🚧",
+    "Boundary set. 🗺️",
+    "Frontier. 🏞️"
+  ],
+  "born": [
+    "Life beginning. 👶",
+    "Birth occurred. 🌟",
+    "Native origin. 🏠"
+  ],
+  "borrow": [
+    "Temporary use. 🤲",
+    "Loan taken. 📥",
+    "Returnable item. 🔄"
+  ],
+  "boss": [
+    "Supervisor role. 👔",
+    "Leader position. 🎯",
+    "Person in charge. ✅"
+  ],
+  "both": [
+    "Two together. 👥",
+    "Dual inclusion. ➕",
+    "Each of two. 🔢"
+  ],
+  "bottle": [
+    "Container vessel. 🍾",
+    "Liquid holder. 🧴",
+    "Glass object. 🍼"
+  ],
+  "bottom": [
+    "Lowest point. ⬇️",
+    "Base level. 🏗️",
+    "Foundation. 🪨"
+  ],
+  "bounce": [
+    "Rebound action. 🏀",
+    "Spring back. ↩️",
+    "Energetic jump. 🦘"
+  ],
+  "box": [
+    "Container cube. 📦",
+    "Square package. 🧊",
+    "Storage unit. 🗃️"
+  ],
+  "boy": [
+    "Male child. 👦",
+    "Young male. 🧒",
+    "Youth. 🌟"
+  ],
+  "brain": [
+    "Thinking organ. 🧠",
+    "Mental center. 💡",
+    "Intelligence source. 🌟"
+  ],
+  "branch": [
+    "Tree part. 🌿",
+    "Division path. 🌳",
+    "Subsidiary. 🏢"
+  ],
+  "brave": [
+    "Courage shown. 🛡️",
+    "Fearless act. 🦁",
+    "Valiant. 💪"
+  ],
+  "bread": [
+    "Baked food. 🍞",
+    "Staple item. 🥖",
+    "Grain product. 🌾"
+  ],
+  "break": [
+    "Separate pieces. 🧩",
+    "Interruption made. ⏸️",
+    "Damage done. 💔"
+  ],
+  "breakfast": [
+    "Morning meal. 🍳",
+    "First food. 🌅",
+    "Day start. ☀️"
+  ],
+  "breath": [
+    "Air inhale. 🌬️",
+    "Life respiration. 💨",
+    "Moment pause. 🧘"
+  ],
+  "breathe": [
+    "Respiratory act. 💨",
+    "Inhale-exhale. 🌬️",
+    "Living process. ❤️"
+  ],
+  "bridge": [
+    "Connection structure. 🌉",
+    "Span built. 🏗️",
+    "Link over. 🔗"
+  ],
+  "brief": [
+    "Short duration. ⏳",
+    "Concise form. 📝",
+    "Quick summary. 🔍"
+  ],
+  "bright": [
+    "Shining light. ✨",
+    "Intelligent. 💡",
+    "Vivid color. 🌈"
+  ],
+  "bring": [
+    "Carry to. 🛄",
+    "Deliver here. 📦",
+    "Transport. 🚚"
+  ],
+  "broad": [
+    "Wide expanse. 🌊",
+    "Extensive range. 🌍",
+    "General scope. 📡"
+  ],
+  "broken": [
+    "Damaged state. 💔",
+    "Not functioning. ⚠️",
+    "Fractured. 🧩"
+  ],
+  "brother": [
+    "Sibling male. 👨",
+    "Family relation. 👥",
+    "Kinship bond. 🤝"
+  ],
+  "brown": [
+    "Earth tone. 🟤",
+    "Color shade. 🍫",
+    "Natural hue. 🍂"
+  ],
+  "brush": [
+    "Tool type. 🖌️",
+    "Sweeping action. 🧹",
+    "Painting instrument. 🎨"
+  ],
+  "budget": [
+    "Financial plan. 💰",
+    "Allocation set. 📊",
+    "Spending limit. 🏦"
+  ],
+  "build": [
+    "Construct action. 🏗️",
+    "Create structure. 🧱",
+    "Assemble. 🔨"
+  ],
+  "bullet": [
+    "Projectile type. 🔫",
+    "Ammunition piece. 💥",
+    "Fast object. ⚡"
+  ],
+  "bunch": [
+    "Group collection. 🍇",
+    "Several together. 👥",
+    "Cluster. 🎈"
+  ],
+  "burn": [
+    "Fire effect. 🔥",
+    "Heat damage. ♨️",
+    "Combustion. 💨"
+  ],
+  "bus": [
+    "Large vehicle. 🚌",
+    "Public transport. 🛣️",
+    "Passenger carrier. 👥"
+  ],
+  "business": [
+    "Commercial activity. 💼",
+    "Enterprise. 🏢",
+    "Trade matter. 🤝"
+  ],
+  "busy": [
+    "Occupied state. 📅",
+    "Active period. ⚙️",
+    "Engaged. 📱"
+  ],
+  "but": [
+    "Contrast word. 🔀",
+    "Exception noted. ⚠️",
+    "However. ✋"
+  ],
+  "butter": [
+    "Dairy product. 🧈",
+    "Spreadable fat. 🍞",
+    "Cooking ingredient. 🧈"
+  ],
+  "button": [
+    "Press control. 🔘",
+    "Fastener. 🏷️",
+    "Switch type. ⚙️"
+  ],
+  "buy": [
+    "Purchase made. 🛒",
+    "Acquire goods. 🛍️",
+    "Transaction. 💰"
+  ],
+  "by": [
+    "Near position. 📍",
+    "Through means. ⚙️",
+    "Created by. ✍️"
+  ],
+  "cafe": [
+    "Coffee shop. ☕",
+    "Small restaurant. 🍽️",
+    "Social spot. 👥"
+  ],
+  "cake": [
+    "Sweet dessert. 🎂",
+    "Baked treat. 🧁",
+    "Celebration food. 🎉"
+  ],
+  "calculate": [
+    "Computation done. 🧮",
+    "Math performed. ➕",
+    "Figure out. 🔢"
+  ],
+  "calendar": [
+    "Date tracker. 📅",
+    "Schedule tool. 🗓️",
+    "Time organizer. ⏰"
+  ],
+  "call": [
+    "Phone contact. 📞",
+    "Name address. 🗣️",
+    "Summon action. 📢"
+  ],
+  "calm": [
+    "Peaceful state. 🧘",
+    "Tranquil. 🌊",
+    "Serene mood. ☁️"
+  ],
+  "camera": [
+    "Photo device. 📷",
+    "Image capture. 🖼️",
+    "Recording tool. 🎥"
+  ],
+  "camp": [
+    "Outdoor stay. ⛺",
+    "Temporary site. 🏕️",
+    "Group activity. 👥"
+  ],
+  "can": [
+    "Ability present. ✅",
+    "Possible action. ⚙️",
+    "Container type. 🥫"
+  ],
+  "cancel": [
+    "Action revoked. ❌",
+    "Plan stopped. 🛑",
+    "Nullified. ⚠️"
+  ],
+  "cancer": [
+    "Disease type. ♋",
+    "Health issue. 🏥",
+    "Zodiac sign. 🌌"
+  ],
+  "candle": [
+    "Light source. 🕯️",
+    "Wax burner. 🔥",
+    "Decorative item. ✨"
+  ],
+  "candy": [
+    "Sweet treat. 🍬",
+    "Sugar confection. 🍭",
+    "Dessert snack. 🍫"
+  ],
+  "cap": [
+    "Headwear. 🧢",
+    "Lid cover. 🫙",
+    "Limit set. 🎯"
+  ],
+  "capital": [
+    "City center. 🏛️",
+    "Financial resource. 💰",
+    "Major letter. 🔠"
+  ],
+  "captain": [
+    "Leader role. 👨‍✈️",
+    "Team head. 🎯",
+    "Ship commander. 🚢"
+  ],
+  "car": [
+    "Vehicle type. 🚗",
+    "Automobile. 🏎️",
+    "Road transport. 🛣️"
+  ],
+  "card": [
+    "Paper piece. 🃏",
+    "Greeting item. 💌",
+    "Plastic payment. 💳"
+  ],
+  "care": [
+    "Attention given. 👁️",
+    "Concern shown. 🤗",
+    "Responsibility. 🛡️"
+  ],
+  "career": [
+    "Professional path. 💼",
+    "Occupation journey. 🛣️",
+    "Work life. 🏢"
+  ],
+  "careful": [
+    "Cautious action. ⚠️",
+    "Attentive state. 👁️",
+    "Precise. 🎯"
+  ],
+  "carry": [
+    "Transport item. 🛄",
+    "Hold weight. 🏋️",
+    "Bring along. 📦"
+  ],
+  "case": [
+    "Instance example. 📁",
+    "Container box. 🧳",
+    "Situation. 🎭"
+  ],
+  "cash": [
+    "Money physical. 💵",
+    "Currency notes. 🏧",
+    "Immediate payment. 💰"
+  ],
+  "cat": [
+    "Feline animal. 🐈",
+    "Pet type. 🐱",
+    "Domestic creature. 🏠"
+  ],
+  "catch": [
+    "Capture action. 🎣",
+    "Grab quickly. ✋",
+    "Understand. 💡"
+  ],
+  "cause": [
+    "Reason source. 🎯",
+    "Origin factor. ⚙️",
+    "Lead to. 🔗"
+  ],
+  "celebrate": [
+    "Joyful event. 🎉",
+    "Honor occasion. 🥳",
+    "Mark success. ✨"
+  ],
+  "cell": [
+    "Small unit. 📱",
+    "Biological unit. 🔬",
+    "Prison room. 🚔"
+  ],
+  "center": [
+    "Middle point. ⭕",
+    "Core location. 🎯",
+    "Focus area. 🔍"
+  ],
+  "century": [
+    "100 years. 🕰️",
+    "Historical period. 📜",
+    "Long duration. 📅"
+  ],
+  "chair": [
+    "Seating furniture. 🪑",
+    "Support object. 🏢",
+    "Meeting position. 👥"
+  ],
+  "chance": [
+    "Opportunity given. 🎲",
+    "Possibility. ✨",
+    "Random luck. 🍀"
+  ],
+  "change": [
+    "Alteration made. 🔄",
+    "Different state. ♻️",
+    "Coins returned. 🪙"
+  ],
+  "chaos": [
+    "Disorder state. 🌪️",
+    "Confusion. 🌀",
+    "Unpredictable. 🎲"
+  ],
+  "chapter": [
+    "Section part. 📖",
+    "Story division. 📑",
+    "Phase stage. 🎯"
+  ],
+  "charge": [
+    "Cost applied. 💰",
+    "Energy fill. 🔋",
+    "Responsibility. 🛡️"
+  ],
+  "chase": [
+    "Pursuit action. 🏃‍♂️",
+    "Follow quickly. 🐕",
+    "Hunt. 🎯"
+  ],
+  "chat": [
+    "Conversation. 💬",
+    "Talk informally. 👥",
+    "Message exchange. 📱"
+  ],
+  "cheap": [
+    "Low cost. 💰",
+    "Inexpensive. 🏷️",
+    "Affordable. 🤲"
+  ],
+  "check": [
+    "Verify action. ✅",
+    "Examination. 🔍",
+    "Mark tick. ✔️"
+  ],
+  "cheek": [
+    "Face part. 👶",
+    "Side area. 😊",
+    "Facial feature. 👁️"
+  ],
+  "cheese": [
+    "Dairy product. 🧀",
+    "Food item. 🍕",
+    "Cheesy. 😄"
+  ],
+  "chef": [
+    "Cook professional. 👨‍🍳",
+    "Food expert. 🍽️",
+    "Kitchen master. 🔪"
+  ],
+  "cherry": [
+    "Fruit type. 🍒",
+    "Small red. 🔴",
+    "Sweet produce. 🌳"
+  ],
+  "chess": [
+    "Strategy game. ♟️",
+    "Board game. 🎲",
+    "Mental sport. 🧠"
+  ],
+  "chest": [
+    "Body part. 💪",
+    "Storage box. 🧳",
+    "Treasure holder. 🏴‍☠️"
+  ],
+  "chicken": [
+    "Bird type. 🐔",
+    "Poultry meat. 🍗",
+    "Farm animal. 🏠"
+  ],
+  "chief": [
+    "Leader title. 👑",
+    "Head person. 🎯",
+    "Primary. ⭐"
+  ],
+  "child": [
+    "Young human. 👶",
+    "Offspring. 🌱",
+    "Minor age. 🧒"
+  ],
+  "choice": [
+    "Selection made. ✔️",
+    "Decision option. 🔘",
+    "Preference. 💭"
+  ],
+  "choose": [
+    "Pick action. ✋",
+    "Select option. ✅",
+    "Decide upon. 🎯"
+  ],
+  "church": [
+    "Religious building. ⛪",
+    "Worship place. 🙏",
+    "Community center. 👥"
+  ],
+  "circle": [
+    "Round shape. ⭕",
+    "Geometric form. 🔵",
+    "Loop. 🔄"
+  ],
+  "city": [
+    "Urban area. 🏙️",
+    "Large town. 🏢",
+    "Metropolis. 🌆"
+  ],
+  "claim": [
+    "Assertion made. 🗣️",
+    "Ownership stated. 🏷️",
+    "Demand. 📜"
+  ],
+  "class": [
+    "Category group. 📚",
+    "Education session. 🏫",
+    "Quality level. ⭐"
+  ],
+  "clean": [
+    "Hygienic state. 🧼",
+    "Free from dirt. ✨",
+    "Tidy. 🧹"
+  ],
+  "clear": [
+    "Transparent state. 🪟",
+    "Understandable. 💡",
+    "Free space. 🧹"
+  ],
+  "climb": [
+    "Ascend action. 🧗",
+    "Go upward. ⬆️",
+    "Mountain activity. 🏔️"
+  ],
+  "clock": [
+    "Time device. 🕰️",
+    "Wall timer. ⏰",
+    "Hour tracker. 📅"
+  ],
+  "close": [
+    "Shut action. 🚪",
+    "Near proximity. 📍",
+    "Ending. 🔚"
+  ],
+  "cloth": [
+    "Fabric material. 🧵",
+    "Textile. 👕",
+    "Woven item. 🧣"
+  ],
+  "cloud": [
+    "Sky formation. ☁️",
+    "Weather type. 🌤️",
+    "Digital storage. 💾"
+  ],
+  "club": [
+    "Group association. 🎭",
+    "Night venue. 🕺",
+    "Sports tool. ⛳"
+  ],
+  "coach": [
+    "Trainer role. 🏋️",
+    "Instructor. 👨‍🏫",
+    "Vehicle type. 🚌"
+  ],
+  "coal": [
+    "Fuel material. ⛏️",
+    "Carbon source. 🔥",
+    "Mining product. ⚫"
+  ],
+  "coast": [
+    "Shoreline area. 🏖️",
+    "Sea edge. 🌊",
+    "Land border. 🗺️"
+  ],
+  "coat": [
+    "Outer garment. 🧥",
+    "Protective layer. 🛡️",
+    "Paint covering. 🎨"
+  ],
+  "coffee": [
+    "Beverage type. ☕",
+    "Morning drink. 🌅",
+    "Bean brew. 🫘"
+  ],
+  "coin": [
+    "Metal money. 🪙",
+    "Currency piece. 💰",
+    "Toss object. 🎲"
+  ],
+  "cold": [
+    "Low temperature. ❄️",
+    "Chilly state. 🥶",
+    "Illness. 🤧"
+  ],
+  "collar": [
+    "Neck part. 👔",
+    "Animal band. 🐶",
+    "Shirt component. 👕"
+  ],
+  "collect": [
+    "Gather items. 🧺",
+    "Assemble group. 👥",
+    "Accumulate. 📦"
+  ],
+  "college": [
+    "Education institute. 🎓",
+    "Higher learning. 📚",
+    "Campus life. 🏫"
+  ],
+  "color": [
+    "Visual hue. 🎨",
+    "Pigment type. 🌈",
+    "Shade selection. 🖍️"
+  ],
+  "combine": [
+    "Merge together. 🔀",
+    "Unite elements. ➕",
+    "Mix components. 🧪"
+  ],
+  "come": [
+    "Arrive action. 🚶",
+    "Approach here. 📍",
+    "Movement toward. ➡️"
+  ],
+  "comfort": [
+    "Ease provided. 🛋️",
+    "Soothing state. 🤗",
+    "Relief. 🌸"
+  ],
+  "command": [
+    "Order given. 📢",
+    "Control directive. ⚙️",
+    "Authority. 🎯"
+  ],
+  "common": [
+    "Frequent occurrence. 🔄",
+    "Shared quality. 👥",
+    "Ordinary. ⭐"
+  ],
+  "community": [
+    "Social group. 👥",
+    "Shared space. 🏘️",
+    "Local people. 🌍"
+  ],
+  "company": [
+    "Business entity. 🏢",
+    "Social presence. 👥",
+    "Corporation. 💼"
+  ],
+  "compare": [
+    "Analyze differences. ⚖️",
+    "Contrast items. 🔄",
+    "Evaluate similarity. 👁️"
+  ],
+  "compete": [
+    "Contest entered. 🏆",
+    "Rivalry action. ⚔️",
+    "Strive against. 🎯"
+  ],
+  "complain": [
+    "Express dissatisfaction. 😠",
+    "Voice grievance. 🗣️",
+    "Report issue. 📢"
+  ],
+  "complete": [
+    "Finish action. ✅",
+    "Whole state. 💯",
+    "Fully done. 🎯"
+  ],
+  "complex": [
+    "Complicated nature. 🧩",
+    "Intricate system. ⚙️",
+    "Multi-part. 🔗"
+  ],
+  "compose": [
+    "Create art. 🎵",
+    "Form structure. 🏗️",
+    "Write music. ✍️"
+  ],
+  "computer": [
+    "Electronic device. 💻",
+    "Digital machine. 🤖",
+    "Tech tool. 🔧"
+  ],
+  "concept": [
+    "Abstract idea. 💭",
+    "Mental model. 🧠",
+    "Theoretical. 📚"
+  ],
+  "concern": [
+    "Worry topic. 😟",
+    "Relevant matter. ⚠️",
+    "Interest area. 👁️"
+  ],
+  "concert": [
+    "Music event. 🎵",
+    "Live performance. 🎤",
+    "Audience show. 👥"
+  ],
+  "conclude": [
+    "Finish process. 🔚",
+    "End decision. ✅",
+    "Summarize. 📝"
+  ],
+  "concrete": [
+    "Solid material. 🏗️",
+    "Specific detail. 📌",
+    "Building substance. 🧱"
+  ],
+  "condition": [
+    "State of being. ⚙️",
+    "Requirement. 📋",
+    "Health status. 🏥"
+  ],
+  "conduct": [
+    "Behavior shown. 🧍",
+    "Carry out. ⚙️",
+    "Orchestrate. 🎵"
+  ],
+  "conference": [
+    "Meeting event. 👥",
+    "Professional gathering. 💼",
+    "Discussion forum. 🗣️"
+  ],
+  "confirm": [
+    "Verify truth. ✅",
+    "Affirm action. ✔️",
+    "Double-check. 🔍"
+  ],
+  "conflict": [
+    "Disagreement state. ⚔️",
+    "Clash of interest. 🔥",
+    "Struggle. 🛡️"
+  ],
+  "confuse": [
+    "Bewilder action. 😵",
+    "Muddle understanding. 🌫️",
+    "Perplex. ❓"
+  ],
+  "connect": [
+    "Link together. 🔗",
+    "Join items. ⛓️",
+    "Establish relation. 🤝"
+  ],
+  "consider": [
+    "Think about. 💭",
+    "Evaluate option. ⚖️",
+    "Take into account. 📝"
+  ],
+  "consist": [
+    "Composed of. 🧩",
+    "Made up. ⚙️",
+    "Contain elements. 📦"
+  ],
+  "constant": [
+    "Unchanging state. 🔄",
+    "Steady rate. 📈",
+    "Continuous. ♾️"
+  ],
+  "construct": [
+    "Build action. 🏗️",
+    "Create structure. 🔨",
+    "Form object. 🧱"
+  ],
+  "consume": [
+    "Use up resource. 🍽️",
+    "Eat/drink. 🥤",
+    "Utilize. ⚡"
+  ],
+  "contact": [
+    "Communication touch. 📞",
+    "Get in touch. 👋",
+    "Connection point. 🔗"
+  ],
+  "contain": [
+    "Hold within. 📦",
+    "Include content. 🎁",
+    "Restrain. 🛡️"
+  ],
+  "content": [
+    "Satisfied state. 😊",
+    "Information matter. 📄",
+    "Substance. 📚"
+  ],
+  "contest": [
+    "Competition event. 🏆",
+    "Challenge. ⚔️",
+    "Rivalry. 🎯"
+  ],
+  "context": [
+    "Surrounding information. 🖼️",
+    "Background setting. 🌌",
+    "Situational. 📍"
+  ],
+  "continue": [
+    "Keep going. 🔄",
+    "Proceed forward. ➡️",
+    "Persist. 🚶"
+  ],
+  "contract": [
+    "Legal agreement. 📜",
+    "Binding document. ✍️",
+    "Shrink action. 📉"
+  ],
+  "contrast": [
+    "Difference shown. ⚖️",
+    "Opposition. 🔀",
+    "Compare sharply. 👁️"
+  ],
+  "control": [
+    "Manage power. 🎮",
+    "Regulate action. ⚙️",
+    "Command authority. 🕹️"
+  ],
+  "conversation": [
+    "Dialogue exchange. 💬",
+    "Talk session. 🗣️",
+    "Verbal interaction. 👥"
+  ],
+  "convert": [
+    "Change form. 🔄",
+    "Transform type. ♻️",
+    "Adapt. ⚙️"
+  ],
+  "convince": [
+    "Persuade action. 🗣️",
+    "Make believe. 🤝",
+    "Win over. ✅"
+  ],
+  "cook": [
+    "Prepare food. 👨‍🍳",
+    "Heat ingredients. 🍳",
+    "Culinary act. 🍽️"
+  ],
+  "cool": [
+    "Moderate cold. ❄️",
+    "Stylish. 😎",
+    "Calm attitude. 🆒"
+  ],
+  "copy": [
+    "Duplicate action. 📋",
+    "Reproduce. 🖨️",
+    "Imitate. 🔄"
+  ],
+  "corn": [
+    "Grain plant. 🌽",
+    "Vegetable type. 🥕",
+    "Crop. 🌾"
+  ],
+  "corner": [
+    "Angle junction. 📐",
+    "Edge meeting. 🏠",
+    "Hidden spot. 🫥"
+  ],
+  "correct": [
+    "Right answer. ✅",
+    "Accurate state. ✔️",
+    "Fix error. 🔧"
+  ],
+  "cost": [
+    "Price amount. 💰",
+    "Expense value. 🏷️",
+    "Require sacrifice. ⚖️"
+  ],
+  "cotton": [
+    "Fabric material. 🧵",
+    "Soft plant. 🌱",
+    "Natural fiber. 👕"
+  ],
+  "couch": [
+    "Furniture piece. 🛋️",
+    "Sofa seat. 🏠",
+    "Relax spot. 😌"
+  ],
+  "cough": [
+    "Throat action. 🤧",
+    "Illness symptom. 🏥",
+    "Involuntary sound. 🔊"
+  ],
+  "could": [
+    "Past ability. ⏪",
+    "Possible action. 💭",
+    "Conditional. ⚖️"
+  ],
+  "council": [
+    "Advisory group. 👥",
+    "Governing body. 🏛️",
+    "Meeting assembly. 💼"
+  ],
+  "count": [
+    "Numerical action. 🔢",
+    "Tally number. 🧮",
+    "Consider important. ⭐"
+  ],
+  "country": [
+    "Nation state. 🇺🇸",
+    "Rural area. 🌄",
+    "Homeland. 🏠"
+  ],
+  "couple": [
+    "Two together. 👫",
+    "Pair unit. 🔗",
+    "Romantic partners. 💕"
+  ],
+  "course": [
+    "Path direction. 🛣️",
+    "Education class. 📚",
+    "Meal part. 🍽️"
+  ],
+  "court": [
+    "Legal venue. ⚖️",
+    "Sports area. 🏀",
+    "Royal place. 👑"
+  ],
+  "cover": [
+    "Protective layer. 🛡️",
+    "Conceal item. 🧥",
+    "Include range. 🌐"
+  ],
+  "cow": [
+    "Farm animal. 🐄",
+    "Milk source. 🥛",
+    "Large bovine. 🐮"
+  ],
+  "crack": [
+    "Break line. 🧩",
+    "Fissure form. ⚡",
+    "Solve code. 🔓"
+  ],
+  "craft": [
+    "Skillful making. 🛠️",
+    "Artisanal work. 🎨",
+    "Creative activity. ✨"
+  ],
+  "crash": [
+    "Collision event. 💥",
+    "Sudden failure. ⚠️",
+    "Loud impact. 🔊"
+  ],
+  "crazy": [
+    "Wild behavior. 🤪",
+    "Insane state. 🌀",
+    "Extreme. 🌪️"
+  ],
+  "cream": [
+    "Dairy product. 🍦",
+    "Soft texture. 🧴",
+    "Color shade. ⚪"
+  ],
+  "create": [
+    "Make new. ✨",
+    "Bring into being. 🌟",
+    "Invent. 💡"
+  ],
+  "credit": [
+    "Recognition given. 🏆",
+    "Financial trust. 💳",
+    "Belief in. 🤝"
+  ],
+  "crime": [
+    "Illegal act. 🚔",
+    "Law breaking. ⚖️",
+    "Wrongdoing. ⚠️"
+  ],
+  "crisis": [
+    "Emergency situation. 🚨",
+    "Critical point. ⚠️",
+    "Turning moment. 🔄"
+  ],
+  "critical": [
+    "Essential importance. ⭐",
+    "Judgmental. ⚖️",
+    "Dangerous state. ⚠️"
+  ],
+  "criticize": [
+    "Evaluate negatively. 👎",
+    "Point out flaws. 🔍",
+    "Judge harshly. ⚖️"
+  ],
+  "crop": [
+    "Harvest plant. 🌾",
+    "Agricultural product. 🚜",
+    "Cut short. ✂️"
+  ],
+  "cross": [
+    "Intersection shape. ❌",
+    "Move across. 🚶",
+    "Religious symbol. ✝️"
+  ],
+  "crowd": [
+    "Large group. 👥",
+    "Mass of people. 🏃‍♂️",
+    "Gathering. 🎉"
+  ],
+  "crucial": [
+    "Extremely important. 🔑",
+    "Vital moment. ⚠️",
+    "Decisive. ✅"
+  ],
+  "cry": [
+    "Tearful emotion. 😢",
+    "Weep action. 💧",
+    "Shout loudly. 📢"
+  ],
+  "culture": [
+    "Societal traditions. 🏛️",
+    "Artistic expression. 🎭",
+    "Customs set. 🌍"
+  ],
+  "cup": [
+    "Drinking vessel. 🍵",
+    "Trophy award. 🏆",
+    "Measure unit. 📏"
+  ],
+  "curious": [
+    "Inquisitive nature. 🤔",
+    "Eager to know. 🔍",
+    "Strange oddity. ✨"
+  ],
+  "current": [
+    "Present time. ⏳",
+    "Flow of water. 🌊",
+    "Electric flow. ⚡"
+  ],
+  "curtain": [
+    "Window covering. 🪟",
+    "Stage divider. 🎭",
+    "Fabric drape. 🧵"
+  ],
+  "curve": [
+    "Bent line. ↩️",
+    "Smooth arc. 🏹",
+    "Non-linear. 📈"
+  ],
+  "custom": [
+    "Traditional practice. 🏛️",
+    "Personalized order. 🛠️",
+    "Habitual. 🔄"
+  ],
+  "customer": [
+    "Buyer client. 🛒",
+    "Service recipient. 🤝",
+    "Patron. 👥"
+  ],
+  "cut": [
+    "Divide action. ✂️",
+    "Reduce amount. 📉",
+    "Incision made. 🔪"
+  ],
+  "cute": [
+    "Adorably charming. 🥰",
+    "Pleasantly attractive. 🌸",
+    "Endearing. 🐾"
+  ],
+  "cycle": [
+    "Repetitive process. 🔄",
+    "Bicycle ride. 🚲",
+    "Complete round. ⭕"
+  ],
+  "daily": [
+    "Every day. 📅",
+    "Routine occurrence. 🔄",
+    "Regular. ☀️"
+  ],
+  "damage": [
+    "Harm caused. 💔",
+    "Injury effect. ⚠️",
+    "Destruction. 🏚️"
+  ],
+  "dance": [
+    "Movement art. 💃",
+    "Rhythmic motion. 🎵",
+    "Social activity. 🕺"
+  ],
+  "danger": [
+    "Risk present. ⚠️",
+    "Harmful situation. ☠️",
+    "Threat. 🚨"
+  ],
+  "dark": [
+    "Absence of light. 🌑",
+    "Gloomy atmosphere. 🌌",
+    "Deep color. ⚫"
+  ],
+  "data": [
+    "Information collection. 📊",
+    "Digital facts. 💾",
+    "Statistics. 📈"
+  ],
+  "date": [
+    "Calendar day. 📅",
+    "Romantic meeting. 💕",
+    "Fruit type. 🍈"
+  ],
+  "daughter": [
+    "Female child. 👧",
+    "Parent's girl. 🌸",
+    "Family member. 👨‍👩‍👧"
+  ],
+  "day": [
+    "24-hour period. ☀️",
+    "Daylight time. 🌅",
+    "Specific date. 📅"
+  ],
+  "dead": [
+    "No life. 💀",
+    "Inactive state. ⚰️",
+    "Complete end. 🔚"
+  ],
+  "deal": [
+    "Agreement made. 🤝",
+    "Business transaction. 💰",
+    "Handle situation. 🛡️"
+  ],
+  "dear": [
+    "Beloved person. 💖",
+    "Expensive cost. 💰",
+    "Formal greeting. ✍️"
+  ],
+  "death": [
+    "End of life. 💀",
+    "Mortality event. ⚰️",
+    "Final state. 🔚"
+  ],
+  "debate": [
+    "Formal discussion. 🗣️",
+    "Argument exchange. ⚔️",
+    "Contest of ideas. 🧠"
+  ],
+  "debt": [
+    "Money owed. 💸",
+    "Obligation. 📜",
+    "Financial burden. 🏦"
+  ],
+  "decade": [
+    "Ten years. 📅",
+    "Period of time. 🗓️",
+    "Historical span. 🕰️"
+  ],
+  "December": [
+    "Twelfth month. 🎄",
+    "Winter period. ❄️",
+    "Year end. 🎉"
+  ],
+  "decide": [
+    "Make choice. ✅",
+    "Reach decision. 🎯",
+    "Determine. ⚖️"
+  ],
+  "decision": [
+    "Choice made. ✔️",
+    "Judgment call. ⚖️",
+    "Resolution. 🎯"
+  ],
+  "declare": [
+    "State formally. 📢",
+    "Announce publicly. 🗣️",
+    "Proclaim. 🏛️"
+  ],
+  "decline": [
+    "Refuse politely. 🙅",
+    "Decrease trend. 📉",
+    "Deteriorate. ⬇️"
+  ],
+  "decorate": [
+    "Adorn space. 🎨",
+    "Beautify area. ✨",
+    "Ornament. 🎄"
+  ],
+  "decrease": [
+    "Reduce amount. 📉",
+    "Lessen degree. ⬇️",
+    "Diminish. 🔽"
+  ],
+  "deep": [
+    "Far down. ⬇️",
+    "Profound meaning. 🧠",
+    "Intense color. 🎨"
+  ],
+  "deer": [
+    "Forest animal. 🦌",
+    "Wild creature. 🌲",
+    "Graceful mammal. 🍃"
+  ],
+  "defeat": [
+    "Overcome opponent. 👊",
+    "Loss experienced. 😔",
+    "Conquest. 🏆"
+  ],
+  "defend": [
+    "Protect action. 🛡️",
+    "Support position. ⚔️",
+    "Guard. 🏰"
+  ],
+  "define": [
+    "Explain meaning. 📖",
+    "Set boundaries. 🎯",
+    "Clarify. 💡"
+  ],
+  "degree": [
+    "Measurement unit. 🌡️",
+    "Academic title. 🎓",
+    "Extent level. 📐"
+  ],
+  "delay": [
+    "Postpone action. ⏳",
+    "Time setback. 🕐",
+    "Hold up. 🚧"
+  ],
+  "delicious": [
+    "Tasty food. 😋",
+    "Pleasant flavor. 🍽️",
+    "Enjoyable taste. 🍕"
+  ],
+  "delight": [
+    "Great pleasure. ✨",
+    "Joyful feeling. 😄",
+    "Charm. 💫"
+  ],
+  "deliver": [
+    "Bring to destination. 📦",
+    "Hand over. 🤲",
+    "Provide. 🚚"
+  ],
+  "demand": [
+    "Strong request. 📢",
+    "Require urgently. ⚠️",
+    "Market need. 📈"
+  ],
+  "democracy": [
+    "Government system. 🗳️",
+    "People's rule. 👥",
+    "Political form. 🏛️"
+  ],
+  "demonstrate": [
+    "Show clearly. 👁️",
+    "Prove point. ✅",
+    "Exhibit. 🎭"
+  ],
+  "deny": [
+    "Refuse request. 🚫",
+    "Contradict statement. ❌",
+    "Reject. 🙅"
+  ],
+  "department": [
+    "Division section. 🏢",
+    "Specialized area. 📋",
+    "Store section. 🛍️"
+  ],
+  "depend": [
+    "Rely upon. 🤝",
+    "Conditional on. ⚖️",
+    "Need support. 🫂"
+  ],
+  "describe": [
+    "Explain in words. 📝",
+    "Portray details. 🖼️",
+    "Characterize. 🔍"
+  ],
+  "desert": [
+    "Arid region. 🏜️",
+    "Abandon leave. 🚶",
+    "Sandy area. 🌵"
+  ],
+  "design": [
+    "Plan creation. 🎨",
+    "Creative layout. ✏️",
+    "Pattern intention. 🧩"
+  ],
+  "desire": [
+    "Strong want. 💭",
+    "Wish deeply. ✨",
+    "Longing feeling. 🌟"
+  ],
+  "desk": [
+    "Work table. 🪑",
+    "Office furniture. 💼",
+    "Study surface. 📚"
+  ],
+  "despite": [
+    "In spite of. 🔄",
+    "Notwithstanding. ⚖️",
+    "Regardless. 💪"
+  ],
+  "destroy": [
+    "Ruin completely. 💥",
+    "Demolish. 🏚️",
+    "Eliminate. 🗑️"
+  ],
+  "detail": [
+    "Specific point. 📌",
+    "Fine element. 🔍",
+    "Thoroughness. 🧐"
+  ],
+  "detect": [
+    "Discover presence. 🔍",
+    "Notice hidden. 👁️",
+    "Identify. 🎯"
+  ],
+  "determine": [
+    "Decide firmly. ✅",
+    "Establish fact. 📊",
+    "Ascertain. 🧭"
+  ],
+  "develop": [
+    "Grow progress. 🌱",
+    "Create gradually. 🛠️",
+    "Evolve. 🔄"
+  ],
+  "device": [
+    "Tool instrument. ⚙️",
+    "Electronic gadget. 📱",
+    "Mechanism. 🔧"
+  ],
+  "devote": [
+    "Dedicate fully. 🙏",
+    "Commit time. ⏳",
+    "Give energy. 💪"
+  ],
+  "diagram": [
+    "Visual chart. 📊",
+    "Schematic drawing. 🖍️",
+    "Plan sketch. ✏️"
+  ],
+  "dialogue": [
+    "Conversation exchange. 💬",
+    "Two-way talk. 👥",
+    "Script part. 🎭"
+  ],
+  "diamond": [
+    "Precious gem. 💎",
+    "Hard material. ⚫",
+    "Shape form. ♦️"
+  ],
+  "diary": [
+    "Personal journal. 📔",
+    "Daily record. 📝",
+    "Private book. 🔒"
+  ],
+  "dictionary": [
+    "Word reference. 📖",
+    "Vocabulary book. 🔤",
+    "Definition source. 💡"
+  ],
+  "die": [
+    "Cease living. 💀",
+    "Stop functioning. ⚰️",
+    "Fade away. 🌫️"
+  ],
+  "diet": [
+    "Food regimen. 🥗",
+    "Eating plan. 🍽️",
+    "Nutrition control. ⚖️"
+  ],
+  "differ": [
+    "Be unlike. 🔀",
+    "Vary from. 📊",
+    "Disagree. ⚔️"
+  ],
+  "difficult": [
+    "Hard to do. 🏋️",
+    "Challenging. 🧗",
+    "Complicated. 🧩"
+  ],
+  "dig": [
+    "Excavate earth. ⛏️",
+    "Burrow action. 🕳️",
+    "Search deeply. 🔍"
+  ],
+  "digital": [
+    "Electronic format. 💻",
+    "Numerical data. 🔢",
+    "Computer-based. 🤖"
+  ],
+  "dinner": [
+    "Evening meal. 🍽️",
+    "Main food. 🥘",
+    "Social eating. 👥"
+  ],
+  "direct": [
+    "Straight path. ➡️",
+    "Manage control. 🎯",
+    "Immediate. ⚡"
+  ],
+  "direction": [
+    "Course guidance. 🧭",
+    "Instruction given. 📋",
+    "Orientation. 🧭"
+  ],
+  "dirt": [
+    "Soil earth. 🏞️",
+    "Unclean matter. 🗑️",
+    "Ground material. 🌱"
+  ],
+  "disagree": [
+    "Have different view. ⚔️",
+    "Conflict opinion. 🔀",
+    "Oppose. 🚫"
+  ],
+  "disappear": [
+    "Vanish from sight. 🫥",
+    "Cease to exist. 🌫️",
+    "Fade away. ⬇️"
+  ],
+  "disaster": [
+    "Catastrophic event. 🌪️",
+    "Great misfortune. 💥",
+    "Calamity. 🚨"
+  ],
+  "discover": [
+    "Find new. 🔍",
+    "Uncover truth. 💡",
+    "Learn existence. 🌟"
+  ],
+  "discuss": [
+    "Talk about. 💬",
+    "Exchange views. 👥",
+    "Debate topic. 🗣️"
+  ],
+  "disease": [
+    "Illness condition. 🤒",
+    "Health disorder. 🏥",
+    "Medical issue. 💊"
+  ],
+  "dish": [
+    "Food plate. 🍽️",
+    "Meal item. 🥘",
+    "Container. 🍛"
+  ],
+  "dismiss": [
+    "Send away. 🚶",
+    "Reject idea. ❌",
+    "Fire from job. 💼"
+  ],
+  "disorder": [
+    "Lack of order. 🌪️",
+    "Medical condition. 🏥",
+    "Chaotic state. 🌀"
+  ],
+  "display": [
+    "Show publicly. 🖥️",
+    "Exhibit items. 🎭",
+    "Visual presentation. 👁️"
+  ],
+  "distance": [
+    "Space between. 📏",
+    "Remote location. 🌌",
+    "Length gap. 🛣️"
+  ],
+  "distinct": [
+    "Clearly different. ✨",
+    "Unique quality. 💎",
+    "Separate. 🔗"
+  ],
+  "distribute": [
+    "Spread out. 📦",
+    "Hand out. 🤲",
+    "Disperse. 🗺️"
+  ],
+  "district": [
+    "Local area. 🏘️",
+    "Administrative zone. 🏛️",
+    "Region part. 🗺️"
+  ],
+  "disturb": [
+    "Interrupt peace. ⚠️",
+    "Bother activity. 😠",
+    "Upset. 🌊"
+  ],
+  "divide": [
+    "Separate parts. ➗",
+    "Split group. 🔀",
+    "Share equally. ⚖️"
+  ],
+  "divorce": [
+    "Marriage end. 💔",
+    "Legal separation. ⚖️",
+    "Split apart. 👨‍👩‍👧"
+  ],
+  "doctor": [
+    "Medical professional. 👨‍⚕️",
+    "Physician. 🏥",
+    "PhD holder. 🎓"
+  ],
+  "document": [
+    "Written record. 📄",
+    "Official paper. 📜",
+    "File item. 📁"
+  ],
+  "dog": [
+    "Canine animal. 🐕",
+    "Pet companion. 🏠",
+    "Loyal creature. 🤝"
+  ],
+  "dollar": [
+    "Currency unit. 💵",
+    "Money symbol. 💰",
+    "US money. 🇺🇸"
+  ],
+  "door": [
+    "Entry portal. 🚪",
+    "Access point. 🔑",
+    "Room barrier. 🏠"
+  ],
+  "double": [
+    "Twice amount. ✌️",
+    "Duplicate. 🔄",
+    "Twofold. ➕"
+  ],
+  "doubt": [
+    "Uncertain feeling. 🤔",
+    "Question truth. ❓",
+    "Skepticism. ⚖️"
+  ],
+  "down": [
+    "Lower position. ⬇️",
+    "Direction below. 🔽",
+    "Feeling sad. 😔"
+  ],
+  "dozen": [
+    "Twelve units. 12️⃣",
+    "Group of twelve. 📦",
+    "Bulk amount. 🛒"
+  ],
+  "draft": [
+    "Preliminary version. 📝",
+    "Rough sketch. ✏️",
+    "Air current. 💨"
+  ],
+  "drag": [
+    "Pull along. 🏋️",
+    "Move heavily. 🐌",
+    "Boring task. 😴"
+  ],
+  "drama": [
+    "Theatrical genre. 🎭",
+    "Emotional situation. 🎬",
+    "Exciting event. ✨"
+  ],
+  "draw": [
+    "Create picture. 🖍️",
+    "Pull toward. 🎣",
+    "Attract attention. ✨"
+  ],
+  "dream": [
+    "Sleep vision. 💭",
+    "Aspiration goal. 🌟",
+    "Fantasy. ✨"
+  ],
+  "dress": [
+    "Clothing garment. 👗",
+    "Put on clothes. 👚",
+    "Formal attire. 🤵"
+  ],
+  "drink": [
+    "Consume liquid. 🥤",
+    "Beverage type. 🍹",
+    "Toast action. 🥂"
+  ],
+  "drive": [
+    "Operate vehicle. 🚗",
+    "Motivation force. 💪",
+    "Road trip. 🛣️"
+  ],
+  "drop": [
+    "Let fall. ⬇️",
+    "Small amount. 💧",
+    "Discontinue. 🚫"
+  ],
+  "drown": [
+    "Die in water. 🌊",
+    "Overwhelm. 🌧️",
+    "Submerge. 💦"
+  ],
+  "drug": [
+    "Medication type. 💊",
+    "Illegal substance. ⚠️",
+    "Pharmaceutical. 🏥"
+  ],
+  "dry": [
+    "No moisture. ☀️",
+    "Boring humor. 😑",
+    "Dehydrated. 🏜️"
+  ],
+  "duck": [
+    "Water bird. 🦆",
+    "Lower head. 🤿",
+    "Avoid issue. 🏃‍♂️"
+  ],
+  "due": [
+    "Expected time. ⏳",
+    "Owed payment. 💰",
+    "Appropriate. ✅"
+  ],
+  "during": [
+    "Throughout time. ⏳",
+    "In the course. 🔄",
+    "Simultaneous. ⏰"
+  ],
+  "dust": [
+    "Fine particles. 💨",
+    "Clean off. 🧹",
+    "Powdery. 🌫️"
+  ],
+  "duty": [
+    "Responsibility task. 🛡️",
+    "Moral obligation. ⚖️",
+    "Tax fee. 🏦"
+  ],
+  "each": [
+    "Every individual. 🔢",
+    "Per unit. ⭐",
+    "Respective. 👥"
+  ],
+  "eager": [
+    "Enthusiastic desire. 🤩",
+    "Keen interest. 🔍",
+    "Impatient. ⏳"
+  ],
+  "ear": [
+    "Hearing organ. 👂",
+    "Corn part. 🌽",
+    "Attention. 👁️"
+  ],
+  "early": [
+    "Before time. ⏰",
+    "Morning period. 🌅",
+    "Initial stage. 🌱"
+  ],
+  "earn": [
+    "Gain money. 💰",
+    "Deserve reward. 🏆",
+    "Achieve through work. 💼"
+  ],
+  "earth": [
+    "Our planet. 🌍",
+    "Soil ground. 🏞️",
+    "Grounding element. ⚡"
+  ],
+  "ease": [
+    "Comfort state. 😌",
+    "Simplify process. 🔧",
+    "Relaxation. 🧘"
+  ],
+  "east": [
+    "Direction. ➡️",
+    "Oriental region. 🌅",
+    "Sunrise side. ☀️"
+  ],
+  "easy": [
+    "Not difficult. 😊",
+    "Simple task. ✅",
+    "Comfortable. 🛋️"
+  ],
+  "eat": [
+    "Consume food. 🍽️",
+    "Have meal. 🍕",
+    "Nourish. 🥗"
+  ],
+  "echo": [
+    "Sound reflection. 🔊",
+    "Repeat effect. 🔄",
+    "Reverberate. 🏔️"
+  ],
+  "economic": [
+    "Financial aspect. 💰",
+    "Resource-related. 📊",
+    "Market system. 📈"
+  ],
+  "edge": [
+    "Border line. 🚧",
+    "Sharp side. 🔪",
+    "Advantage. ⭐"
+  ],
+  "edit": [
+    "Modify content. ✏️",
+    "Correct text. 📝",
+    "Prepare media. 🎥"
+  ],
+  "educate": [
+    "Teach knowledge. 🎓",
+    "Provide learning. 📚",
+    "Instruct. 👨‍🏫"
+  ],
+  "effect": [
+    "Result impact. 💥",
+    "Influence. ✨",
+    "Outcome. 🎯"
+  ],
+  "effort": [
+    "Physical/mental energy. 💪",
+    "Attempt try. 🏋️",
+    "Hard work. 🔨"
+  ],
+  "egg": [
+    "Oval food. 🥚",
+    "Reproductive cell. 🐣",
+    "Breakfast item. 🍳"
+  ],
+  "either": [
+    "One of two. 🔀",
+    "Also similarly. ➕",
+    "Choice option. ⚖️"
+  ],
+  "elbow": [
+    "Joint part. 💪",
+    "Body bend. 🦾",
+    "Push through. 🏋️"
+  ],
+  "elder": [
+    "Older person. 👴",
+    "Senior figure. 🧓",
+    "Respected. 🙏"
+  ],
+  "elect": [
+    "Choose by vote. 🗳️",
+    "Select leader. ✅",
+    "Decide on. 🎯"
+  ],
+  "electric": [
+    "Powered by electricity. ⚡",
+    "Exciting energy. 💥",
+    "Shocking. 😲"
+  ],
+  "element": [
+    "Basic component. ⚙️",
+    "Chemical substance. 🧪",
+    "Natural force. 🌊"
+  ],
+  "elephant": [
+    "Large animal. 🐘",
+    "Memory symbol. 🧠",
+    "Wild creature. 🌳"
+  ],
+  "elevator": [
+    "Lift device. 🛗",
+    "Vertical transport. ⬆️",
+    "Building mover. 🏢"
+  ],
+  "else": [
+    "Additional option. ➕",
+    "Different thing. 🔄",
+    "Otherwise. ⚠️"
+  ],
+  "email": [
+    "Electronic message. 📧",
+    "Digital mail. 💻",
+    "Online communication. 🌐"
+  ],
+  "embarrass": [
+    "Cause shame. 😳",
+    "Awkward moment. 🙈",
+    "Fluster. 🫣"
+  ],
+  "emerge": [
+    "Come out. 🌅",
+    "Become visible. 👁️",
+    "Appear. ✨"
+  ],
+  "emergency": [
+    "Urgent situation. 🚨",
+    "Critical need. ⚠️",
+    "Crisis. 💥"
+  ],
+  "emotion": [
+    "Feeling state. ❤️",
+    "Strong sentiment. 😢",
+    "Psychological response. 🧠"
+  ],
+  "emphasis": [
+    "Special stress. ⭐",
+    "Highlight importance. 🔍",
+    "Focus. 🎯"
+  ],
+  "employ": [
+    "Give job. 💼",
+    "Use resource. ⚙️",
+    "Hire worker. 👥"
+  ],
+  "empty": [
+    "Containing nothing. 🫗",
+    "Vacant space. 🏠",
+    "Hollow. ⬜"
+  ],
+  "enable": [
+    "Make possible. ✅",
+    "Allow function. ⚙️",
+    "Empower. 💪"
+  ],
+  "encounter": [
+    "Meet unexpectedly. 👥",
+    "Experience event. ✨",
+    "Face situation. 🛡️"
+  ],
+  "encourage": [
+    "Give support. 🤗",
+    "Inspire action. ✨",
+    "Motivate. 🚀"
+  ],
+  "end": [
+    "Finish point. 🔚",
+    "Conclusion. ✅",
+    "Termination. 🏁"
+  ],
+  "enemy": [
+    "Opposing force. ⚔️",
+    "Hostile person. 🛡️",
+    "Foe. 👿"
+  ],
+  "energy": [
+    "Power source. ⚡",
+    "Vitality. 💪",
+    "Fuel. 🔥"
+  ],
+  "enforce": [
+    "Apply rule. ⚖️",
+    "Make obey. 🚔",
+    "Implement. 📜"
+  ],
+  "engage": [
+    "Involve actively. 🤝",
+    "Commit attention. 👁️",
+    "Start battle. ⚔️"
+  ],
+  "engine": [
+    "Motor device. 🔧",
+    "Power source. ⚙️",
+    "Mechanical heart. ❤️"
+  ],
+  "engineer": [
+    "Technical designer. 🛠️",
+    "Problem solver. 🔧",
+    "Build professional. 🏗️"
+  ],
+  "enjoy": [
+    "Take pleasure. 😊",
+    "Appreciate experience. 🌟",
+    "Like activity. 👍"
+  ],
+  "enormous": [
+    "Very large. 🐘",
+    "Huge size. 🌍",
+    "Gigantic. 🏔️"
+  ],
+  "enough": [
+    "Sufficient amount. ✅",
+    "Adequate. ⚖️",
+    "No more needed. ✋"
+  ],
+  "ensure": [
+    "Make certain. ✅",
+    "Guarantee. 🛡️",
+    "Secure. 🔒"
+  ],
+  "enter": [
+    "Go into. 🚪",
+    "Begin participation. 🎯",
+    "Input data. ⌨️"
+  ],
+  "entire": [
+    "Whole complete. 💯",
+    "All parts. 🌐",
+    "Full extent. 📏"
+  ],
+  "entrance": [
+    "Entry point. 🚪",
+    "Way in. ➡️",
+    "Doorway. 🏠"
+  ],
+  "entry": [
+    "Act of entering. 🚶",
+    "Submitted item. 📝",
+    "Competition submission. 🏆"
+  ],
+  "envelope": [
+    "Paper container. ✉️",
+    "Mail cover. 📮",
+    "Wrapper. 📨"
+  ],
+  "environment": [
+    "Surroundings. 🌳",
+    "Natural world. 🌍",
+    "Setting. 🏞️"
+  ],
+  "equal": [
+    "Same value. ⚖️",
+    "Balanced. ⚖️",
+    "Fair treatment. ✅"
+  ],
+  "equipment": [
+    "Tools needed. 🛠️",
+    "Gear apparatus. ⚙️",
+    "Supplies. 📦"
+  ],
+  "era": [
+    "Historical period. 🕰️",
+    "Time age. 📜",
+    "Epoch. 🌌"
+  ],
+  "error": [
+    "Mistake made. ❌",
+    "Incorrect action. ⚠️",
+    "Bug. 🐛"
+  ],
+  "escape": [
+    "Get away. 🏃‍♂️",
+    "Avoid danger. 🛡️",
+    "Break free. 🔓"
+  ],
+  "especially": [
+    "Particularly. ⭐",
+    "Notably. 🔍",
+    "Specifically. 🎯"
+  ],
+  "essay": [
+    "Short composition. 📝",
+    "Written piece. 📄",
+    "Academic paper. 🎓"
+  ],
+  "essential": [
+    "Absolutely necessary. 🔑",
+    "Fundamental. ⭐",
+    "Vital. ❤️"
+  ],
+  "establish": [
+    "Set up. 🏗️",
+    "Create foundation. 🧱",
+    "Prove fact. ✅"
+  ],
+  "estate": [
+    "Property land. 🏡",
+    "Large area. 🏞️",
+    "Inheritance. 📜"
+  ],
+  "estimate": [
+    "Approximate calculation. 📊",
+    "Rough guess. 🤔",
+    "Cost assessment. 💰"
+  ],
+  "ethics": [
+    "Moral principles. ⚖️",
+    "Behavior standards. 🧍",
+    "Right conduct. ✅"
+  ],
+  "evening": [
+    "Late day. 🌆",
+    "Sunset time. 🌇",
+    "Night before. 🌙"
+  ],
+  "event": [
+    "Occurrence happening. 🎉",
+    "Planned activity. 📅",
+    "Special occasion. ✨"
+  ],
+  "eventually": [
+    "Finally over time. ⏳",
+    "In the end. 🔚",
+    "Ultimately. 🎯"
+  ],
+  "ever": [
+    "At any time. ⏰",
+    "Always. ♾️",
+    "Forever. ✨"
+  ],
+  "every": [
+    "Each one. 🔢",
+    "All members. 👥",
+    "Without exception. ✅"
+  ],
+  "evidence": [
+    "Proof shown. 🔍",
+    "Supporting facts. 📊",
+    "Indication. 🎯"
+  ],
+  "evil": [
+    "Morally bad. 👿",
+    "Wickedness. ⚫",
+    "Harmful. 💀"
+  ],
+  "evolution": [
+    "Gradual development. 🐛",
+    "Biological change. 🧬",
+    "Progress. 📈"
+  ],
+  "exact": [
+    "Precise accurate. 🎯",
+    "Correct detail. ✅",
+    "Specific. 📌"
+  ],
+  "exam": [
+    "Test evaluation. 📝",
+    "Formal assessment. 🎓",
+    "Medical check. 🏥"
+  ],
+  "example": [
+    "Sample instance. 📋",
+    "Model to follow. 👁️",
+    "Illustration. 🖼️"
+  ],
+  "excellent": [
+    "Outstanding quality. 🌟",
+    "Very good. ⭐",
+    "Superior. 💎"
+  ],
+  "except": [
+    "Not including. 🚫",
+    "Exclusion. ➖",
+    "But. ⚠️"
+  ],
+  "exchange": [
+    "Trade swap. 🔄",
+    "Give and take. 🤝",
+    "Conversion. 💱"
+  ],
+  "excite": [
+    "Stimulate interest. 🤩",
+    "Arouse emotion. ✨",
+    "Thrill. 🎢"
+  ],
+  "excuse": [
+    "Justify reason. 🗣️",
+    "Pardon forgiveness. 🙏",
+    "Poor explanation. 😔"
+  ],
+  "exercise": [
+    "Physical activity. 🏋️",
+    "Practice task. 📝",
+    "Workout. 💪"
+  ],
+  "exhaust": [
+    "Use up completely. 🏁",
+    "Tire out. 😴",
+    "Drain energy. ⚡"
+  ],
+  "exhibit": [
+    "Display show. 🎭",
+    "Demonstrate feature. 👁️",
+    "Present. 🖼️"
+  ],
+  "exist": [
+    "Be present. ✅",
+    "Live real. 🌟",
+    "Occur. ✨"
+  ],
+  "exit": [
+    "Way out. 🚪",
+    "Leave building. 🚶",
+    "Departure. 🔙"
+  ],
+  "expand": [
+    "Increase size. 📈",
+    "Grow larger. 🌱",
+    "Extend. ➕"
+  ],
+  "expect": [
+    "Anticipate event. 🔮",
+    "Look forward. 👁️",
+    "Require. ⚠️"
+  ],
+  "expense": [
+    "Cost amount. 💰",
+    "Money spent. 🏷️",
+    "Financial outlay. 📊"
+  ],
+  "experience": [
+    "Lived event. 🌟",
+    "Skill knowledge. 🧠",
+    "Encounter. ✨"
+  ],
+  "experiment": [
+    "Test trial. 🧪",
+    "Scientific method. 🔬",
+    "Try out. 🎲"
+  ],
+  "expert": [
+    "Skilled person. 🧠",
+    "Specialist. ⭐",
+    "Authority. 🎯"
+  ],
+  "explain": [
+    "Clarify meaning. 💡",
+    "Make understandable. 🗣️",
+    "Describe. 📝"
+  ],
+  "explore": [
+    "Investigate area. 🗺️",
+    "Travel discover. 🧭",
+    "Examine. 🔍"
+  ],
+  "export": [
+    "Send abroad. 🚢",
+    "Sell overseas. 🌐",
+    "Foreign trade. 💱"
+  ],
+  "express": [
+    "Convey thought. 💬",
+    "Show feeling. ❤️",
+    "Fast service. ⚡"
+  ],
+  "extend": [
+    "Lengthen time. ⏳",
+    "Stretch out. 🏹",
+    "Offer help. 🤝"
+  ],
+  "extra": [
+    "Additional amount. ➕",
+    "Bonus. 🎁",
+    "More than usual. ⭐"
+  ],
+  "extreme": [
+    "Highest degree. 🏔️",
+    "Intense level. 🔥",
+    "Radical. 🌪️"
+  ],
+  "eye": [
+    "Vision organ. 👁️",
+    "Watch closely. 👀",
+    "Center of storm. 🌪️"
+  ],
+  "face": [
+    "Front part. 😊",
+    "Confront situation. 🛡️",
+    "Surface side. 🪞"
+  ],
+  "fact": [
+    "True information. ✅",
+    "Reality. 🌍",
+    "Evidence. 📊"
+  ],
+  "factory": [
+    "Manufacturing plant. 🏭",
+    "Production site. ⚙️",
+    "Industrial building. 🏗️"
+  ],
+  "fail": [
+    "Not succeed. ❌",
+    "Fall short. 📉",
+    "Break down. ⚠️"
+  ],
+  "faint": [
+    "Weak slight. 🫠",
+    "Lose consciousness. 😵",
+    "Dim light. 💡"
+  ],
+  "fair": [
+    "Just treatment. ⚖️",
+    "Reasonable. ✅",
+    "Light color. 👱"
+  ],
+  "faith": [
+    "Belief trust. 🙏",
+    "Religious devotion. ⛪",
+    "Confidence. 🤝"
+  ],
+  "fall": [
+    "Drop down. 🍂",
+    "Autumn season. 🍁",
+    "Decrease. 📉"
+  ],
+  "false": [
+    "Not true. ❌",
+    "Incorrect. ⚠️",
+    "Artificial. 🎭"
+  ],
+  "familiar": [
+    "Well-known. 👥",
+    "Recognizable. 🔍",
+    "Comfortable. 😊"
+  ],
+  "family": [
+    "Relatives group. 👨‍👩‍👧",
+    "Household unit. 🏠",
+    "Biological. 🧬"
+  ],
+  "famous": [
+    "Widely known. 🌟",
+    "Celebrated. 🎉",
+    "Renowned. ✨"
+  ],
+  "fan": [
+    "Admirer enthusiast. 🤩",
+    "Air mover. 💨",
+    "Cooling device. 🌬️"
+  ],
+  "far": [
+    "Distant location. 🌌",
+    "Long way. 🛣️",
+    "Remote. 📍"
+  ],
+  "farm": [
+    "Agricultural land. 🚜",
+    "Cultivation area. 🌾",
+    "Rural property. 🏞️"
+  ],
+  "fast": [
+    "Quick speed. ⚡",
+    "Rapid movement. 🏃‍♂️",
+    "Firm secure. 🔒"
+  ],
+  "fat": [
+    "Body tissue. 🍖",
+    "Thick wide. 📏",
+    "Rich content. 🧈"
+  ],
+  "father": [
+    "Male parent. 👨",
+    "Dad figure. 🏠",
+    "Originator. 🌱"
+  ],
+  "fault": [
+    "Mistake defect. ⚠️",
+    "Responsibility. 👆",
+    "Geological crack. 🏔️"
+  ],
+  "favor": [
+    "Kind act. 🤗",
+    "Preference. ⭐",
+    "Support. 🫂"
+  ],
+  "favorite": [
+    "Preferred choice. ⭐",
+    "Best-liked. 💖",
+    "Top pick. 🏆"
+  ],
+  "fear": [
+    "Emotion of danger. 😨",
+    "Be afraid. 🫣",
+    "Anxiety. 🌧️"
+  ],
+  "feature": [
+    "Characteristic part. ✨",
+    "Special aspect. ⭐",
+    "Highlight. 🔍"
+  ],
+  "February": [
+    "Second month. ❄️",
+    "Short month. 📅",
+    "Winter time. ⛄"
+  ],
+  "fee": [
+    "Payment charge. 💰",
+    "Cost fee. 🏷️",
+    "Professional charge. 💼"
+  ],
+  "feed": [
+    "Give food. 🍽️",
+    "Supply material. 📦",
+    "Nourish. 🌱"
+  ],
+  "feel": [
+    "Touch sensation. ✋",
+    "Emotion experience. ❤️",
+    "Perceive. 🧠"
+  ],
+  "female": [
+    "Girl/woman. 👩",
+    "Gender type. ♀️",
+    "Opposite male. 🔀"
+  ],
+  "fence": [
+    "Barrier structure. 🚧",
+    "Enclosure. 🏡",
+    "Sword sport. 🤺"
+  ],
+  "festival": [
+    "Celebration event. 🎉",
+    "Cultural gathering. 🎭",
+    "Music event. 🎵"
+  ],
+  "fetch": [
+    "Go get. 🐕",
+    "Retrieve item. 🏃‍♂️",
+    "Bring back. 🔄"
+  ],
+  "fever": [
+    "High temperature. 🌡️",
+    "Illness symptom. 🤒",
+    "Excitement. 🔥"
+  ],
+  "few": [
+    "Small number. 🔢",
+    "Not many. 👥",
+    "Limited. 📉"
+  ],
+  "field": [
+    "Open area. 🏞️",
+    "Sports ground. ⚽",
+    "Study domain. 📚"
+  ],
+  "fight": [
+    "Physical struggle. 👊",
+    "Combat. ⚔️",
+    "Argue. 🗣️"
+  ],
+  "figure": [
+    "Number digit. 🔢",
+    "Body shape. 🧍",
+    "Important person. ⭐"
+  ],
+  "file": [
+    "Document folder. 📁",
+    "Organize papers. 📋",
+    "Smooth tool. 🔧"
+  ],
+  "fill": [
+    "Make full. 🫗",
+    "Occupy space. 📦",
+    "Complete form. ✍️"
+  ],
+  "film": [
+    "Movie picture. 🎬",
+    "Thin layer. 🎞️",
+    "Photography. 📸"
+  ],
+  "filter": [
+    "Purify liquid. 🧪",
+    "Screen out. 🔍",
+    "Selective. ⚙️"
+  ],
+  "final": [
+    "Last part. 🔚",
+    "Ultimate. 🏁",
+    "Conclusive. ✅"
+  ],
+  "finance": [
+    "Money management. 💰",
+    "Economic matters. 📊",
+    "Funding. 🏦"
+  ],
+  "find": [
+    "Discover locate. 🔍",
+    "Come across. ✨",
+    "Determine. 🎯"
+  ],
+  "fine": [
+    "Very good. 👍",
+    "Thin delicate. 🕸️",
+    "Penalty payment. 💸"
+  ],
+  "finger": [
+    "Hand digit. ☝️",
+    "Point at. 👆",
+    "Touch. ✋"
+  ],
+  "finish": [
+    "Complete end. ✅",
+    "Final touch. 🏁",
+    "Surface coating. 🎨"
+  ],
+  "fire": [
+    "Flames heat. 🔥",
+    "Dismiss job. 💼",
+    "Shoot weapon. 🔫"
+  ],
+  "firm": [
+    "Solid hard. 🏢",
+    "Company business. 💼",
+    "Resolute. 💪"
+  ],
+  "first": [
+    "Initial position. 1️⃣",
+    "Primary. ⭐",
+    "Before others. 🥇"
+  ],
+  "fish": [
+    "Aquatic animal. 🐟",
+    "Try to catch. 🎣",
+    "Search for. 🔍"
+  ],
+  "fit": [
+    "Suitable appropriate. ✅",
+    "Physical health. 💪",
+    "Install. ⚙️"
+  ],
+  "fix": [
+    "Repair correct. 🔧",
+    "Set firmly. 📍",
+    "Decide on. 🎯"
+  ],
+  "flag": [
+    "National symbol. 🇺🇸",
+    "Mark signal. 🚩",
+    "Wave banner. 🎌"
+  ],
+  "flame": [
+    "Burning gas. 🔥",
+    "Passion intensity. ❤️",
+    "Bright light. ✨"
+  ],
+  "flash": [
+    "Brief light. ⚡",
+    "Quick moment. ⏳",
+    "Memory storage. 💾"
+  ],
+  "flat": [
+    "Level surface. 🏞️",
+    "Apartment unit. 🏠",
+    "Not inflated. 🛞"
+  ],
+  "flavor": [
+    "Taste quality. 😋",
+    "Distinctive taste. 🍦",
+    "Seasoning. 🧂"
+  ],
+  "flee": [
+    "Run away. 🏃‍♂️",
+    "Escape quickly. 🛡️",
+    "Avoid. 🚫"
+  ],
+  "flesh": [
+    "Soft tissue. 🍖",
+    "Body substance. 💪",
+    "Human skin. 👤"
+  ],
+  "flight": [
+    "Air travel. ✈️",
+    "Escape act. 🕊️",
+    "Stair set. 🪜"
+  ],
+  "float": [
+    "Stay on surface. 🌊",
+    "Drift gently. 🍃",
+    "Balloon rise. 🎈"
+  ],
+  "flood": [
+    "Water overflow. 🌊",
+    "Large amount. 📦",
+    "Inundate. 💦"
+  ],
+  "floor": [
+    "Room surface. 🪨",
+    "Story level. 🏢",
+    "Ground. 🏠"
+  ],
+  "flour": [
+    "Grain powder. 🌾",
+    "Baking ingredient. 🍞",
+    "Fine meal. 🧁"
+  ],
+  "flow": [
+    "Move smoothly. 🌊",
+    "Current direction. ➡️",
+    "Continuous. 🔄"
+  ],
+  "flower": [
+    "Blooming plant. 🌸",
+    "Best part. 💎",
+    "Decorative. 💐"
+  ],
+  "fly": [
+    "Move through air. 🕊️",
+    "Travel by plane. ✈️",
+    "Insect type. 🪰"
+  ],
+  "focus": [
+    "Center attention. 🎯",
+    "Clear image. 🔍",
+    "Main point. ⭐"
+  ],
+  "fold": [
+    "Bend over. 📄",
+    "Close business. 🏢",
+    "Sheep pen. 🐑"
+  ],
+  "follow": [
+    "Go after. 🚶",
+    "Obey instruction. ✅",
+    "Understand. 🧠"
+  ],
+  "food": [
+    "Nourishment item. 🍽️",
+    "Edible substance. 🍕",
+    "Meal. 🥘"
+  ],
+  "foot": [
+    "Body part. 🦶",
+    "Measurement unit. 📏",
+    "Base support. 🏗️"
+  ],
+  "football": [
+    "Sports game. ⚽",
+    "Team sport. 👥",
+    "Ball game. 🏈"
+  ],
+  "for": [
+    "Intended purpose. 🎯",
+    "Because of. ⚙️",
+    "During time. ⏳"
+  ],
+  "force": [
+    "Strength power. 💪",
+    "Military group. ⚔️",
+    "Compel action. ⚠️"
+  ],
+  "foreign": [
+    "From another country. 🌍",
+    "Strange unfamiliar. 🗺️",
+    "External. 🔗"
+  ],
+  "forest": [
+    "Large woods. 🌲",
+    "Tree area. 🏞️",
+    "Wild nature. 🐾"
+  ],
+  "forever": [
+    "Eternal time. ♾️",
+    "Always. ✨",
+    "Perpetually. 🔄"
+  ],
+  "forget": [
+    "Fail remember. 🤔",
+    "Not recall. 🧠",
+    "Overlook. 👁️"
+  ],
+  "forgive": [
+    "Pardon offense. 🙏",
+    "Stop blaming. 🤝",
+    "Let go. 🕊️"
+  ],
+  "fork": [
+    "Eating utensil. 🍴",
+    "Road division. 🛣️",
+    "Branch point. 🌳"
+  ],
+  "form": [
+    "Shape structure. 🏗️",
+    "Document blank. 📝",
+    "Create. ✨"
+  ],
+  "formal": [
+    "Official style. 🤵",
+    "Strict etiquette. 🎩",
+    "Proper. ✅"
+  ],
+  "former": [
+    "Previous earlier. ⏪",
+    "First mentioned. 🔢",
+    "Past. 🕰️"
+  ],
+  "forward": [
+    "Direction ahead. ➡️",
+    "Send onward. 📧",
+    "Bold attitude. 💪"
+  ],
+  "found": [
+    "Establish start. 🏗️",
+    "Discover. 🔍",
+    "Base on. 🧱"
+  ],
+  "frame": [
+    "Border structure. 🖼️",
+    "Body build. 🧍",
+    "Construct. 🔨"
+  ],
+  "free": [
+    "No cost. 🆓",
+    "Liberty state. 🕊️",
+    "Available. ✅"
+  ],
+  "freedom": [
+    "Liberty right. 🗽",
+    "Independence. 🇺🇸",
+    "Free state. 🕊️"
+  ],
+  "freeze": [
+    "Turn to ice. ❄️",
+    "Stop movement. 🛑",
+    "Computer halt. 💻"
+  ],
+  "frequent": [
+    "Occurring often. 🔄",
+    "Regular. ⏰",
+    "Common. 👥"
+  ],
+  "fresh": [
+    "New recent. 🌱",
+    "Not stale. 🍎",
+    "Cool air. 🌬️"
+  ],
+  "friend": [
+    "Companion person. 👥",
+    "Supportive. 🤝",
+    "Close relationship. 💕"
+  ],
+  "friendly": [
+    "Kind pleasant. 😊",
+    "Amicable. 🤗",
+    "Sociable. 👥"
+  ],
+  "frog": [
+    "Amphibian animal. 🐸",
+    "Jumping creature. 🦘",
+    "Pond dweller. 🌊"
+  ],
+  "from": [
+    "Origin source. 🎯",
+    "Starting point. 📍",
+    "Sent by. 📨"
+  ],
+  "front": [
+    "Forward part. ➡️",
+    "Face side. 😊",
+    "Main area. ⭐"
+  ],
+  "fruit": [
+    "Edible plant part. 🍎",
+    "Result outcome. 🎯",
+    "Sweet produce. 🍇"
+  ],
+  "fuel": [
+    "Energy source. ⛽",
+    "Power material. 🔥",
+    "Add energy. ⚡"
+  ],
+  "full": [
+    "Complete filled. 🫗",
+    "Maximum capacity. 📊",
+    "Satisfied. 😊"
+  ],
+  "fun": [
+    "Enjoyment amusement. 😄",
+    "Entertainment. 🎉",
+    "Playful. 🎈"
+  ],
+  "function": [
+    "Purpose role. ⚙️",
+    "Work properly. ✅",
+    "Social event. 👥"
+  ],
+  "fund": [
+    "Money reserve. 💰",
+    "Financial support. 🏦",
+    "Provide capital. 📈"
+  ],
+  "funny": [
+    "Causing laughter. 😂",
+    "Humorous. 🎭",
+    "Strange odd. 🤪"
+  ],
+  "furniture": [
+    "Household items. 🛋️",
+    "Room pieces. 🪑",
+    "Movable objects. 🏠"
+  ],
+  "further": [
+    "Additional more. ➕",
+    "Greater distance. 🌌",
+    "Advance. 🚀"
+  ],
+  "future": [
+    "Time ahead. 🔮",
+    "Coming days. 📅",
+    "Potential. ✨"
+  ],
+  "gain": [
+    "Obtain acquire. 📈",
+    "Increase amount. ⬆️",
+    "Profit. 💰"
+  ],
+  "game": [
+    "Play activity. 🎮",
+    "Sports contest. 🏆",
+    "Wild animals. 🦌"
+  ],
+  "gap": [
+    "Empty space. ⬜",
+    "Difference. ⚖️",
+    "Opening. 🕳️"
+  ],
+  "garage": [
+    "Car storage. 🚗",
+    "Repair shop. 🔧",
+    "Shelter building. 🏠"
+  ],
+  "garden": [
+    "Cultivated area. 🌻",
+    "Plant space. 🏡",
+    "Yard. 🌳"
+  ],
+  "gas": [
+    "Airlike substance. 💨",
+    "Fuel type. ⛽",
+    "Stomach air. 🫁"
+  ],
+  "gate": [
+    "Entry barrier. 🚪",
+    "Opening door. 🏰",
+    "Airport area. ✈️"
+  ],
+  "gather": [
+    "Collect together. 🧺",
+    "Assemble group. 👥",
+    "Harvest crops. 🌾"
+  ],
+  "general": [
+    "Common overall. 🌐",
+    "Military rank. ⭐",
+    "Not specific. 🔍"
+  ],
+  "generate": [
+    "Produce create. ⚡",
+    "Cause to exist. ✨",
+    "Make energy. 🔋"
+  ],
+  "generous": [
+    "Giving freely. 🎁",
+    "Kind-hearted. ❤️",
+    "Ample. 📦"
+  ],
+  "gentle": [
+    "Mild soft. 🍃",
+    "Kind manner. 🤗",
+    "Not harsh. ☁️"
+  ],
+  "genuine": [
+    "Real authentic. ✅",
+    "Sincere honest. 💎",
+    "Pure. ✨"
+  ],
+  "gesture": [
+    "Body movement. 🤲",
+    "Symbolic act. 👋",
+    "Sign language. 👐"
+  ],
+  "get": [
+    "Obtain receive. 📥",
+    "Become state. 🔄",
+    "Understand. 🧠"
+  ],
+  "gift": [
+    "Present item. 🎁",
+    "Natural talent. ✨",
+    "Donation. 🤲"
+  ],
+  "girl": [
+    "Female child. 👧",
+    "Young woman. 🧒",
+    "Daughter. 🌸"
+  ],
+  "give": [
+    "Provide gift. 🎁",
+    "Donate. 🤲",
+    "Yield. 🔄"
+  ],
+  "glad": [
+    "Happy pleased. 😊",
+    "Delighted. ✨",
+    "Willing. ✅"
+  ],
+  "glass": [
+    "Transparent material. 🥛",
+    "Drinking container. 🍷",
+    "Window pane. 🪟"
+  ],
+  "global": [
+    "Worldwide scale. 🌍",
+    "Universal. 🌐",
+    "Comprehensive. 📊"
+  ],
+  "glove": [
+    "Hand covering. 🧤",
+    "Protective wear. 🛡️",
+    "Baseball item. ⚾"
+  ],
+  "go": [
+    "Move travel. 🚶",
+    "Function work. ⚙️",
+    "Depart leave. 🚪"
+  ],
+  "goal": [
+    "Objective aim. 🎯",
+    "Sports point. ⚽",
+    "Target. 🏹"
+  ],
+  "god": [
+    "Divine being. ✨",
+    "Deity worship. 🙏",
+    "Supreme. 👑"
+  ],
+  "gold": [
+    "Precious metal. 🥇",
+    "Color yellow. 💛",
+    "Valuable. 💎"
+  ],
+  "good": [
+    "Positive quality. 👍",
+    "Moral right. ✅",
+    "Satisfactory. 😊"
+  ],
+  "govern": [
+    "Rule control. 🏛️",
+    "Manage authority. ⚖️",
+    "Influence. ✨"
+  ],
+  "grab": [
+    "Seize quickly. ✋",
+    "Take hold. 🏋️",
+    "Attention getter. 👁️"
+  ],
+  "grace": [
+    "Elegant movement. 🦢",
+    "Divine favor. 🙏",
+    "Courtesy. 🤝"
+  ],
+  "grade": [
+    "Quality level. ⭐",
+    "School mark. 📝",
+    "Slope incline. 📐"
+  ],
+  "grain": [
+    "Seed cereal. 🌾",
+    "Small particle. 🔹",
+    "Texture pattern. 🧵"
+  ],
+  "grand": [
+    "Impressive large. 🏰",
+    "Magnificent. ✨",
+    "Family prefix. 👴"
+  ],
+  "grant": [
+    "Give allowance. 🎁",
+    "Financial aid. 💰",
+    "Admit truth. ✅"
+  ],
+  "grape": [
+    "Fruit type. 🍇",
+    "Wine source. 🍷",
+    "Small berry. 🍇"
+  ],
+  "grass": [
+    "Green plant. 🌱",
+    "Lawn area. 🏞️",
+    "Pasture. 🐄"
+  ],
+  "grateful": [
+    "Thankful appreciation. 🙏",
+    "Feeling thanks. ❤️",
+    "Recognizing kindness. 🤗"
+  ],
+  "grave": [
+    "Burial place. ⚰️",
+    "Serious solemn. 😔",
+    "Important. ⚠️"
+  ],
+  "great": [
+    "Large size. 🐘",
+    "Excellent. 🌟",
+    "Important. ⭐"
+  ],
+  "green": [
+    "Color hue. 🟢",
+    "Environmental. 🌳",
+    "Inexperienced. 🌱"
+  ],
+  "greet": [
+    "Welcome someone. 👋",
+    "Say hello. 🗣️",
+    "Acknowledge. ✨"
+  ],
+  "grey": [
+    "Color shade. ⚪",
+    "Dull tone. 🌫️",
+    "Neutral. ⚖️"
+  ],
+  "grind": [
+    "Crush into powder. ⚙️",
+    "Hard work. 💪",
+    "Sharpening. 🔪"
+  ],
+  "grocery": [
+    "Food store. 🛒",
+    "Market items. 🍎",
+    "Provisions. 📦"
+  ],
+  "ground": [
+    "Earth surface. 🏞️",
+    "Basis reason. 🧱",
+    "Electrical connection. ⚡"
+  ],
+  "group": [
+    "Collection of people. 👥",
+    "Category class. 📋",
+    "Music band. 🎸"
+  ],
+  "grow": [
+    "Increase size. 🌱",
+    "Develop. 📈",
+    "Cultivate plants. 🌻"
+  ],
+  "guarantee": [
+    "Sure promise. ✅",
+    "Warranty. 🛡️",
+    "Assure. 💪"
+  ],
+  "guard": [
+    "Protect watch. 🛡️",
+    "Security person. 👮",
+    "Defend. ⚔️"
+  ],
+  "guess": [
+    "Estimate answer. 🤔",
+    "Speculate. 🔮",
+    "Suppose. 💭"
+  ],
+  "guide": [
+    "Lead show way. 🧭",
+    "Instruction manual. 📖",
+    "Tour leader. 🗺️"
+  ],
+  "guilty": [
+    "Responsible wrong. ⚖️",
+    "Feeling remorse. 😔",
+    "Culpable. 👆"
+  ],
+  "guitar": [
+    "Musical instrument. 🎸",
+    "String device. 🎶",
+    "Music maker. 🎵"
+  ],
+  "gun": [
+    "Firearm weapon. 🔫",
+    "Shooting tool. 🎯",
+    "Accelerator. ⚡"
+  ],
+  "guy": [
+    "Man person. 👨",
+    "Informal male. 🧍",
+    "Fellow. 👥"
+  ],
+  "habit": [
+    "Regular practice. 🔄",
+    "Custom routine. 🏃‍♂️",
+    "Addiction. 🚬"
+  ],
+  "hair": [
+    "Strand growth. 💇",
+    "Head covering. 👩",
+    "Fiber. 🧵"
+  ],
+  "half": [
+    "50% portion. ➗",
+    "One of two. 🔢",
+    "Partial. 📏"
+  ],
+  "hall": [
+    "Large room. 🏛️",
+    "Corridor passage. 🚶",
+    "Event space. 🎉"
+  ],
+  "hammer": [
+    "Tool type. 🔨",
+    "Hit forcefully. 👊",
+    "Auction action. 🏷️"
+  ],
+  "hand": [
+    "Body part. ✋",
+    "Help assist. 🤲",
+    "Cards dealt. 🃏"
+  ],
+  "handle": [
+    "Grip part. 🏋️",
+    "Manage situation. 🛡️",
+    "Deal with. ⚙️"
+  ],
+  "handsome": [
+    "Attractive appearance. 😎",
+    "Good-looking. ✨",
+    "Generous. 🤝"
+  ],
+  "hang": [
+    "Suspend above. 🪝",
+    "Execute by rope. 💀",
+    "Spend time. 👥"
+  ],
+  "happen": [
+    "Occur event. ✨",
+    "Take place. 📍",
+    "Chance. 🎲"
+  ],
+  "happy": [
+    "Joyful feeling. 😊",
+    "Content. ❤️",
+    "Fortunate. 🍀"
+  ],
+  "hard": [
+    "Solid firm. 💎",
+    "Difficult. 🏋️",
+    "Forceful. 💪"
+  ],
+  "harm": [
+    "Damage injury. 💔",
+    "Hurt. ⚠️",
+    "Negative effect. 👎"
+  ],
+  "hat": [
+    "Head covering. 🧢",
+    "Formal accessory. 🎩",
+    "Role position. 🎭"
+  ],
+  "hate": [
+    "Intense dislike. 😠",
+    "Strong aversion. 🚫",
+    "Despise. ⚔️"
+  ],
+  "have": [
+    "Possess own. ✅",
+    "Experience. 🌟",
+    "Must obligation. ⚠️"
+  ],
+  "he": [
+    "Male pronoun. 👨",
+    "That person. 🧍",
+    "Subject. 📝"
+  ],
+  "head": [
+    "Body top. 👤",
+    "Leader chief. 👑",
+    "Move toward. ➡️"
+  ],
+  "health": [
+    "Physical condition. 🏥",
+    "Well-being. ❤️",
+    "Soundness. ✅"
+  ],
+  "hear": [
+    "Perceive sound. 👂",
+    "Listen to. 🎧",
+    "Learn news. 📢"
+  ],
+  "heart": [
+    "Organ pumping. ❤️",
+    "Center emotion. 💖",
+    "Courage. 💪"
+  ],
+  "heat": [
+    "High temperature. 🔥",
+    "Warm energy. ☀️",
+    "Intensity. ⚡"
+  ],
+  "heavy": [
+    "Weighty mass. 🏋️",
+    "Substantial. 📦",
+    "Serious. 😔"
+  ],
+  "heel": [
+    "Foot back. 👠",
+    "Shoe part. 👞",
+    "Untrustworthy person. 🐍"
+  ],
+  "height": [
+    "Vertical measurement. 📏",
+    "Tallness. 🏔️",
+    "Peak level. ⭐"
+  ],
+  "hello": [
+    "Greeting word. 👋",
+    "Welcome. ✨",
+    "Phone answer. 📞"
+  ],
+  "help": [
+    "Assist aid. 🤲",
+    "Support. 🫂",
+    "Improve. 📈"
+  ],
+  "here": [
+    "This place. 📍",
+    "Present location. 🎯",
+    "Indication. 👆"
+  ],
+  "hero": [
+    "Brave person. 🦸",
+    "Admired figure. 🏆",
+    "Main character. 🎭"
+  ],
+  "hide": [
+    "Conceal from view. 🫥",
+    "Animal skin. 🐅",
+    "Secret place. 🔒"
+  ],
+  "high": [
+    "Tall elevation. 🏔️",
+    "Elevated level. ⬆️",
+    "Drug state. 🚬"
+  ],
+  "hill": [
+    "Rounded elevation. ⛰️",
+    "Sloping land. 🏞️",
+    "Mound. 🌳"
+  ],
+  "him": [
+    "Male object. 👨",
+    "That person. 🧍",
+    "Pronoun. 📝"
+  ],
+  "hire": [
+    "Employ worker. 💼",
+    "Rent temporarily. 🏠",
+    "Engage services. ⚙️"
+  ],
+  "history": [
+    "Past events. 📜",
+    "Recorded time. 🕰️",
+    "Study subject. 📚"
+  ],
+  "hit": [
+    "Strike impact. 👊",
+    "Successful song. 🎵",
+    "Reach target. 🎯"
+  ],
+  "hold": [
+    "Grip keep. ✋",
+    "Contain. 📦",
+    "Organize event. 🎉"
+  ],
+  "hole": [
+    "Empty space. 🕳️",
+    "Opening. 🚪",
+    "Golf target. ⛳"
+  ],
+  "holiday": [
+    "Vacation break. 🏖️",
+    "Celebration day. 🎉",
+    "Festive period. ✨"
+  ],
+  "home": [
+    "Living place. 🏠",
+    "Family residence. 👨‍👩‍👧",
+    "Base destination. 🎯"
+  ],
+  "honest": [
+    "Truthful sincere. 💎",
+    "Fair genuine. ✅",
+    "Upright. 🧍"
+  ],
+  "honey": [
+    "Sweet substance. 🍯",
+    "Term of endearment. 💕",
+    "Color tone. 🟡"
+  ],
+  "honor": [
+    "Respect esteem. 🏆",
+    "Moral integrity. ⚖️",
+    "Privilege. ✨"
+  ],
+  "hope": [
+    "Desire expectation. ✨",
+    "Optimistic feeling. 🌟",
+    "Wish. 💭"
+  ],
+  "horizon": [
+    "Skyline boundary. 🌅",
+    "Limit of view. 👁️",
+    "Future scope. 🔮"
+  ],
+  "horse": [
+    "Equine animal. 🐴",
+    "Riding creature. 🏇",
+    "Gymnastics apparatus. 🤸"
+  ],
+  "hospital": [
+    "Medical facility. 🏥",
+    "Treatment center. 💊",
+    "Patient care. 👨‍⚕️"
+  ],
+  "host": [
+    "Entertain guests. 🎉",
+    "Presenter. 🎤",
+    "Large number. 👥"
+  ],
+  "hot": [
+    "High temperature. 🔥",
+    "Spicy food. 🌶️",
+    "Popular trendy. ⭐"
+  ],
+  "hotel": [
+    "Accommodation place. 🏨",
+    "Lodging. 🛏️",
+    "Temporary stay. 🧳"
+  ],
+  "hour": [
+    "Time unit. ⏰",
+    "60 minutes. 🕐",
+    "Specific time. 📅"
+  ],
+  "house": [
+    "Building dwelling. 🏠",
+    "Legislative body. 🏛️",
+    "Family line. 👨‍👩‍👧"
+  ],
+  "how": [
+    "In what way. ❓",
+    "Method manner. ⚙️",
+    "Condition state. 🔍"
+  ],
+  "however": [
+    "Nevertheless but. 🔄",
+    "In contrast. ⚖️",
+    "Regardless. 💪"
+  ],
+  "huge": [
+    "Extremely large. 🐘",
+    "Gigantic. 🌍",
+    "Immense. 🏔️"
+  ],
+  "human": [
+    "Person being. 👤",
+    "Mankind. 🌍",
+    "Characteristic. ❤️"
+  ],
+  "humor": [
+    "Funny quality. 😄",
+    "Amusement. 🎭",
+    "Mood state. 😊"
+  ],
+  "hundred": [
+    "Number 100. 💯",
+    "Many quantity. 🔢",
+    "Century. 🕰️"
+  ],
+  "hungry": [
+    "Need food. 🍽️",
+    "Desirous. 🔥",
+    "Craving. 🍕"
+  ],
+  "hunt": [
+    "Search for. 🔍",
+    "Chase animals. 🏹",
+    "Pursue. 🎯"
+  ],
+  "hurry": [
+    "Rush speed. ⏳",
+    "Urgent need. ⚡",
+    "Move quickly. 🏃‍♂️"
+  ],
+  "hurt": [
+    "Cause pain. 💔",
+    "Injure. 🩹",
+    "Emotional pain. 😢"
+  ],
+  "husband": [
+    "Married man. 👨",
+    "Spouse male. 💍",
+    "Partner. 🤝"
+  ],
+  "ice": [
+    "Frozen water. ❄️",
+    "Diamonds slang. 💎",
+    "Cool attitude. 😎"
+  ],
+  "idea": [
+    "Thought concept. 💡",
+    "Plan suggestion. 🗣️",
+    "Opinion. 💭"
+  ],
+  "identify": [
+    "Recognize name. 🎯",
+    "Establish identity. 👤",
+    "Associate with. 🔗"
+  ],
+  "idle": [
+    "Inactive lazy. 😴",
+    "Not working. ⚙️",
+    "Useless. 🚫"
+  ],
+  "if": [
+    "Condition word. ⚖️",
+    "Whether. ❓",
+    "Supposing. 💭"
+  ],
+  "ignore": [
+    "Pay no attention. 🙈",
+    "Disregard. 🚫",
+    "Overlook. 👁️"
+  ],
+  "ill": [
+    "Sick unwell. 🤒",
+    "Poor health. 🏥",
+    "Bad moral. ⚠️"
+  ],
+  "illegal": [
+    "Against law. ⚖️",
+    "Unlawful. 🚫",
+    "Prohibited. 🚔"
+  ],
+  "image": [
+    "Visual representation. 🖼️",
+    "Picture photo. 📸",
+    "Reputation. 👁️"
+  ],
+  "imagine": [
+    "Form mental picture. 💭",
+    "Envision. ✨",
+    "Suppose. 🔮"
+  ],
+  "immediate": [
+    "Instant right away. ⚡",
+    "Direct. ➡️",
+    "Urgent. ⚠️"
+  ],
+  "impact": [
+    "Collision effect. 💥",
+    "Strong influence. ✨",
+    "Significant. ⭐"
+  ],
+  "implement": [
+    "Tool instrument. 🛠️",
+    "Put into effect. ✅",
+    "Carry out. ⚙️"
+  ],
+  "importance": [
+    "Significance value. ⭐",
+    "Matter weight. ⚖️",
+    "Priority. 🎯"
+  ],
+  "impossible": [
+    "Not possible. 🚫",
+    "Cannot be done. ❌",
+    "Unachievable. 🏔️"
+  ],
+  "impress": [
+    "Make admiration. ✨",
+    "Mark imprint. 🖊️",
+    "Affect deeply. 💖"
+  ],
+  "improve": [
+    "Make better. 📈",
+    "Enhance quality. ⬆️",
+    "Progress. 🚀"
+  ],
+  "in": [
+    "Inside within. 📍",
+    "During time. ⏳",
+    "Fashionable. 👕"
+  ],
+  "inch": [
+    "Unit of length. 📏",
+    "Small amount. 🔹",
+    "Move slowly. 🐌"
+  ],
+  "include": [
+    "Contain part. 📦",
+    "Involve. 👥",
+    "Add in. ➕"
+  ],
+  "income": [
+    "Money earned. 💰",
+    "Financial gain. 📈",
+    "Revenue. 🏦"
+  ],
+  "increase": [
+    "Become larger. 📈",
+    "Grow rise. ⬆️",
+    "Add to. ➕"
+  ],
+  "indeed": [
+    "Truly certainly. ✅",
+    "In fact. 💯",
+    "Really. ✨"
+  ],
+  "independent": [
+    "Self-reliant. 🧍",
+    "Not controlled. 🕊️",
+    "Separate. 🔗"
+  ],
+  "indicate": [
+    "Show point out. 👆",
+    "Suggest. 💭",
+    "Be sign of. 🎯"
+  ],
+  "individual": [
+    "Single person. 👤",
+    "Particular. ⭐",
+    "Distinct. 💎"
+  ],
+  "industry": [
+    "Manufacturing sector. 🏭",
+    "Business field. 💼",
+    "Hard work. 💪"
+  ],
+  "infect": [
+    "Contaminate disease. 🦠",
+    "Spread to. 📈",
+    "Affect. ✨"
+  ],
+  "influence": [
+    "Affect power. ✨",
+    "Persuade. 🗣️",
+    "Impact. 💥"
+  ],
+  "inform": [
+    "Tell notify. 📢",
+    "Give information. 💡",
+    "Report. 📰"
+  ],
+  "initial": [
+    "First beginning. 🌱",
+    "Starting. 🚀",
+    "Letter start. 🔠"
+  ],
+  "injure": [
+    "Harm damage. 💔",
+    "Wound hurt. 🩹",
+    "Cause injury. ⚠️"
+  ],
+  "inner": [
+    "Inside internal. 🏠",
+    "Private personal. 🔒",
+    "Spiritual. 🧘"
+  ],
+  "innocent": [
+    "Not guilty. 🕊️",
+    "Pure harmless. 😇",
+    "Naive. 🍼"
+  ],
+  "innovate": [
+    "Introduce new. 💡",
+    "Create change. 🔄",
+    "Modernize. ⚙️"
+  ],
+  "input": [
+    "Data entered. ⌨️",
+    "Contribution. 💭",
+    "Resource added. ➕"
+  ],
+  "inquiry": [
+    "Question investigation. 🔍",
+    "Official request. 📋",
+    "Research. 🧪"
+  ],
+  "insect": [
+    "Small creature. 🐜",
+    "Bug animal. 🦗",
+    "Pest. 🐛"
+  ],
+  "inside": [
+    "Interior part. 🏠",
+    "Within. 📍",
+    "Internal. 🔒"
+  ],
+  "insist": [
+    "Demand firmly. 🗣️",
+    "Persist. 💪",
+    "Maintain. ✅"
+  ],
+  "inspect": [
+    "Examine closely. 🔍",
+    "Check officially. ✅",
+    "Review. 📋"
+  ],
+  "inspire": [
+    "Motivate encourage. ✨",
+    "Stimulate creativity. 🎨",
+    "Inhale. 🌬️"
+  ],
+  "install": [
+    "Set up equipment. ⚙️",
+    "Place in position. 📍",
+    "Establish. 🏗️"
+  ],
+  "instance": [
+    "Example case. 📋",
+    "Occurrence. ✨",
+    "Specific moment. ⏳"
+  ],
+  "instant": [
+    "Immediate moment. ⚡",
+    "Very short time. ⏳",
+    "Prepared quickly. 🍜"
+  ],
+  "instead": [
+    "In place of. 🔄",
+    "Alternative. ⚖️",
+    "Rather. ✅"
+  ],
+  "instruct": [
+    "Teach direct. 👨‍🏫",
+    "Give orders. 📢",
+    "Inform. 💡"
+  ],
+  "instrument": [
+    "Tool device. 🛠️",
+    "Musical device. 🎵",
+    "Legal document. 📜"
+  ],
+  "insult": [
+    "Offend disrespect. 😠",
+    "Rude remark. 🗣️",
+    "Affront. ⚔️"
+  ],
+  "insure": [
+    "Protect financially. 🛡️",
+    "Guarantee. ✅",
+    "Ensure. ⚠️"
+  ],
+  "integrate": [
+    "Combine into whole. 🔗",
+    "Unify. ✨",
+    "Incorporate. ➕"
+  ],
+  "intend": [
+    "Plan purpose. 🎯",
+    "Mean to. 💭",
+    "Design. ✏️"
+  ],
+  "intense": [
+    "Extreme degree. 🔥",
+    "Strong powerful. 💪",
+    "Concentrated. 🧪"
+  ],
+  "interest": [
+    "Attention curiosity. 👁️",
+    "Financial charge. 💰",
+    "Hobby. 🎨"
+  ],
+  "interior": [
+    "Inside part. 🏠",
+    "Internal. 🔒",
+    "Domestic. 🏡"
+  ],
+  "internal": [
+    "Inside inner. 🏥",
+    "Within organization. 🏢",
+    "Domestic. 🌍"
+  ],
+  "international": [
+    "Between countries. 🌍",
+    "Global. 🌐",
+    "Worldwide. ✈️"
+  ],
+  "interpret": [
+    "Explain meaning. 💬",
+    "Translate language. 🔤",
+    "Understand. 🧠"
+  ],
+  "interrupt": [
+    "Break continuity. ⏸️",
+    "Stop process. 🛑",
+    "Disturb. ⚠️"
+  ],
+  "interval": [
+    "Time between. ⏳",
+    "Space gap. 🕳️",
+    "Music difference. 🎵"
+  ],
+  "interview": [
+    "Formal meeting. 💼",
+    "Question session. ❓",
+    "Media talk. 🎤"
+  ],
+  "into": [
+    "Movement inside. ➡️",
+    "Interest in. 👁️",
+    "Change state. 🔄"
+  ],
+  "introduce": [
+    "Present formally. 👋",
+    "Bring in new. 🆕",
+    "Begin. 🌱"
+  ],
+  "invent": [
+    "Create new. 💡",
+    "Devise original. 🛠️",
+    "Fabricate. 🎭"
+  ],
+  "invest": [
+    "Put money in. 💰",
+    "Spend time. ⏳",
+    "Commit resources. 📈"
+  ],
+  "investigate": [
+    "Examine closely. 🔍",
+    "Research. 🧪",
+    "Inquire. ❓"
+  ],
+  "invite": [
+    "Ask to attend. 📨",
+    "Welcome. 🎉",
+    "Encourage. ✨"
+  ],
+  "involve": [
+    "Include as part. 👥",
+    "Engage. 🤝",
+    "Entail. ⚙️"
+  ],
+  "iron": [
+    "Metal element. 🦾",
+    "Press clothes. 👕",
+    "Strong. 💪"
+  ],
+  "island": [
+    "Land surrounded. 🏝️",
+    "Isolated place. 🏞️",
+    "Ocean feature. 🌊"
+  ],
+  "issue": [
+    "Topic problem. ⚠️",
+    "Publish release. 📰",
+    "Give out. 🎁"
+  ],
+  "it": [
+    "Neuter pronoun. 📝",
+    "Object thing. 🎯",
+    "Subject. ✨"
+  ],
+  "item": [
+    "Individual thing. 📦",
+    "Article. 📄",
+    "Point list. 📋"
+  ],
+  "jacket": [
+    "Outer garment. 🧥",
+    "Covering. 🛡️",
+    "Record sleeve. 💿"
+  ],
+  "January": [
+    "First month. 🗓️",
+    "New year. 🎉",
+    "Winter time. ❄️"
+  ],
+  "jeans": [
+    "Denim pants. 👖",
+    "Casual wear. 🧍",
+    "Fashion item. 👕"
+  ],
+  "job": [
+    "Employment work. 💼",
+    "Task duty. 📋",
+    "Responsibility. 🛡️"
+  ],
+  "join": [
+    "Connect together. 🔗",
+    "Become member. 👥",
+    "Unite. 🤝"
+  ],
+  "joke": [
+    "Humorous remark. 😄",
+    "Prank. 🎭",
+    "Not serious. 🃏"
+  ],
+  "journey": [
+    "Long trip. 🛣️",
+    "Travel experience. ✈️",
+    "Process. 🔄"
+  ],
+  "joy": [
+    "Great happiness. 😊",
+    "Delight. ✨",
+    "Pleasure. ❤️"
+  ],
+  "judge": [
+    "Legal official. ⚖️",
+    "Form opinion. 💭",
+    "Evaluate. 🔍"
+  ],
+  "juice": [
+    "Liquid extract. 🧃",
+    "Fruit drink. 🍎",
+    "Energy source. ⚡"
+  ],
+  "jump": [
+    "Leap spring. 🦘",
+    "Increase suddenly. 📈",
+    "Skip. ➡️"
+  ],
+  "June": [
+    "Sixth month. 🌞",
+    "Summer start. 🏖️",
+    "Mid-year. 📅"
+  ],
+  "jungle": [
+    "Dense forest. 🌴",
+    "Wild place. 🐅",
+    "Complex situation. 🧩"
+  ],
+  "just": [
+    "Fair right. ⚖️",
+    "Exactly. ✅",
+    "Only. 🔢"
+  ],
+  "justice": [
+    "Fairness law. ⚖️",
+    "Righteousness. ✅",
+    "Judge title. 👨‍⚖️"
+  ],
+  "keep": [
+    "Retain continue. 📦",
+    "Maintain. 🔄",
+    "Store. 🏠"
+  ],
+  "key": [
+    "Unlocking tool. 🔑",
+    "Important crucial. ⭐",
+    "Keyboard button. ⌨️"
+  ],
+  "kick": [
+    "Strike with foot. 👟",
+    "Thrill excitement. 🤩",
+    "Remove. 🚫"
+  ],
+  "kid": [
+    "Child young. 👶",
+    "Joke tease. 😄",
+    "Young goat. 🐐"
+  ],
+  "kill": [
+    "Cause death. 💀",
+    "End life. ⚰️",
+    "Stop. 🛑"
+  ],
+  "kilogram": [
+    "Weight unit. ⚖️",
+    "Metric mass. 📏",
+    "1000 grams. 🔢"
+  ],
+  "kind": [
+    "Type sort. 📋",
+    "Gentle caring. 🤗",
+    "Friendly. 😊"
+  ],
+  "king": [
+    "Male monarch. 👑",
+    "Ruler leader. 🏰",
+    "Best. 🥇"
+  ],
+  "kiss": [
+    "Touch with lips. 💋",
+    "Affectionate gesture. 💕",
+    "Light touch. ✨"
+  ],
+  "kitchen": [
+    "Cooking room. 🍳",
+    "Food area. 🏠",
+    "Preparation space. 🔪"
+  ],
+  "knee": [
+    "Joint leg. 🦵",
+    "Bend down. 🧎",
+    "Support point. 🪑"
+  ],
+  "knife": [
+    "Cutting tool. 🔪",
+    "Blade weapon. 🗡️",
+    "Sharp object. ⚔️"
+  ],
+  "knock": [
+    "Strike surface. 👊",
+    "Criticize. 👎",
+    "Surprise. 😲"
+  ],
+  "know": [
+    "Have knowledge. 🧠",
+    "Be aware. 👁️",
+    "Recognize. 🔍"
+  ],
+  "knowledge": [
+    "Information understanding. 📚",
+    "Learning. 🎓",
+    "Awareness. 👁️"
+  ],
+  "label": [
+    "Tag sticker. 🏷️",
+    "Categorize name. 📋",
+    "Brand. 🏢"
+  ],
+  "labor": [
+    "Work effort. 💪",
+    "Workers group. 👥",
+    "Childbirth. 👶"
+  ],
+  "lack": [
+    "Absence shortage. 🚫",
+    "Not have. ⬜",
+    "Deficiency. 📉"
+  ],
+  "ladder": [
+    "Climbing tool. 🪜",
+    "Steps device. ⬆️",
+    "Career path. 📈"
+  ],
+  "lady": [
+    "Woman female. 👩",
+    "Polite term. 🎩",
+    "Refined. ✨"
+  ],
+  "lake": [
+    "Large water body. 🏞️",
+    "Freshwater. 💧",
+    "Calm area. 🌊"
+  ],
+  "lamp": [
+    "Light source. 💡",
+    "Table light. 🛋️",
+    "Illumination. ✨"
+  ],
+  "land": [
+    "Earth surface. 🏞️",
+    "Country nation. 🌍",
+    "Arrive ground. ✈️"
+  ],
+  "language": [
+    "Communication system. 💬",
+    "Speech. 🗣️",
+    "Coding. 💻"
+  ],
+  "large": [
+    "Big size. 🐘",
+    "Considerable. 🌍",
+    "Wide scale. 📏"
+  ],
+  "last": [
+    "Final ultimate. 🔚",
+    "Previous. ⏪",
+    "Endure. 💪"
+  ],
+  "late": [
+    "After time. ⏰",
+    "Deceased. ⚰️",
+    "Recent. 📅"
+  ],
+  "laugh": [
+    "Express amusement. 😂",
+    "Sound of joy. 🤣",
+    "Joke reaction. 🎭"
+  ],
+  "launch": [
+    "Start begin. 🚀",
+    "Send off. 📤",
+    "Introduce product. 🆕"
+  ],
+  "law": [
+    "Legal rule. ⚖️",
+    "Legislation. 📜",
+    "Scientific principle. 🔬"
+  ],
+  "lawyer": [
+    "Legal professional. 👨‍⚖️",
+    "Attorney. ⚖️",
+    "Advocate. 🗣️"
+  ],
+  "lay": [
+    "Put down place. 📍",
+    "Produce eggs. 🥚",
+    "Non-clergy. 👥"
+  ],
+  "layer": [
+    "Thickness level. 🍰",
+    "Stratum. 📚",
+    "Coating. 🎨"
+  ],
+  "lazy": [
+    "Unwilling work. 😴",
+    "Idle. 🛋️",
+    "Slow-moving. 🐌"
+  ],
+  "lead": [
+    "Guide direct. 🧭",
+    "Metallic element. ⚙️",
+    "Be ahead. 🥇"
+  ],
+  "leader": [
+    "Person in charge. 👑",
+    "Guide. 🧭",
+    "Head. ⭐"
+  ],
+  "leaf": [
+    "Plant part. 🍃",
+    "Page sheet. 📄",
+    "Thin layer. 🍂"
+  ],
+  "league": [
+    "Association group. 👥",
+    "Sports division. ⚽",
+    "Alliance. 🤝"
+  ],
+  "learn": [
+    "Gain knowledge. 📚",
+    "Acquire skill. 🧠",
+    "Find out. 🔍"
+  ],
+  "least": [
+    "Smallest amount. 🔢",
+    "Minimum. 📉",
+    "At minimum. ⬇️"
+  ],
+  "leather": [
+    "Animal skin. 🐄",
+    "Material. 👞",
+    "Durable. 💪"
+  ],
+  "leave": [
+    "Go away. 🚶",
+    "Permission. ✅",
+    "Abandon. 🏠"
+  ],
+  "lecture": [
+    "Educational talk. 👨‍🏫",
+    "Long speech. 🗣️",
+    "Scold. 👆"
+  ],
+  "left": [
+    "Opposite right. ⬅️",
+    "Remaining. 📦",
+    "Political side. 🏛️"
+  ],
+  "leg": [
+    "Limb support. 🦵",
+    "Stage part. 🏃‍♂️",
+    "Furniture part. 🪑"
+  ],
+  "legal": [
+    "Law-related. ⚖️",
+    "Permitted. ✅",
+    "Official. 📜"
+  ],
+  "lemon": [
+    "Citrus fruit. 🍋",
+    "Yellow color. 💛",
+    "Defective item. ⚠️"
+  ],
+  "lend": [
+    "Give temporarily. 🤲",
+    "Provide loan. 💰",
+    "Contribute. ➕"
+  ],
+  "length": [
+    "Measurement long. 📏",
+    "Duration time. ⏳",
+    "Extent. 🌊"
+  ],
+  "less": [
+    "Smaller amount. 📉",
+    "Not as much. ⬇️",
+    "Fewer. 🔢"
+  ],
+  "lesson": [
+    "Teaching session. 📚",
+    "Moral instruction. ⚖️",
+    "Example. 📋"
+  ],
+  "let": [
+    "Allow permit. ✅",
+    "Rent out. 🏠",
+    "Release. 🕊️"
+  ],
+  "letter": [
+    "Written message. ✉️",
+    "Alphabet character. 🔤",
+    "Official note. 📜"
+  ],
+  "level": [
+    "Flat even. ⚖️",
+    "Height position. 📏",
+    "Standard grade. ⭐"
+  ],
+  "library": [
+    "Book collection. 📚",
+    "Learning place. 🏛️",
+    "Digital resources. 💻"
+  ],
+  "license": [
+    "Official permit. 📜",
+    "Driver's card. 🚗",
+    "Freedom. 🕊️"
+  ],
+  "lie": [
+    "False statement. 🤥",
+    "Recline position. 🛋️",
+    "Be situated. 📍"
+  ],
+  "life": [
+    "Living existence. ❤️",
+    "Biography. 📖",
+    "Energy vitality. ⚡"
+  ],
+  "lift": [
+    "Raise elevate. ⬆️",
+    "Elevator. 🛗",
+    "Mood boost. ✨"
+  ],
+  "light": [
+    "Illumination brightness. 💡",
+    "Not heavy. 🪶",
+    "Color pale. ⚪"
+  ],
+  "like": [
+    "Similar to. 🔄",
+    "Enjoy favor. 👍",
+    "Social media. ❤️"
+  ],
+  "limit": [
+    "Boundary restriction. 🚧",
+    "Maximum point. 📏",
+    "Confine. 🔒"
+  ],
+  "line": [
+    "Long mark. 📏",
+    "Queue row. 👥",
+    "Phone connection. 📞"
+  ],
+  "link": [
+    "Connection bond. 🔗",
+    "URL address. 🌐",
+    "Join. ⛓️"
+  ],
+  "lion": [
+    "Wild animal. 🦁",
+    "Brave symbol. 🛡️",
+    "King of jungle. 👑"
+  ],
+  "lip": [
+    "Mouth part. 👄",
+    "Edge rim. 🏺",
+    "Uttered words. 💬"
+  ],
+  "list": [
+    "Written series. 📋",
+    "Inventory. 📦",
+    "Tilt ship. 🚢"
+  ],
+  "listen": [
+    "Pay attention sound. 👂",
+    "Hear. 🔊",
+    "Obey. ✅"
+  ],
+  "literature": [
+    "Written works. 📚",
+    "Books field. ✍️",
+    "Printed material. 🖨️"
+  ],
+  "little": [
+    "Small size. 🔹",
+    "Young child. 👶",
+    "Not much. 📉"
+  ],
+  "live": [
+    "Be alive. ❤️",
+    "Reside dwell. 🏠",
+    "Broadcast real-time. 📡"
+  ],
+  "load": [
+    "Burden weight. 🏋️",
+    "Put cargo. 📦",
+    "Work amount. ⚙️"
+  ],
+  "loan": [
+    "Borrowed money. 💰",
+    "Temporary use. 🤲",
+    "Lend. 🏦"
+  ],
+  "local": [
+    "Nearby area. 📍",
+    "Community. 🏘️",
+    "Not global. 🌍"
+  ],
+  "locate": [
+    "Find position. 🎯",
+    "Situate. 📍",
+    "Discover. 🔍"
+  ],
+  "lock": [
+    "Secure fasten. 🔒",
+    "Hair strand. 💇",
+    "Canal section. 🚢"
+  ],
+  "log": [
+    "Wood piece. 🪵",
+    "Record data. 📝",
+    "Enter system. 💻"
+  ],
+  "logic": [
+    "Reasoned thinking. 🧠",
+    "Rationality. ⚙️",
+    "System principles. 📊"
+  ],
+  "lonely": [
+    "Alone isolated. 🧍",
+    "Sad solitude. 🌌",
+    "Desolate. 🏜️"
+  ],
+  "long": [
+    "Great length. 📏",
+    "Extended time. ⏳",
+    "Desire wish. 💭"
+  ],
+  "look": [
+    "Direct eyes. 👁️",
+    "Appearance. 👀",
+    "Search. 🔍"
+  ],
+  "loose": [
+    "Not tight. 🩳",
+    "Free unrestrained. 🕊️",
+    "Inaccurate. 🎯"
+  ],
+  "lose": [
+    "Fail to win. 😔",
+    "Misplace. 🔍",
+    "Decrease. 📉"
+  ],
+  "loss": [
+    "Act of losing. 📉",
+    "Financial deficit. 💸",
+    "Grief. 😢"
+  ],
+  "lot": [
+    "Large amount. 📦",
+    "Parcel land. 🏞️",
+    "Fate fortune. 🎲"
+  ],
+  "loud": [
+    "High volume. 🔊",
+    "Noisy. 📢",
+    "Forceful. 💥"
+  ],
+  "love": [
+    "Deep affection. ❤️",
+    "Romantic feeling. 💕",
+    "Strong like. 👍"
+  ],
+  "low": [
+    "Not high. ⬇️",
+    "Small amount. 📉",
+    "Depressed. 😔"
+  ],
+  "luck": [
+    "Chance fortune. 🍀",
+    "Good fate. ✨",
+    "Random success. 🎲"
+  ],
+  "lunch": [
+    "Midday meal. 🍽️",
+    "Noon food. 🥪",
+    "Light meal. 🥗"
+  ],
+  "machine": [
+    "Mechanical device. ⚙️",
+    "System. 🤖",
+    "Automated. 🔧"
+  ],
+  "mad": [
+    "Angry insane. 😠",
+    "Crazy. 🤪",
+    "Enthusiastic. 🔥"
+  ],
+  "magazine": [
+    "Periodical publication. 📰",
+    "Ammunition holder. 🔫",
+    "Storehouse. 📦"
+  ],
+  "magic": [
+    "Supernatural power. 🪄",
+    "Illusion. 🎩",
+    "Enchanting. ✨"
+  ],
+  "mail": [
+    "Postal system. 📮",
+    "Send letters. ✉️",
+    "Electronic messages. 📧"
+  ],
+  "main": [
+    "Most important. ⭐",
+    "Primary. 🎯",
+    "Central. 🔘"
+  ],
+  "maintain": [
+    "Keep preserve. 🔄",
+    "Assert claim. 🗣️",
+    "Support. 🛠️"
+  ],
+  "major": [
+    "Important significant. ⭐",
+    "Military rank. ⭐",
+    "Main subject. 🎓"
+  ],
+  "make": [
+    "Create produce. 🛠️",
+    "Force cause. ⚙️",
+    "Brand type. 🏷️"
+  ],
+  "male": [
+    "Gender man. 👨",
+    "Biological sex. ♂️",
+    "Masculine. 💪"
+  ],
+  "man": [
+    "Adult human male. 👨",
+    "Mankind. 🌍",
+    "Worker. 💼"
+  ],
+  "manage": [
+    "Control handle. ⚙️",
+    "Succeed cope. ✅",
+    "Direct business. 💼"
+  ],
+  "manner": [
+    "Way of doing. 🧍",
+    "Behavior. 👥",
+    "Polite. 🤝"
+  ],
+  "manufacture": [
+    "Produce goods. 🏭",
+    "Make industrially. ⚙️",
+    "Fabricate. 🛠️"
+  ],
+  "many": [
+    "Large number. 🔢",
+    "Numerous. 👥",
+    "Multiple. ✖️"
+  ],
+  "map": [
+    "Geographic representation. 🗺️",
+    "Chart plan. 📋",
+    "Guide. 🧭"
+  ],
+  "March": [
+    "Third month. 🌸",
+    "Spring month. 🌱",
+    "Walk parade. 🚶"
+  ],
+  "mark": [
+    "Symbol sign. 🔖",
+    "Grade score. 📝",
+    "Target. 🎯"
+  ],
+  "market": [
+    "Trading place. 🛒",
+    "Commercial arena. 📈",
+    "Demand. 📊"
+  ],
+  "marriage": [
+    "Matrimony union. 💍",
+    "Wedding. 👰",
+    "Legal partnership. ⚖️"
+  ],
+  "mass": [
+    "Large quantity. 📦",
+    "Physics property. ⚖️",
+    "Religious service. ⛪"
+  ],
+  "master": [
+    "Expert skilled. 🧠",
+    "Control overcome. 💪",
+    "Original copy. 📼"
+  ],
+  "match": [
+    "Equal counterpart. 🔥",
+    "Sports game. ⚽",
+    "Compatible. 🤝"
+  ],
+  "material": [
+    "Substance matter. 🧱",
+    "Fabric cloth. 👕",
+    "Relevant. ⭐"
+  ],
+  "math": [
+    "Mathematics study. ➕",
+    "Calculation. 🧮",
+    "Numbers. 🔢"
+  ],
+  "matter": [
+    "Physical substance. ⚛️",
+    "Issue topic. ⚠️",
+    "Be important. ⭐"
+  ],
+  "may": [
+    "Possibility allowed. ✅",
+    "Fifth month. 🌸",
+    "Permission. 🍃"
+  ],
+  "maybe": [
+    "Perhaps possibly. 🤔",
+    "Uncertain. ❓",
+    "Potential. ✨"
+  ],
+  "meal": [
+    "Eating occasion. 🍽️",
+    "Prepared food. 🥘",
+    "Grain grind. 🌾"
+  ],
+  "mean": [
+    "Signify represent. 💬",
+    "Average. 📊",
+    "Unkind. 😠"
+  ],
+  "measure": [
+    "Determine size. 📏",
+    "Step action. 🚶",
+    "Standard. ⚖️"
+  ],
+  "meat": [
+    "Animal flesh. 🍖",
+    "Food protein. 🥩",
+    "Substance. 🧱"
+  ],
+  "media": [
+    "Communication channels. 📺",
+    "News outlets. 📰",
+    "Medium plural. 🌐"
+  ],
+  "medical": [
+    "Medicine health. 🏥",
+    "Treatment related. 💊",
+    "Clinical. 👨‍⚕️"
+  ],
+  "medicine": [
+    "Treatment drug. 💊",
+    "Medical science. 🧪",
+    "Remedy. 🌿"
+  ],
+  "meet": [
+    "Encounter join. 👥",
+    "Satisfy requirement. ✅",
+    "Introduction. 🤝"
+  ],
+  "meeting": [
+    "Gathering assembly. 👥",
+    "Conference. 💼",
+    "Encounter. ✨"
+  ],
+  "member": [
+    "Part of group. 👥",
+    "Limb organ. 💪",
+    "Constituent. 🏛️"
+  ],
+  "memory": [
+    "Mental recall. 🧠",
+    "Computer storage. 💾",
+    "Remembrance. 📜"
+  ],
+  "mental": [
+    "Relating to mind. 🧠",
+    "Psychological. 💭",
+    "Intellectual. 💡"
+  ],
+  "mention": [
+    "Refer to briefly. 💬",
+    "Say name. 🗣️",
+    "Acknowledgement. 👆"
+  ],
+  "menu": [
+    "Food list. 🍽️",
+    "Options list. 📋",
+    "Computer interface. 💻"
+  ],
+  "mercy": [
+    "Compassion forgiveness. 🙏",
+    "Leniency. 🕊️",
+    "Fortunate event. 🍀"
+  ],
+  "mere": [
+    "Only just. 🔢",
+    "Simple. ⭕",
+    "Small. 🔹"
+  ],
+  "merit": [
+    "Deserved quality. 🏆",
+    "Worth value. ⭐",
+    "Achievement. ✨"
+  ],
+  "message": [
+    "Communication note. 📨",
+    "Meaning idea. 💡",
+    "Text. 📱"
+  ],
+  "metal": [
+    "Solid material. ⚙️",
+    "Heavy music. 🤘",
+    "Element type. 🧪"
+  ],
+  "method": [
+    "Systematic way. ⚙️",
+    "Procedure. 📋",
+    "Technique. 🛠️"
+  ],
+  "middle": [
+    "Center point. ⭕",
+    "Intermediate. 🔘",
+    "Waist area. 🧍"
+  ],
+  "might": [
+    "Power strength. 💪",
+    "Possibility. ✨",
+    "Could. ✅"
+  ],
+  "mile": [
+    "Distance unit. 🛣️",
+    "Long way. 📏",
+    "Progress. 🚶"
+  ],
+  "milk": [
+    "Dairy liquid. 🥛",
+    "Extract resource. 🍼",
+    "White color. ⚪"
+  ],
+  "million": [
+    "Number 1,000,000. 💰",
+    "Very many. 🔢",
+    "Large amount. 📦"
+  ],
+  "mind": [
+    "Intellect thought. 🧠",
+    "Object to. ⚠️",
+    "Care for. 🤗"
+  ],
+  "mine": [
+    "Excavation pit. ⛏️",
+    "Belonging pronoun. 🏷️",
+    "Explosive device. 💣"
+  ],
+  "mineral": [
+    "Natural substance. 💎",
+    "Nutrient. 🧪",
+    "Geological. 🏔️"
+  ],
+  "minister": [
+    "Clergy member. ⛪",
+    "Government official. 🏛️",
+    "Attend to. 👥"
+  ],
+  "minor": [
+    "Lesser importance. ⬇️",
+    "Underage. 👶",
+    "Music scale. 🎵"
+  ],
+  "minute": [
+    "60 seconds. ⏰",
+    "Very small. 🔬",
+    "Meeting notes. 📝"
+  ],
+  "miracle": [
+    "Wonderful event. ✨",
+    "Supernatural. 🪄",
+    "Marvel. 🌟"
+  ],
+  "mirror": [
+    "Reflective surface. 🪞",
+    "Imitate copy. 🔄",
+    "Show truth. 👁️"
+  ],
+  "misery": [
+    "Great distress. 😢",
+    "Suffering. 🌧️",
+    "Poverty. 💸"
+  ],
+  "miss": [
+    "Fail to hit. 🎯",
+    "Feel absence. 💔",
+    "Title unmarried. 👩"
+  ],
+  "missile": [
+    "Projectile weapon. 🚀",
+    "Guided rocket. 💥",
+    "Thrown object. 🏹"
+  ],
+  "mission": [
+    "Task assignment. 🎯",
+    "Religious work. ⛪",
+    "Purpose. ✨"
+  ],
+  "mistake": [
+    "Error fault. ❌",
+    "Misunderstanding. 🤔",
+    "Wrong action. ⚠️"
+  ],
+  "mix": [
+    "Combine blend. 🧪",
+    "Confusion. 🌪️",
+    "Music genre. 🎵"
+  ],
+  "mixture": [
+    "Combined substances. 🧪",
+    "Blend. 🔀",
+    "Assortment. 📦"
+  ],
+  "mobile": [
+    "Moving capable. 📱",
+    "Cell phone. 📲",
+    "Flexible. 🔄"
+  ],
+  "model": [
+    "Example pattern. 👁️",
+    "Fashion person. 👗",
+    "Small copy. 🚗"
+  ],
+  "modern": [
+    "Present current. ⚙️",
+    "Contemporary. 🆕",
+    "Up-to-date. ✨"
+  ],
+  "modify": [
+    "Change alter. 🔄",
+    "Adjust. ⚙️",
+    "Qualify. 📝"
+  ],
+  "moment": [
+    "Brief time. ⏳",
+    "Importance. ⭐",
+    "Specific instant. 🕐"
+  ],
+  "money": [
+    "Currency cash. 💰",
+    "Wealth. 🏦",
+    "Medium exchange. 💱"
+  ],
+  "monitor": [
+    "Observe check. 👁️",
+    "Screen display. 🖥️",
+    "Lizard type. 🦎"
+  ],
+  "month": [
+    "Time period. 📅",
+    "Calendar division. 🗓️",
+    "30 days. 🌙"
+  ],
+  "mood": [
+    "Emotional state. 😊",
+    "Atmosphere. 🌧️",
+    "Grammatical. 📝"
+  ],
+  "moon": [
+    "Natural satellite. 🌙",
+    "Lunar. 🌕",
+    "Month symbol. 📅"
+  ],
+  "moral": [
+    "Ethical principles. ⚖️",
+    "Lesson. 📚",
+    "Righteous. ✅"
+  ],
+  "more": [
+    "Greater amount. ➕",
+    "Additional. 📈",
+    "Further. 🔄"
+  ],
+  "morning": [
+    "Early day. 🌅",
+    "Forenoon. ☀️",
+    "Start. 🚀"
+  ],
+  "most": [
+    "Greatest amount. ⬆️",
+    "Majority. 💯",
+    "Very. ⭐"
+  ],
+  "mother": [
+    "Female parent. 👩",
+    "Source origin. 🌱",
+    "Caregiver. 🤗"
+  ],
+  "motion": [
+    "Movement action. 🚶",
+    "Proposal. 📜",
+    "Gesture. 🤲"
+  ],
+  "motor": [
+    "Machine engine. 🔧",
+    "Car vehicle. 🚗",
+    "Muscle related. 💪"
+  ],
+  "mountain": [
+    "Large hill. 🏔️",
+    "Big challenge. 🧗",
+    "Massive. 🌍"
+  ],
+  "mouse": [
+    "Small rodent. 🐭",
+    "Computer device. 🖱️",
+    "Quiet person. 🤫"
+  ],
+  "mouth": [
+    "Oral opening. 👄",
+    "Entrance. 🚪",
+    "Speech. 🗣️"
+  ],
+  "move": [
+    "Change position. 🚶",
+    "Propose motion. 📜",
+    "Emotionally affect. ❤️"
+  ],
+  "movie": [
+    "Motion picture. 🎬",
+    "Film cinema. 🍿",
+    "Story. 📽️"
+  ],
+  "much": [
+    "Large amount. 📦",
+    "To great degree. ⭐",
+    "Often. 🔄"
+  ],
+  "multiple": [
+    "Many several. ✖️",
+    "Manifold. 🔢",
+    "Shared. 👥"
+  ],
+  "murder": [
+    "Unlawful killing. 🔪",
+    "Ruin spoil. 💔",
+    "Extreme. ⚠️"
+  ],
+  "muscle": [
+    "Body tissue. 💪",
+    "Strength power. 🏋️",
+    "Influence. ✨"
+  ],
+  "museum": [
+    "Exhibition building. 🏛️",
+    "Art collection. 🖼️",
+    "History place. 📜"
+  ],
+  "music": [
+    "Sound art. 🎵",
+    "Melody harmony. 🎶",
+    "Entertainment. 🎧"
+  ],
+  "must": [
+    "Required necessary. ⚠️",
+    "Obligation. ✅",
+    "Certainly. 💯"
+  ],
+  "mutual": [
+    "Shared reciprocal. 🤝",
+    "Common. 👥",
+    "Joint. 🔗"
+  ],
+  "my": [
+    "Possessive pronoun. 🏷️",
+    "Belonging to me. 👤",
+    "Personal. 💼"
+  ],
+  "myself": [
+    "Reflexive pronoun. 🧍",
+    "Me personally. 👁️",
+    "Alone. 🌌"
+  ],
+  "mystery": [
+    "Unknown puzzle. 🕵️",
+    "Secret. 🔒",
+    "Enigma. ❓"
+  ],
+  "nail": [
+    "Finger tip. 💅",
+    "Metal fastener. 🔨",
+    "Hit exactly. 🎯"
+  ],
+  "name": [
+    "Personal label. 🏷️",
+    "Reputation. 👁️",
+    "Identify. 🎯"
+  ],
+  "narrow": [
+    "Small width. 📏",
+    "Limited scope. 🔍",
+    "Tight. 🚪"
+  ],
+  "nation": [
+    "Country state. 🇺🇸",
+    "People group. 👥",
+    "Political entity. 🏛️"
+  ],
+  "native": [
+    "Born in place. 🏠",
+    "Original inhabitant. 🌍",
+    "Natural. 🌱"
+  ],
+  "natural": [
+    "From nature. 🌳",
+    "Normal expected. ✅",
+    "Innate. 🧬"
+  ],
+  "nature": [
+    "Physical world. 🌍",
+    "Inherent quality. ✨",
+    "Character. 🧍"
+  ],
+  "navy": [
+    "Maritime force. ⚓",
+    "Dark blue color. 🔵",
+    "Military branch. 🪖"
+  ],
+  "near": [
+    "Close proximity. 📍",
+    "Approaching. ➡️",
+    "Almost. ⏳"
+  ],
+  "neat": [
+    "Tidy orderly. 🧹",
+    "Skillful. ✨",
+    "Undiluted. 🥃"
+  ],
+  "necessary": [
+    "Required essential. ✅",
+    "Unavoidable. ⚠️",
+    "Needed. 🔑"
+  ],
+  "neck": [
+    "Body part. 👤",
+    "Narrow part. 🍾",
+    "Risk. ⚠️"
+  ],
+  "need": [
+    "Require necessity. ⚠️",
+    "Lack. 🚫",
+    "Poverty. 💸"
+  ],
+  "needle": [
+    "Sewing tool. 🧵",
+    "Medical instrument. 💉",
+    "Pointer. 🧭"
+  ],
+  "negative": [
+    "Bad harmful. 👎",
+    "Photographic image. 📸",
+    "Minus number. ➖"
+  ],
+  "neglect": [
+    "Fail to care. 🙈",
+    "Disregard. 🚫",
+    "Ignore. 👁️"
+  ],
+  "neighbor": [
+    "Nearby person. 🏘️",
+    "Adjacent. ➡️",
+    "Fellow human. 👥"
+  ],
+  "neither": [
+    "Not either. 🚫",
+    "Also not. 🔀",
+    "Nor. ⚖️"
+  ],
+  "nerve": [
+    "Courage boldness. 💪",
+    "Biological fiber. 🧠",
+    "Anxiety. 😟"
+  ],
+  "nervous": [
+    "Anxious worried. 😟",
+    "Easily agitated. 🫠",
+    "Neural related. 🧠"
+  ],
+  "nest": [
+    "Bird home. 🐦",
+    "Sheltered place. 🏠",
+    "Group set. 📦"
+  ],
+  "net": [
+    "Open mesh. 🕸️",
+    "Final amount. 💰",
+    "Capture. 🎣"
+  ],
+  "network": [
+    "Connected system. 🌐",
+    "Social contacts. 👥",
+    "Broadcast. 📡"
+  ],
+  "neutral": [
+    "Not taking sides. ⚖️",
+    "Colorless. ⚪",
+    "Chemistry pH. 🧪"
+  ],
+  "never": [
+    "At no time. 🚫",
+    "Not ever. ⏳",
+    "Absolutely not. ❌"
+  ],
+  "new": [
+    "Recently made. 🆕",
+    "Fresh. 🌱",
+    "Unfamiliar. 🗺️"
+  ],
+  "news": [
+    "Current events. 📰",
+    "Information report. 📢",
+    "Updates. 🔄"
+  ],
+  "newspaper": [
+    "Daily publication. 📰",
+    "News print. 🗞️",
+    "Information source. 💡"
+  ],
+  "next": [
+    "Following after. ⏭️",
+    "Adjacent. ➡️",
+    "Coming. 🔜"
+  ],
+  "nice": [
+    "Pleasant agreeable. 😊",
+    "Kind. 🤗",
+    "Fine. 👍"
+  ],
+  "night": [
+    "Dark time. 🌙",
+    "Evening. 🌆",
+    "Sleep period. 💤"
+  ],
+  "nine": [
+    "Number 9. 9️⃣",
+    "Several. 🔢",
+    "Sports team. ⚽"
+  ],
+  "no": [
+    "Negative response. ❌",
+    "Not any. 🚫",
+    "Refusal. 🙅"
+  ],
+  "noble": [
+    "Aristocratic high. 👑",
+    "Honorable. ⚖️",
+    "Gas type. 💨"
+  ],
+  "nobody": [
+    "No person. 🚫",
+    "Unimportant person. 👤",
+    "None. ⬜"
+  ],
+  "nod": [
+    "Head gesture. 👍",
+    "Agree silently. 🤝",
+    "Fall asleep. 😴"
+  ],
+  "noise": [
+    "Loud sound. 🔊",
+    "Unwanted sound. 📢",
+    "Disturbance. ⚠️"
+  ],
+  "none": [
+    "Not any. 🚫",
+    "Zero. 0️⃣",
+    "No part. ⬜"
+  ],
+  "noon": [
+    "Midday 12 pm. 🕛",
+    "Middle day. ☀️",
+    "Peak. ⭐"
+  ],
+  "normal": [
+    "Standard usual. ✅",
+    "Typical. ⭐",
+    "Healthy. 🏥"
+  ],
+  "north": [
+    "Direction. ⬆️",
+    "Cold region. ❄️",
+    "Polar. 🧭"
+  ],
+  "nose": [
+    "Facial organ. 👃",
+    "Front part. 🚗",
+    "Detect smell. 🔍"
+  ],
+  "not": [
+    "Negation word. ❌",
+    "Negative. 🚫",
+    "Contrary. ⚠️"
+  ],
+  "note": [
+    "Brief record. 📝",
+    "Musical sound. 🎵",
+    "Importance. ⭐"
+  ],
+  "nothing": [
+    "Not anything. 🚫",
+    "Zero. 0️⃣",
+    "Unimportant. ⬜"
+  ],
+  "notice": [
+    "Observe see. 👁️",
+    "Announcement. 📢",
+    "Warning. ⚠️"
+  ],
+  "notion": [
+    "Idea concept. 💭",
+    "Belief. 🧠",
+    "Whims. ✨"
+  ],
+  "novel": [
+    "Fiction book. 📖",
+    "New original. 🆕",
+    "Long story. 📚"
+  ],
+  "now": [
+    "Present time. ⏳",
+    "Immediately. ⚡",
+    "Current. 🔄"
+  ],
+  "nowhere": [
+    "No place. 🚫",
+    "Unknown location. 🌌",
+    "Without result. ❌"
+  ],
+  "nuclear": [
+    "Atomic energy. ⚛️",
+    "Central core. 🔘",
+    "Family related. 👨‍👩‍👧"
+  ],
+  "number": [
+    "Mathematical value. 🔢",
+    "Quantity amount. 📊",
+    "Identify. 🏷️"
+  ],
+  "numerous": [
+    "Many several. 🔢",
+    "Large number. 📦",
+    "Frequent. 🔄"
+  ],
+  "nurse": [
+    "Medical caregiver. 👩‍⚕️",
+    "Breastfeed. 🤱",
+    "Foster growth. 🌱"
+  ],
+  "nut": [
+    "Edible seed. 🥜",
+    "Hardware fastener. 🔩",
+    "Eccentric person. 🤪"
+  ],
+  "object": [
+    "Physical thing. 📦",
+    "Purpose goal. 🎯",
+    "Express disapproval. 👎"
+  ],
+  "observe": [
+    "Watch carefully. 👁️",
+    "Follow rule. ✅",
+    "Celebrate. 🎉"
+  ],
+  "obtain": [
+    "Get acquire. 📥",
+    "Achieve gain. 🏆",
+    "Become established. ✅"
+  ],
+  "obvious": [
+    "Clearly seen. 👁️",
+    "Evident. 💡",
+    "Plain. ⭕"
+  ],
+  "occasion": [
+    "Special event. 🎉",
+    "Particular time. ⏳",
+    "Reason cause. ⚙️"
+  ],
+  "occur": [
+    "Happen take place. ✨",
+    "Appear. 👁️",
+    "Come to mind. 💭"
+  ],
+  "ocean": [
+    "Vast sea. 🌊",
+    "Large body water. 🏝️",
+    "Great expanse. 🌍"
+  ],
+  "October": [
+    "Tenth month. 🎃",
+    "Autumn month. 🍂",
+    "Fall time. 🍁"
+  ],
+  "odd": [
+    "Strange unusual. 🤪",
+    "Not even. 🔢",
+    "Occasional. 🔄"
+  ],
+  "of": [
+    "Belonging to. 🏷️",
+    "Made from. 🧱",
+    "About concerning. 💬"
+  ],
+  "off": [
+    "Away from. 🚶",
+    "Not operating. ⚙️",
+    "Cancelled. ❌"
+  ],
+  "offense": [
+    "Crime violation. ⚖️",
+    "Upset resentment. 😠",
+    "Attack. ⚔️"
+  ],
+  "offer": [
+    "Present propose. 🎁",
+    "Attempt. 💪",
+    "Discount. 🏷️"
+  ],
+  "office": [
+    "Workplace room. 🏢",
+    "Official position. 💼",
+    "Service. ⚙️"
+  ],
+  "officer": [
+    "Official person. 👮",
+    "Military rank. ⭐",
+    "Policeman. 🚔"
+  ],
+  "official": [
+    "Authorized formal. ✅",
+    "Government person. 🏛️",
+    "Public. 👥"
+  ],
+  "often": [
+    "Frequently many times. 🔄",
+    "Commonly. 👥",
+    "Repeatedly. ↩️"
+  ],
+  "oil": [
+    "Liquid fuel. ⛽",
+    "Cooking fat. 🍳",
+    "Lubricant. ⚙️"
+  ],
+  "old": [
+    "Aged ancient. 👴",
+    "Former previous. ⏪",
+    "Long-existing. 🕰️"
+  ],
+  "on": [
+    "Position atop. 📍",
+    "Operating. ⚙️",
+    "About topic. 💬"
+  ],
+  "once": [
+    "One time. 1️⃣",
+    "Previously. ⏪",
+    "As soon as. ⚡"
+  ],
+  "one": [
+    "Single unit. 1️⃣",
+    "Number. 🔢",
+    "Same. 🔄"
+  ],
+  "only": [
+    "Sole exclusive. ✅",
+    "Just merely. 🔢",
+    "But. ⚠️"
+  ],
+  "open": [
+    "Not closed. 🚪",
+    "Honest frank. 💎",
+    "Begin start. 🚀"
+  ],
+  "operate": [
+    "Function work. ⚙️",
+    "Perform surgery. 🏥",
+    "Control. 🎮"
+  ],
+  "opinion": [
+    "Belief view. 💭",
+    "Judgment. ⚖️",
+    "Expert advice. 🧠"
+  ],
+  "opportunity": [
+    "Good chance. 🍀",
+    "Favorable time. ⏳",
+    "Opening. 🚪"
+  ],
+  "oppose": [
+    "Resist against. 🛡️",
+    "Contrast. 🔀",
+    "Compete. ⚔️"
+  ],
+  "option": [
+    "Choice alternative. 🔘",
+    "Right to buy. 📈",
+    "Possible selection. 💭"
+  ],
+  "or": [
+    "Alternative conjunction. 🔀",
+    "Otherwise. ⚠️",
+    "Either. ⚖️"
+  ],
+  "orange": [
+    "Citrus fruit. 🍊",
+    "Color. 🟠",
+    "Flavor. 😋"
+  ],
+  "order": [
+    "Arrangement sequence. 📋",
+    "Command instruction. 📢",
+    "Request purchase. 🛒"
+  ],
+  "ordinary": [
+    "Normal usual. ⭐",
+    "Commonplace. 👥",
+    "Average. 📊"
+  ],
+  "organ": [
+    "Body part. ❤️",
+    "Musical instrument. 🎹",
+    "Organization. 🏢"
+  ],
+  "organize": [
+    "Arrange systematically. 🗂️",
+    "Coordinate. 👥",
+    "Form union. 🤝"
+  ],
+  "origin": [
+    "Source beginning. 🌱",
+    "Root cause. 🎯",
+    "Ancestry. 👨‍👩‍👧"
+  ],
+  "original": [
+    "First earliest. 1️⃣",
+    "Creative new. 💡",
+    "Authentic. ✅"
+  ],
+  "other": [
+    "Additional different. 🔄",
+    "Alternative. ⚖️",
+    "Remaining. 📦"
+  ],
+  "otherwise": [
+    "Or else. ⚠️",
+    "Different way. 🔀",
+    "Except. 🚫"
+  ],
+  "ought": [
+    "Should duty. ⚖️",
+    "Moral obligation. ✅",
+    "Expected. 👁️"
+  ],
+  "our": [
+    "Belonging to us. 👥",
+    "Inclusive. 🤝",
+    "Collective. 🌐"
+  ],
+  "out": [
+    "Not inside. 🚪",
+    "Revealed. 👁️",
+    "Extinguished. 🔥"
+  ],
+  "outcome": [
+    "Result effect. 🎯",
+    "Consequence. 💥",
+    "End product. 📦"
+  ],
+  "outline": [
+    "Summary sketch. 📝",
+    "Shape contour. 🖍️",
+    "Plan draft. 📋"
+  ],
+  "output": [
+    "Production amount. 📊",
+    "Results data. 💻",
+    "Efficiency. ⚙️"
+  ],
+  "outside": [
+    "Exterior external. 🏞️",
+    "Outdoors. 🌳",
+    "Beyond limits. 🌌"
+  ],
+  "oven": [
+    "Cooking appliance. 🍳",
+    "Heated chamber. 🔥",
+    "Baking device. 🧁"
+  ],
+  "over": [
+    "Above across. ⬆️",
+    "Finished ended. ✅",
+    "More than. ➕"
+  ],
+  "overall": [
+    "General complete. 🌐",
+    "Considering everything. 👁️",
+    "Protective garment. 👷"
+  ],
+  "overcome": [
+    "Defeat conquer. 🏆",
+    "Surmount difficulty. 🧗",
+    "Overwhelm. 💥"
+  ],
+  "owe": [
+    "Be indebted. 💸",
+    "Have obligation. ⚖️",
+    "Attribute to. 👆"
+  ],
+  "own": [
+    "Possess have. ✅",
+    "Personal. 👤",
+    "Admit acknowledge. 🗣️"
+  ],
+  "owner": [
+    "Possessor holder. 🏷️",
+    "Proprietor. 🏢",
+    "Legal title. 📜"
+  ],
+  "pace": [
+    "Walking speed. 🚶",
+    "Step rate. 👣",
+    "Set tempo. ⏱️"
+  ],
+  "pack": [
+    "Fill container. 📦",
+    "Group bundle. 🎒",
+    "Crowd. 👥"
+  ],
+  "page": [
+    "Sheet paper. 📄",
+    "Summon person. 📢",
+    "Web page. 🌐"
+  ],
+  "pain": [
+    "Physical hurt. 💔",
+    "Suffering. 😢",
+    "Annoyance. 😠"
+  ],
+  "paint": [
+    "Colored coating. 🎨",
+    "Create picture. 🖼️",
+    "Describe words. 💬"
+  ],
+  "pair": [
+    "Two together. 👥",
+    "Couple. 💑",
+    "Match set. 🔗"
+  ],
+  "palace": [
+    "Royal residence. 🏰",
+    "Grand building. ✨",
+    "Luxurious. 👑"
+  ],
+  "pale": [
+    "Light color. ⚪",
+    "Weak faint. 🫠",
+    "Become white. 🏔️"
+  ],
+  "pan": [
+    "Cooking utensil. 🍳",
+    "Wide container. 🥘",
+    "Sweeping view. 👁️"
+  ],
+  "panel": [
+    "Flat section. 🧱",
+    "Group experts. 👥",
+    "Control board. ⚙️"
+  ],
+  "paper": [
+    "Thin material. 📄",
+    "Newspaper. 📰",
+    "Academic article. 📝"
+  ],
+  "paragraph": [
+    "Text section. 📖",
+    "Written part. ✍️",
+    "Distinct passage. 🔤"
+  ],
+  "parent": [
+    "Mother father. 👨‍👩‍👧",
+    "Source origin. 🌱",
+    "Guardian. 🛡️"
+  ],
+  "park": [
+    "Green area. 🌳",
+    "Leave vehicle. 🚗",
+    "Recreation space. 🏞️"
+  ],
+  "part": [
+    "Piece portion. 🧩",
+    "Role character. 🎭",
+    "Separate divide. 🔀"
+  ],
+  "participate": [
+    "Take part. 👥",
+    "Join in. 🤝",
+    "Engage. ✨"
+  ],
+  "particular": [
+    "Specific certain. 🎯",
+    "Fussy demanding. 👁️",
+    "Special. ⭐"
+  ],
+  "partner": [
+    "Associate colleague. 👥",
+    "Spouse. 💑",
+    "Dance pair. 💃"
+  ],
+  "party": [
+    "Social gathering. 🎉",
+    "Political group. 🏛️",
+    "Participant. 👥"
+  ],
+  "pass": [
+    "Go by move. 🚶",
+    "Succeed test. ✅",
+    "Transfer give. 🤲"
+  ],
+  "passage": [
+    "Path way. 🛤️",
+    "Text excerpt. 📖",
+    "Time lapse. ⏳"
+  ],
+  "passenger": [
+    "Traveler rider. 🚗",
+    "Person transported. ✈️",
+    "Non-driver. 👥"
+  ],
+  "past": [
+    "Previous time. ⏪",
+    "Beyond. ➡️",
+    "History. 📜"
+  ],
+  "path": [
+    "Track route. 🛤️",
+    "Way direction. 🧭",
+    "Course. 🏃‍♂️"
+  ],
+  "patient": [
+    "Sick person. 🏥",
+    "Calm tolerant. 😌",
+    "Medical client. 👨‍⚕️"
+  ],
+  "pattern": [
+    "Repeated design. 🌀",
+    "Model example. 📋",
+    "Habitual way. 🔄"
+  ],
+  "pause": [
+    "Temporary stop. ⏸️",
+    "Brief break. ⏳",
+    "Hesitate. 🤔"
+  ],
+  "pay": [
+    "Give money. 💰",
+    "Suffer consequence. ⚖️",
+    "Attention heed. 👁️"
+  ],
+  "peace": [
+    "No war conflict. 🕊️",
+    "Calm tranquility. 😌",
+    "Harmony. 🎵"
+  ],
+  "peak": [
+    "Highest point. 🏔️",
+    "Maximum level. ⬆️",
+    "Mountain top. ⛰️"
+  ],
+  "peasant": [
+    "Farm worker. 👨‍🌾",
+    "Rural laborer. 🌾",
+    "Low social rank. ⬇️"
+  ],
+  "pen": [
+    "Writing tool. ✒️",
+    "Enclosure animals. 🐑",
+    "Small space. 📏"
+  ],
+  "pencil": [
+    "Writing instrument. ✏️",
+    "Draw sketch. 🖍️",
+    "Thin line. 📝"
+  ],
+  "people": [
+    "Human beings. 👥",
+    "Population. 🌍",
+    "Nation citizens. 🇺🇸"
+  ],
+  "pepper": [
+    "Spice seasoning. 🌶️",
+    "Vegetable type. 🫑",
+    "Sprinkle. 🧂"
+  ],
+  "per": [
+    "For each. 🔢",
+    "According to. 📝",
+    "Through by. ➡️"
+  ],
+  "perceive": [
+    "Become aware. 👁️",
+    "Understand. 🧠",
+    "See notice. 🔍"
+  ],
+  "percent": [
+    "Out of hundred. %",
+    "Proportion rate. 📊",
+    "Percentage. 🔢"
+  ],
+  "perfect": [
+    "Flawless ideal. 💎",
+    "Complete. ✅",
+    "Excellent. ⭐"
+  ],
+  "perform": [
+    "Carry out do. ⚙️",
+    "Entertain act. 🎭",
+    "Function. ✅"
+  ],
+  "perhaps": [
+    "Maybe possibly. 🤔",
+    "Uncertain. ❓",
+    "Potentially. ✨"
+  ],
+  "period": [
+    "Time interval. ⏳",
+    "Menstruation. 🩸",
+    "Punctuation mark. ."
+  ],
+  "permanent": [
+    "Lasting forever. ♾️",
+    "Constant. 🔄",
+    "Indelible. ✍️"
+  ],
+  "permit": [
+    "Allow authorize. ✅",
+    "Official license. 📜",
+    "Make possible. ⚙️"
+  ],
+  "person": [
+    "Human individual. 👤",
+    "Character. 🎭",
+    "Body. 🧍"
+  ],
+  "personal": [
+    "Private individual. 👤",
+    "Own. 🏷️",
+    "Done in person. 🧍"
+  ],
+  "persuade": [
+    "Convince influence. 🗣️",
+    "Win over. ✅",
+    "Coax. 🤝"
+  ],
+  "pet": [
+    "Domestic animal. 🐕",
+    "Favorite cherished. ⭐",
+    "Stroke gently. 🖐️"
+  ],
+  "phase": [
+    "Stage period. 📅",
+    "Aspect side. 👁️",
+    "Gradual change. 🔄"
+  ],
+  "philosophy": [
+    "Study of knowledge. 🧠",
+    "Belief system. 💭",
+    "Wisdom. ✨"
+  ],
+  "phone": [
+    "Telephone device. 📱",
+    "Call contact. 📞",
+    "Communication. 💬"
+  ],
+  "photo": [
+    "Photograph picture. 📸",
+    "Image capture. 🖼️",
+    "Snapshot. ✨"
+  ],
+  "phrase": [
+    "Group of words. 💬",
+    "Expression saying. 🗣️",
+    "Musical passage. 🎵"
+  ],
+  "physical": [
+    "Relating to body. 💪",
+    "Material tangible. 🧱",
+    "Natural laws. ⚙️"
+  ],
+  "physics": [
+    "Science of matter. ⚛️",
+    "Natural laws. 🔬",
+    "Physical properties. 📏"
+  ],
+  "piano": [
+    "Musical instrument. 🎹",
+    "Softly (music). 🎶",
+    "Keyboard. ⌨️"
+  ],
+  "pick": [
+    "Choose select. ✋",
+    "Gather collect. 🧺",
+    "Tool for breaking. ⛏️"
+  ],
+  "picture": [
+    "Image painting. 🖼️",
+    "Imagine. 💭",
+    "Describe. 💬"
+  ],
+  "piece": [
+    "Part portion. 🧩",
+    "Artwork creation. 🎨",
+    "Coin. 🪙"
+  ],
+  "pig": [
+    "Farm animal. 🐖",
+    "Greedy person. 🐷",
+    "Eat greedily. 🍽️"
+  ],
+  "pile": [
+    "Heap stack. 📦",
+    "Large amount. 🔢",
+    "Foundation support. 🏗️"
+  ],
+  "pilot": [
+    "Aircraft controller. ✈️",
+    "Test trial. 🧪",
+    "Guide leader. 🧭"
+  ],
+  "pin": [
+    "Thin metal piece. 📍",
+    "Fasten attach. 🧷",
+    "Bowling term. 🎳"
+  ],
+  "pink": [
+    "Color shade. 💗",
+    "Flower type. 🌸",
+    "Perfection. ✨"
+  ],
+  "pipe": [
+    "Tube conduit. 🚰",
+    "Smoking device. 🚬",
+    "Musical instrument. 🎵"
+  ],
+  "pitch": [
+    "Throw toss. ⚾",
+    "Sales presentation. 💼",
+    "Black substance. ⚫"
+  ],
+  "place": [
+    "Location spot. 📍",
+    "Put position. 🏋️",
+    "Rank position. ⭐"
+  ],
+  "plain": [
+    "Simple clear. ⭕",
+    "Flat land. 🏞️",
+    "Ordinary. ⭐"
+  ],
+  "plan": [
+    "Strategy scheme. 📋",
+    "Intention. 💭",
+    "Drawing diagram. ✏️"
+  ],
+  "plane": [
+    "Aircraft. ✈️",
+    "Flat surface. 📐",
+    "Tool for smoothing. 🔧"
+  ],
+  "planet": [
+    "Celestial body. 🌍",
+    "World sphere. 🪐",
+    "Orbiting star. ⭐"
+  ],
+  "plant": [
+    "Living organism. 🌱",
+    "Factory industrial. 🏭",
+    "Place seed. 🌾"
+  ],
+  "plastic": [
+    "Synthetic material. 🛍️",
+    "Moldable. 🧩",
+    "Credit card. 💳"
+  ],
+  "plate": [
+    "Flat dish. 🍽️",
+    "Cover with metal. ⚙️",
+    "Tectonic geology. 🏔️"
+  ],
+  "play": [
+    "Engage in fun. 🎮",
+    "Perform drama. 🎭",
+    "Sports activity. ⚽"
+  ],
+  "pleasant": [
+    "Enjoyable nice. 😊",
+    "Agreeable. 👍",
+    "Friendly. 🤗"
+  ],
+  "please": [
+    "Polite request. 🙏",
+    "Give satisfaction. 😊",
+    "Wish desire. 💭"
+  ],
+  "pleasure": [
+    "Enjoyment delight. 😊",
+    "Satisfaction. ❤️",
+    "Desire. ✨"
+  ],
+  "plenty": [
+    "Abundant quantity. 📦",
+    "More than enough. ✅",
+    "Full supply. 🛒"
+  ],
+  "plot": [
+    "Story plan. 📖",
+    "Conspiracy scheme. 🕵️",
+    "Land piece. 🏞️"
+  ],
+  "plus": [
+    "Addition sign. ➕",
+    "Advantage benefit. ⭐",
+    "Positive. ✅"
+  ],
+  "pocket": [
+    "Small bag. 👖",
+    "Isolated area. 📍",
+    "Take illegally. 🏴‍☠️"
+  ],
+  "poem": [
+    "Literary composition. 📝",
+    "Verse writing. ✍️",
+    "Rhythmic piece. 🎵"
+  ],
+  "poet": [
+    "Writer of poems. ✍️",
+    "Creative artist. 🎨",
+    "Sensitive soul. ❤️"
+  ],
+  "point": [
+    "Sharp end. 🔪",
+    "Main idea. 💡",
+    "Unit score. 🏆"
+  ],
+  "police": [
+    "Law enforcement. 👮",
+    "Maintain order. 🚔",
+    "Regulate. ⚖️"
+  ],
+  "policy": [
+    "Guiding principle. 📜",
+    "Insurance contract. 🛡️",
+    "Plan of action. 📋"
+  ],
+  "polite": [
+    "Courteous respectful. 🤝",
+    "Well-mannered. 👔",
+    "Civil. 😊"
+  ],
+  "political": [
+    "Government related. 🏛️",
+    "Power dynamics. ⚔️",
+    "Policy making. 📜"
+  ],
+  "pollution": [
+    "Contamination dirty. 🏭",
+    "Environmental harm. 🌍",
+    "Impurity. ⚠️"
+  ],
+  "pool": [
+    "Small pond. 🏊",
+    "Collective resource. 👥",
+    "Game billiards. 🎱"
+  ],
+  "poor": [
+    "Lacking money. 💸",
+    "Low quality. 👎",
+    "Unfortunate. 😔"
+  ],
+  "popular": [
+    "Liked by many. 👍",
+    "Common widespread. 👥",
+    "Famous. 🌟"
+  ],
+  "population": [
+    "People living area. 👥",
+    "Total inhabitants. 🌍",
+    "Statistical group. 📊"
+  ],
+  "port": [
+    "Harbor dock. ⚓",
+    "Computer connection. 💻",
+    "Wine type. 🍷"
+  ],
+  "position": [
+    "Location place. 📍",
+    "Job role. 💼",
+    "Viewpoint. 💭"
+  ],
+  "positive": [
+    "Good favorable. ✅",
+    "Certain sure. 💯",
+    "Plus sign. ➕"
+  ],
+  "possess": [
+    "Own have. ✅",
+    "Control power. ⚙️",
+    "Have quality. ✨"
+  ],
+  "possible": [
+    "Able to happen. ✨",
+    "Potential. 💭",
+    "Feasible. ✅"
+  ],
+  "post": [
+    "Mail system. 📮",
+    "Pole stake. 🏗️",
+    "Publish online. 🌐"
+  ],
+  "pot": [
+    "Container vessel. 🍯",
+    "Cooking utensil. 🍲",
+    "Marijuana slang. 🚬"
+  ],
+  "potato": [
+    "Starchy vegetable. 🥔",
+    "Food staple. 🍽️",
+    "Couch person. 🛋️"
+  ],
+  "potential": [
+    "Possible ability. ✨",
+    "Latent capacity. 🔋",
+    "Future possibility. 🔮"
+  ],
+  "pound": [
+    "Weight unit. ⚖️",
+    "Currency British. 💷",
+    "Hit repeatedly. 👊"
+  ],
+  "pour": [
+    "Flow liquid. 🫗",
+    "Rain heavily. 🌧️",
+    "Express freely. 💬"
+  ],
+  "poverty": [
+    "Extreme poor. 💸",
+    "Lack scarcity. 🚫",
+    "Destitution. 🏚️"
+  ],
+  "powder": [
+    "Fine particles. 💨",
+    "Dust substance. 🧴",
+    "Gunpowder. 🔫"
+  ],
+  "power": [
+    "Ability strength. 💪",
+    "Electricity energy. ⚡",
+    "Control authority. 👑"
+  ],
+  "practice": [
+    "Repeated exercise. 🔄",
+    "Custom habit. 🏃‍♂️",
+    "Professional work. 💼"
+  ],
+  "praise": [
+    "Express approval. 👍",
+    "Compliment. ✨",
+    "Worship honor. 🙏"
+  ],
+  "pray": [
+    "Communicate God. 🙏",
+    "Hope wish. ✨",
+    "Beg request. 🤲"
+  ],
+  "precise": [
+    "Exact accurate. 🎯",
+    "Detailed. 🔍",
+    "Clear. 💡"
+  ],
+  "predict": [
+    "Foretell future. 🔮",
+    "Estimate outcome. 📈",
+    "Guess. 🤔"
+  ],
+  "prefer": [
+    "Like better. ⭐",
+    "Choose over. ✋",
+    "Favor. 👍"
+  ],
+  "prepare": [
+    "Make ready. 🛠️",
+    "Plan ahead. 📋",
+    "Cook food. 🍳"
+  ],
+  "presence": [
+    "Being present. 👁️",
+    "Existence. ✅",
+    "Dignity aura. ✨"
+  ],
+  "present": [
+    "Current time. ⏳",
+    "Gift offer. 🎁",
+    "Introduce show. 👋"
+  ],
+  "president": [
+    "Head of state. 🇺🇸",
+    "Organization leader. 🏢",
+    "Chairperson. 🪑"
+  ],
+  "press": [
+    "Push against. 🏋️",
+    "Media journalists. 📰",
+    "Urge insist. ⚠️"
+  ],
+  "pressure": [
+    "Force applied. 🏋️",
+    "Stress strain. 😟",
+    "Influence. ✨"
+  ],
+  "pretty": [
+    "Attractive lovely. 🌸",
+    "Fairly moderately. ⚖️",
+    "Nice. 👍"
+  ],
+  "prevent": [
+    "Stop from happening. 🛑",
+    "Hinder obstacle. 🚧",
+    "Protect from. 🛡️"
+  ],
+  "previous": [
+    "Earlier prior. ⏪",
+    "Former. 🔙",
+    "Just before. 🕐"
+  ],
+  "price": [
+    "Cost value. 🏷️",
+    "Financial amount. 💰",
+    "Consequence. ⚖️"
+  ],
+  "pride": [
+    "Self-respect. 🦁",
+    "Satisfaction. 😊",
+    "Group of lions. 🦁"
+  ],
+  "priest": [
+    "Religious leader. ⛪",
+    "Clergy member. 🙏",
+    "Mediator. 🤝"
+  ],
+  "primary": [
+    "Main first. ⭐",
+    "Elementary school. 🏫",
+    "Election first. 🗳️"
+  ],
+  "prime": [
+    "Best quality. 💎",
+    "Chief main. ⭐",
+    "Prepare surface. 🎨"
+  ],
+  "prince": [
+    "Royal son. 👑",
+    "Ruler title. 🏰",
+    "Charming man. 🤴"
+  ],
+  "principle": [
+    "Basic truth. 💎",
+    "Moral rule. ⚖️",
+    "Fundamental. ⭐"
+  ],
+  "print": [
+    "Produce text. 🖨️",
+    "Publish. 📰",
+    "Mark impression. 👣"
+  ],
+  "prior": [
+    "Earlier before. ⏪",
+    "Previous. 🔙",
+    "More important. ⭐"
+  ],
+  "prison": [
+    "Jail confinement. 🚔",
+    "Incarceration. 🔒",
+    "Restricted place. ⚠️"
+  ],
+  "private": [
+    "Personal confidential. 🔒",
+    "Not public. 🚫",
+    "Military rank. ⭐"
+  ],
+  "prize": [
+    "Award reward. 🏆",
+    "Valuable. 💎",
+    "Contest winnings. 🎉"
+  ],
+  "probable": [
+    "Likely to happen. ✨",
+    "Possible. ✅",
+    "Expected. 👁️"
+  ],
+  "problem": [
+    "Difficulty issue. ⚠️",
+    "Question puzzle. ❓",
+    "Trouble. 🌪️"
+  ],
+  "procedure": [
+    "Process method. 📋",
+    "Official way. ⚙️",
+    "Surgical operation. 🏥"
+  ],
+  "proceed": [
+    "Continue forward. ➡️",
+    "Go ahead. ✅",
+    "Legal action. ⚖️"
+  ],
+  "process": [
+    "Series actions. 🔄",
+    "Method procedure. ⚙️",
+    "Treat prepare. 🏭"
+  ],
+  "produce": [
+    "Make create. 🛠️",
+    "Agricultural products. 🌾",
+    "Show result. 📈"
+  ],
+  "product": [
+    "Item made. 📦",
+    "Result outcome. 🎯",
+    "Multiplication result. ✖️"
+  ],
+  "profession": [
+    "Occupation job. 💼",
+    "Declared belief. 🗣️",
+    "Skilled work. 🔧"
+  ],
+  "professional": [
+    "Skilled expert. 🧠",
+    "Paid occupation. 💰",
+    "High standard. ⭐"
+  ],
+  "professor": [
+    "University teacher. 🎓",
+    "Academic rank. 📚",
+    "Expert. 🧠"
+  ],
+  "profit": [
+    "Financial gain. 💰",
+    "Benefit advantage. ⭐",
+    "Earnings. 📈"
+  ],
+  "program": [
+    "Plan schedule. 📅",
+    "Computer software. 💻",
+    "Broadcast show. 📺"
+  ],
+  "progress": [
+    "Forward movement. 📈",
+    "Development. 🚀",
+    "Advance. ➡️"
+  ],
+  "project": [
+    "Plan undertaking. 🏗️",
+    "Predict estimate. 🔮",
+    "Stick out. 👆"
+  ],
+  "promise": [
+    "Pledge vow. 🤝",
+    "Potential ability. ✨",
+    "Assurance. ✅"
+  ],
+  "promote": [
+    "Advance position. 📈",
+    "Encourage support. 👍",
+    "Advertise. 📢"
+  ],
+  "prompt": [
+    "Quick on time. ⏰",
+    "Cause inspire. 💡",
+    "Reminder cue. 📝"
+  ],
+  "proof": [
+    "Evidence verification. ✅",
+    "Trial print. 🖨️",
+    "Alcohol content. 🍷"
+  ],
+  "proper": [
+    "Correct suitable. ✅",
+    "Real genuine. 💎",
+    "Polite. 🤝"
+  ],
+  "property": [
+    "Owned possession. 🏠",
+    "Land real estate. 🏞️",
+    "Characteristic. ✨"
+  ],
+  "proportion": [
+    "Comparative relation. ⚖️",
+    "Ratio share. 📊",
+    "Balance. ⚖️"
+  ],
+  "propose": [
+    "Suggest plan. 💭",
+    "Offer marriage. 💍",
+    "Nominate. 👆"
+  ],
+  "protect": [
+    "Defend guard. 🛡️",
+    "Keep safe. ✅",
+    "Shield. 🏰"
+  ],
+  "proud": [
+    "Feeling pride. 🦁",
+    "Satisfied. 😊",
+    "Arrogant. 👑"
+  ],
+  "prove": [
+    "Demonstrate truth. ✅",
+    "Test verify. 🧪",
+    "Show ability. 💪"
+  ],
+  "provide": [
+    "Supply give. 📦",
+    "Make available. ✅",
+    "Stipulate. 📜"
+  ],
+  "public": [
+    "Open to all. 👥",
+    "Community. 🌍",
+    "Government. 🏛️"
+  ],
+  "publish": [
+    "Make known. 📰",
+    "Issue print. 🖨️",
+    "Release. 🆕"
+  ],
+  "pull": [
+    "Draw toward. 🏋️",
+    "Influence force. ✨",
+    "Remove. 🚫"
+  ],
+  "pump": [
+    "Move liquid/gas. ⛽",
+    "Heart action. ❤️",
+    "Shoe type. 👠"
+  ],
+  "pupil": [
+    "Student learner. 🎓",
+    "Eye part. 👁️",
+    "Under teacher. 👨‍🏫"
+  ],
+  "purchase": [
+    "Buy acquire. 🛒",
+    "Acquisition. 📦",
+    "Grip grasp. ✋"
+  ],
+  "pure": [
+    "Not mixed. 💎",
+    "Clean uncontaminated. ✨",
+    "Sheer absolute. ✅"
+  ],
+  "purple": [
+    "Color blend. 🟣",
+    "Royal color. 👑",
+    "Grape shade. 🍇"
+  ],
+  "purpose": [
+    "Reason intention. 🎯",
+    "Goal aim. ✨",
+    "Determination. 💪"
+  ],
+  "push": [
+    "Press force. 🏋️",
+    "Promote urge. 📢",
+    "Effort attempt. 💪"
+  ],
+  "put": [
+    "Place set. 📍",
+    "Express state. 💬",
+    "Invest money. 💰"
+  ],
+  "qualify": [
+    "Meet standard. ✅",
+    "Modify limit. ⚙️",
+    "Describe attribute. 📝"
+  ],
+  "quality": [
+    "Standard grade. ⭐",
+    "Characteristic. ✨",
+    "Superior. 💎"
+  ],
+  "quantity": [
+    "Amount number. 🔢",
+    "Measure. 📏",
+    "Bulk. 📦"
+  ],
+  "quarter": [
+    "One-fourth. ¼",
+    "Three months. 📅",
+    "Coin 25 cents. 🪙"
+  ],
+  "queen": [
+    "Female monarch. 👑",
+    "Best example. 💎",
+    "Chess piece. ♕"
+  ],
+  "question": [
+    "Inquiry query. ❓",
+    "Doubt issue. 🤔",
+    "Interrogate. 🗣️"
+  ],
+  "quick": [
+    "Fast rapid. ⚡",
+    "Prompt immediate. ⏰",
+    "Intelligent. 🧠"
+  ],
+  "quiet": [
+    "Silent calm. 🤫",
+    "Peaceful. 🧘",
+    "Not loud. 🔊"
+  ],
+  "quit": [
+    "Stop leave. 🚪",
+    "Resign job. 💼",
+    "Give up. 🏳️"
+  ],
+  "quite": [
+    "Completely fully. ✅",
+    "Rather fairly. ⚖️",
+    "Very. ⭐"
+  ],
+  "quote": [
+    "Repeat words. 💬",
+    "Citation. 📝",
+    "Price estimate. 💰"
+  ],
+  "race": [
+    "Competition speed. 🏃‍♂️",
+    "Ethnic group. 👥",
+    "Rush hurry. ⏳"
+  ],
+  "radio": [
+    "Broadcast device. 📻",
+    "Wireless communication. 📡",
+    "Music news. 🎵"
+  ],
+  "rail": [
+    "Track bar. 🚂",
+    "Fence support. 🚧",
+    "Complain. 😠"
+  ],
+  "rain": [
+    "Precipitation water. 🌧️",
+    "Fall abundantly. 📦",
+    "Blessing. 🙏"
+  ],
+  "raise": [
+    "Lift elevate. ⬆️",
+    "Bring up children. 👶",
+    "Increase amount. 📈"
+  ],
+  "range": [
+    "Variety scope. 🌈",
+    "Mountain chain. 🏔️",
+    "Distance extent. 📏"
+  ],
+  "rank": [
+    "Position grade. ⭐",
+    "Classify order. 📋",
+    "Foul smell. 🤢"
+  ],
+  "rapid": [
+    "Very fast. ⚡",
+    "Quick swift. 🏃‍♂️",
+    "Steep descent. 🏔️"
+  ],
+  "rare": [
+    "Uncommon infrequent. 💎",
+    "Not cooked much. 🥩",
+    "Thin air. 💨"
+  ],
+  "rate": [
+    "Speed frequency. 📈",
+    "Price charge. 💰",
+    "Evaluate. 🔍"
+  ],
+  "rather": [
+    "Prefer instead. ⚖️",
+    "Quite somewhat. ⭐",
+    "More accurately. 🎯"
+  ],
+  "raw": [
+    "Uncooked natural. 🥩",
+    "Unprocessed. 🌱",
+    "Painful sensitive. 💔"
+  ],
+  "reach": [
+    "Arrive achieve. 🎯",
+    "Stretch extend. 🏹",
+    "Contact. 📞"
+  ],
+  "react": [
+    "Respond act. ⚡",
+    "Chemical change. 🧪",
+    "Oppose. ⚔️"
+  ],
+  "read": [
+    "Interpret text. 📖",
+    "Understand meaning. 🧠",
+    "Speak aloud. 🗣️"
+  ],
+  "ready": [
+    "Prepared set. ✅",
+    "Willing. 👍",
+    "Available. 📦"
+  ],
+  "real": [
+    "Actual genuine. ✅",
+    "Not imaginary. 💎",
+    "Serious. ⚠️"
+  ],
+  "realize": [
+    "Become aware. 💡",
+    "Achieve fulfill. 🎯",
+    "Earn money. 💰"
+  ],
+  "reason": [
+    "Cause explanation. 🧠",
+    "Logic sense. ⚙️",
+    "Justify. ⚖️"
+  ],
+  "receive": [
+    "Get accept. 📥",
+    "Welcome greet. 👋",
+    "Experience. ✨"
+  ],
+  "recent": [
+    "Not long ago. 📅",
+    "New latest. 🆕",
+    "Current. 🔄"
+  ],
+  "recognize": [
+    "Identify know. 👁️",
+    "Acknowledge. ✅",
+    "Appreciate. 👍"
+  ],
+  "recommend": [
+    "Advise suggest. 💡",
+    "Praise endorse. 👍",
+    "Make attractive. ✨"
+  ],
+  "record": [
+    "Written account. 📝",
+    "Best performance. 🏆",
+    "Store data. 💾"
+  ],
+  "recover": [
+    "Get back regain. 🔄",
+    "Heal improve. 🏥",
+    "Retrieve. 🔍"
+  ],
+  "red": [
+    "Color. 🔴",
+    "Communist. 🏴",
+    "Danger warning. ⚠️"
+  ],
+  "reduce": [
+    "Make smaller. 📉",
+    "Decrease lessen. ⬇️",
+    "Simplify. 🔧"
+  ],
+  "refer": [
+    "Mention direct. 👆",
+    "Consult source. 📖",
+    "Send to. ➡️"
+  ],
+  "reference": [
+    "Mention citation. 📝",
+    "Recommendation. 👍",
+    "Source information. 📚"
+  ],
+  "reflect": [
+    "Throw back light. ✨",
+    "Think deeply. 💭",
+    "Show image. 🪞"
+  ],
+  "reform": [
+    "Improve change. 🔄",
+    "Correct behavior. ⚖️",
+    "Political change. 🏛️"
+  ],
+  "refuse": [
+    "Decline reject. 🙅",
+    "Garbage waste. 🗑️",
+    "Not allow. 🚫"
+  ],
+  "regard": [
+    "Consider view. 👁️",
+    "Respect esteem. 👍",
+    "Attention. 🔍"
+  ],
+  "region": [
+    "Area district. 🗺️",
+    "Part of body. 💪",
+    "Administrative. 🏛️"
+  ],
+  "register": [
+    "Record officially. 📝",
+    "Show emotion. 😊",
+    "Voice range. 🎵"
+  ],
+  "regret": [
+    "Feel sorry. 😔",
+    "Sorrow remorse. 💔",
+    "Miss opportunity. 🕊️"
+  ],
+  "regular": [
+    "Normal usual. ✅",
+    "Frequent pattern. 🔄",
+    "Even symmetrical. ⚖️"
+  ],
+  "reject": [
+    "Refuse deny. 🚫",
+    "Throw out. 🗑️",
+    "Not accept. 🙅"
+  ],
+  "relate": [
+    "Connect associate. 🔗",
+    "Tell story. 📖",
+    "Understand empathize. 🤝"
+  ],
+  "relation": [
+    "Connection link. 🔗",
+    "Family member. 👨‍👩‍👧",
+    "Narrative. 📖"
+  ],
+  "relative": [
+    "Family member. 👨‍👩‍👧",
+    "Comparative. ⚖️",
+    "Relevant. ⭐"
+  ],
+  "relax": [
+    "Rest loosen. 😌",
+    "Become less tense. 🧘",
+    "Make less strict. ⚙️"
+  ],
+  "release": [
+    "Set free. 🕊️",
+    "Make available. 📦",
+    "Publish issue. 🆕"
+  ],
+  "relevant": [
+    "Connected appropriate. 🔗",
+    "Significant. ⭐",
+    "Pertinent. 💡"
+  ],
+  "relief": [
+    "Ease alleviation. 😌",
+    "Aid help. 🆘",
+    "Sculpture projection. 🗿"
+  ],
+  "religion": [
+    "Belief system. 🙏",
+    "Faith worship. ⛪",
+    "Devotion. ❤️"
+  ],
+  "rely": [
+    "Depend trust. 🤝",
+    "Count on. ✅",
+    "Rest on. 🛋️"
+  ],
+  "remain": [
+    "Stay continue. 🧍",
+    "Be left. 📦",
+    "Endure. 💪"
+  ],
+  "remark": [
+    "Comment statement. 💬",
+    "Notice observe. 👁️",
+    "Significance. ⭐"
+  ],
+  "remember": [
+    "Recall memory. 🧠",
+    "Keep in mind. 💭",
+    "Honor. 🏆"
+  ],
+  "remind": [
+    "Cause to remember. 📝",
+    "Notify prompt. ⏰",
+    "Resemble. 🔄"
+  ],
+  "remote": [
+    "Distant far. 🌌",
+    "Isolated. 🏔️",
+    "Control device. 📺"
+  ],
+  "remove": [
+    "Take away. 🚫",
+    "Eliminate. 🗑️",
+    "Dismiss. 💼"
+  ],
+  "rent": [
+    "Payment for use. 🏠",
+    "Tear split. 💔",
+    "Hire lease. 📝"
+  ],
+  "repair": [
+    "Fix restore. 🔧",
+    "Mend. 🧵",
+    "Compensate. ⚖️"
+  ],
+  "repeat": [
+    "Do again. 🔄",
+    "Say again. 🗣️",
+    "Recurrence. ↩️"
+  ],
+  "replace": [
+    "Take place of. 🔄",
+    "Substitute. ⚙️",
+    "Return to place. 📍"
+  ],
+  "reply": [
+    "Answer respond. 💬",
+    "React. ⚡",
+    "Return. ↩️"
+  ],
+  "report": [
+    "Give account. 📰",
+    "Rumored. 📢",
+    "Explosion sound. 💥"
+  ],
+  "represent": [
+    "Stand for. 🎭",
+    "Act on behalf. 🤝",
+    "Portray. 🖼️"
+  ],
+  "republic": [
+    "Form of government. 🏛️",
+    "Democratic state. 🇺🇸",
+    "Political system. 🗳️"
+  ],
+  "reputation": [
+    "Opinion others. 👁️",
+    "Fame. 🌟",
+    "Character. 🧍"
+  ],
+  "request": [
+    "Ask for. 🙏",
+    "Formal demand. 📜",
+    "Seek. 🔍"
+  ],
+  "require": [
+    "Need demand. ⚠️",
+    "Make necessary. ✅",
+    "Obligate. ⚖️"
+  ],
+  "research": [
+    "Investigation study. 🔍",
+    "Scientific inquiry. 🧪",
+    "Search. 🔎"
+  ],
+  "reserve": [
+    "Keep back. 📦",
+    "Book in advance. 📅",
+    "Shyness. 😳"
+  ],
+  "resident": [
+    "Living in place. 🏠",
+    "Permanent inhabitant. 👥",
+    "Medical graduate. 🏥"
+  ],
+  "resist": [
+    "Oppose withstand. 🛡️",
+    "Refrain from. 🚫",
+    "Fight against. ⚔️"
+  ],
+  "resolve": [
+    "Decide firmly. ✅",
+    "Solve problem. 🔧",
+    "Determination. 💪"
+  ],
+  "resort": [
+    "Vacation place. 🏖️",
+    "Turn to option. 🔄",
+    "Last resource. ⚠️"
+  ],
+  "resource": [
+    "Supply asset. 📦",
+    "Natural wealth. 🌍",
+    "Means. ⚙️"
+  ],
+  "respect": [
+    "Admire honor. 👍",
+    "Consideration. 🤝",
+    "Aspect detail. 🔍"
+  ],
+  "respond": [
+    "Answer reply. 💬",
+    "React. ⚡",
+    "Be affected. ✨"
+  ],
+  "response": [
+    "Reply answer. 💬",
+    "Reaction. ⚡",
+    "Church part. ⛪"
+  ],
+  "responsibility": [
+    "Duty obligation. 🛡️",
+    "Accountability. ⚖️",
+    "Maturity. 🧓"
+  ],
+  "rest": [
+    "Relax sleep. 😴",
+    "Remainder leftover. 📦",
+    "Support base. 🪑"
+  ],
+  "restaurant": [
+    "Eating place. 🍽️",
+    "Food service. 👨‍🍳",
+    "Cuisine. 🥘"
+  ],
+  "result": [
+    "Outcome effect. 🎯",
+    "Consequence. 💥",
+    "End product. 📦"
+  ],
+  "retain": [
+    "Keep hold. 📦",
+    "Remember. 🧠",
+    "Employ hire. 💼"
+  ],
+  "retire": [
+    "Stop working. 🧓",
+    "Withdraw. 🚶",
+    "Go to bed. 🛏️"
+  ],
+  "return": [
+    "Go back. ↩️",
+    "Give back. 🔄",
+    "Profit yield. 💰"
+  ],
+  "reveal": [
+    "Make known. 👁️",
+    "Show display. ✨",
+    "Disclose. 🔓"
+  ],
+  "revenue": [
+    "Income money. 💰",
+    "Government income. 🏛️",
+    "Earnings. 📈"
+  ],
+  "review": [
+    "Assess evaluate. 🔍",
+    "Critique. 📝",
+    "Inspect again. 👁️"
+  ],
+  "revolution": [
+    "Forcible overthrow. 🔄",
+    "Complete change. ✨",
+    "Orbital movement. 🪐"
+  ],
+  "reward": [
+    "Prize benefit. 🏆",
+    "Recompense. 💰",
+    "Return for action. 🔄"
+  ],
+  "rice": [
+    "Grain food. 🍚",
+    "Staple crop. 🌾",
+    "Small particles. 💎"
+  ],
+  "rich": [
+    "Wealthy affluent. 💰",
+    "Abundant plentiful. 📦",
+    "Flavorful. 😋"
+  ],
+  "ride": [
+    "Travel on. 🚗",
+    "Journey. 🛣️",
+    "Tease annoy. 😄"
+  ],
+  "right": [
+    "Correct true. ✅",
+    "Opposite left. ➡️",
+    "Moral good. ⚖️"
+  ],
+  "ring": [
+    "Circular band. 💍",
+    "Telephone call. 📞",
+    "Arena. 🥊"
+  ],
+  "rise": [
+    "Go up. ⬆️",
+    "Increase. 📈",
+    "Get out of bed. 🛏️"
+  ],
+  "risk": [
+    "Danger chance. ⚠️",
+    "Possibility loss. 📉",
+    "Take chance. 🎲"
+  ],
+  "river": [
+    "Flowing water. 🌊",
+    "Large stream. 🏞️",
+    "Abundant flow. 📦"
+  ],
+  "road": [
+    "Path street. 🛣️",
+    "Route way. 🧭",
+    "Journey. 🚗"
+  ],
+  "rock": [
+    "Stone mineral. 🪨",
+    "Music genre. 🤘",
+    "Move gently. 🛋️"
+  ],
+  "role": [
+    "Function part. 🎭",
+    "Character duty. 🛡️",
+    "Position. 📍"
+  ],
+  "roll": [
+    "Turn over. 🔄",
+    "Bread piece. 🥖",
+    "List register. 📝"
+  ],
+  "roof": [
+    "Top covering. 🏠",
+    "Upper limit. ⬆️",
+    "House top. 🏡"
+  ],
+  "room": [
+    "Space area. 🏠",
+    "Opportunity chance. ✨",
+    "Accommodation. 🛏️"
+  ],
+  "root": [
+    "Plant part. 🌱",
+    "Source origin. 🎯",
+    "Mathematics. ➕"
+  ],
+  "rope": [
+    "Thick cord. 🪢",
+    "Lasso catch. 🤠",
+    "Know procedures. 🧠"
+  ],
+  "rose": [
+    "Flower type. 🌹",
+    "Past tense rise. ⬆️",
+    "Pink color. 💗"
+  ],
+  "rough": [
+    "Not smooth. 🪨",
+    "Approximate. 📏",
+    "Difficult. 🏋️"
+  ],
+  "round": [
+    "Circular shape. ⭕",
+    "Series actions. 🔄",
+    "Ammunition. 🔫"
+  ],
+  "route": [
+    "Path course. 🛣️",
+    "Way road. 🧭",
+    "Send along path. ➡️"
+  ],
+  "routine": [
+    "Regular procedure. 🔄",
+    "Dull unvarying. 😴",
+    "Performance act. 🎭"
+  ],
+  "row": [
+    "Line series. 👥",
+    "Argument dispute. ⚔️",
+    "Propel boat. 🚣"
+  ],
+  "royal": [
+    "Relating to monarchy. 👑",
+    "Magnificent. ✨",
+    "Large size. 🐘"
+  ],
+  "rub": [
+    "Move back forth. ✋",
+    "Difficulty problem. ⚠️",
+    "Massage. 💆"
+  ],
+  "rubber": [
+    "Elastic material. 🛞",
+    "Eraser. ✏️",
+    "Condom. 🚫"
+  ],
+  "rude": [
+    "Impolite disrespectful. 😠",
+    "Crude rough. 🪨",
+    "Sudden violent. 💥"
+  ],
+  "rule": [
+    "Regulation law. 📜",
+    "Govern control. ⚙️",
+    "Straight line. 📏"
+  ],
+  "run": [
+    "Move fast. 🏃‍♂️",
+    "Manage operate. ⚙️",
+    "Flow liquid. 💦"
+  ],
+  "rural": [
+    "Countryside area. 🌄",
+    "Agricultural. 🌾",
+    "Not urban. 🏙️"
+  ],
+  "rush": [
+    "Hurry speed. ⏳",
+    "Sudden flow. 🌊",
+    "Attack charge. ⚔️"
+  ],
+  "sacred": [
+    "Holy religious. 🙏",
+    "Dedicated. ⛪",
+    "Protected. 🛡️"
+  ],
+  "sad": [
+    "Unhappy sorrowful. 😢",
+    "Regrettable. 💔",
+    "Dark color. ⚫"
+  ],
+  "safe": [
+    "Secure protected. 🛡️",
+    "Not dangerous. ✅",
+    "Strongbox. 🏦"
+  ],
+  "sail": [
+    "Travel by boat. ⛵",
+    "Sheet canvas. 🍃",
+    "Glide smoothly. 🕊️"
+  ],
+  "sake": [
+    "Purpose reason. 🎯",
+    "Japanese wine. 🍶",
+    "Benefit. ⭐"
+  ],
+  "salad": [
+    "Dish of raw food. 🥗",
+    "Mixed variety. 🔀",
+    "Green meal. 🥬"
+  ],
+  "salary": [
+    "Regular pay. 💰",
+    "Compensation. 💼",
+    "Monthly income. 📅"
+  ],
+  "sale": [
+    "Selling exchange. 🛒",
+    "Discount event. 🏷️",
+    "Transaction. 💱"
+  ],
+  "salt": [
+    "Seasoning mineral. 🧂",
+    "Preservative. 🥫",
+    "Experienced sailor. ⚓"
+  ],
+  "same": [
+    "Identical alike. 🔄",
+    "Not different. ✅",
+    "Unchanged. ⏳"
+  ],
+  "sample": [
+    "Specimen example. 📋",
+    "Taste test. 😋",
+    "Small part. 🔍"
+  ],
+  "sand": [
+    "Tiny grains. 🏖️",
+    "Grit courage. 💪",
+    "Smooth with paper. 🔧"
+  ],
+  "sandwich": [
+    "Bread food. 🥪",
+    "Insert between. 📍",
+    "Compressed. 📦"
+  ],
+  "satisfy": [
+    "Meet needs. ✅",
+    "Please content. 😊",
+    "Fulfill requirement. 🎯"
+  ],
+  "save": [
+    "Rescue keep. 🛡️",
+    "Store data. 💾",
+    "Except. 🚫"
+  ],
+  "say": [
+    "Express words. 🗣️",
+    "State opinion. 💬",
+    "For example. 📋"
+  ],
+  "scale": [
+    "Size extent. 📏",
+    "Weighing device. ⚖️",
+    "Fish skin. 🐟"
+  ],
+  "scan": [
+    "Look over quickly. 👁️",
+    "Digital copy. 📄",
+    "Medical image. 🏥"
+  ],
+  "scene": [
+    "Place setting. 🎭",
+    "Part of play. 🎬",
+    "Public display. 👁️"
+  ],
+  "schedule": [
+    "Plan timetable. 📅",
+    "List of events. 📋",
+    "Arrange. ⚙️"
+  ],
+  "scheme": [
+    "Plan plot. 🕵️",
+    "System arrangement. ⚙️",
+    "Dishonest plan. 🎭"
+  ],
+  "school": [
+    "Education institution. 🏫",
+    "Group fish. 🐟",
+    "Teach train. 👨‍🏫"
+  ],
+  "science": [
+    "Systematic study. 🔬",
+    "Knowledge discipline. 🧪",
+    "Skill technique. ⚙️"
+  ],
+  "scissors": [
+    "Cutting tool. ✂️",
+    "Two-bladed. 🔪",
+    "Gymnastics move. 🤸"
+  ],
+  "score": [
+    "Points earned. 🏆",
+    "Music written. 🎵",
+    "Cut mark. 🔪"
+  ],
+  "screen": [
+    "Protective partition. 🖥️",
+    "Movie display. 🎬",
+    "Test examine. 🔍"
+  ],
+  "sea": [
+    "Large water body. 🌊",
+    "Ocean. 🏝️",
+    "Vast amount. 📦"
+  ],
+  "search": [
+    "Look for. 🔍",
+    "Seek find. 🎯",
+    "Examine. 👁️"
+  ],
+  "season": [
+    "Time of year. 🍂",
+    "Add flavor. 🧂",
+    "Mature age. 🧓"
+  ],
+  "seat": [
+    "Place to sit. 🪑",
+    "Location base. 📍",
+    "Membership. 🏛️"
+  ],
+  "second": [
+    "Next after first. 2️⃣",
+    "Unit of time. ⏱️",
+    "Support endorse. 👍"
+  ],
+  "secret": [
+    "Kept hidden. 🤫",
+    "Confidential. 🔒",
+    "Mystery. ❓"
+  ],
+  "section": [
+    "Part portion. 🧩",
+    "Division area. 🗺️",
+    "Cut slice. 🔪"
+  ],
+  "secure": [
+    "Safe protected. 🛡️",
+    "Firmly fixed. 🔒",
+    "Obtain get. ✅"
+  ],
+  "see": [
+    "Perceive with eyes. 👁️",
+    "Understand. 🧠",
+    "Meet visit. 👥"
+  ],
+  "seed": [
+    "Plant beginning. 🌱",
+    "Origin source. 🎯",
+    "Sports tournament. 🏆"
+  ],
+  "seek": [
+    "Search for. 🔍",
+    "Attempt try. 💪",
+    "Ask for. 🙏"
+  ],
+  "seem": [
+    "Appear look. 👁️",
+    "Give impression. ✨",
+    "Probably. ✅"
+  ],
+  "select": [
+    "Choose pick. ✋",
+    "High quality. ⭐",
+    "Exclusive. 🔒"
+  ],
+  "self": [
+    "Own person. 👤",
+    "Identity ego. 🧠",
+    "Automatic. ⚙️"
+  ],
+  "sell": [
+    "Exchange for money. 🛒",
+    "Promote convince. 👍",
+    "Betray. 🐍"
+  ],
+  "send": [
+    "Cause to go. 📤",
+    "Dispatch. 🚚",
+    "Transmit. 📡"
+  ],
+  "senior": [
+    "Older higher rank. 👴",
+    "Final year student. 🎓",
+    "Superior. ⭐"
+  ],
+  "sense": [
+    "Faculty perception. 👁️",
+    "Meaning significance. 💡",
+    "Good judgment. 🧠"
+  ],
+  "sensitive": [
+    "Easily affected. 🌸",
+    "Delicate. 🍃",
+    "Responsive. ⚡"
+  ],
+  "sentence": [
+    "Grammatical unit. 📝",
+    "Punishment decree. ⚖️",
+    "Declare penalty. 👨‍⚖️"
+  ],
+  "separate": [
+    "Divide apart. 🔀",
+    "Individual distinct. 💎",
+    "Not together. 🚫"
+  ],
+  "sequence": [
+    "Order series. 📋",
+    "Succession. 🔄",
+    "Film continuity. 🎬"
+  ],
+  "series": [
+    "Number in order. 🔢",
+    "TV program set. 📺",
+    "Sequence. 🔄"
+  ],
+  "serious": [
+    "Important significant. ⚠️",
+    "Solemn earnest. 😔",
+    "Severe. 💔"
+  ],
+  "servant": [
+    "Domestic worker. 👨‍🍳",
+    "Public official. 🏛️",
+    "Devotee. 🙏"
+  ],
+  "serve": [
+    "Perform duties. ⚙️",
+    "Provide food. 🍽️",
+    "Legal document. 📜"
+  ],
+  "service": [
+    "Help assistance. 🤲",
+    "Military duty. 🪖",
+    "Ceremony. ⛪"
+  ],
+  "session": [
+    "Meeting period. 👥",
+    "Sitting gathering. 🪑",
+    "Legislative term. 🏛️"
+  ],
+  "set": [
+    "Put place. 📍",
+    "Group collection. 📦",
+    "Fixed rigid. 🔒"
+  ],
+  "settle": [
+    "Resolve decide. ✅",
+    "Colonize inhabit. 🏠",
+    "Pay debt. 💰"
+  ],
+  "seven": [
+    "Number 7. 7️⃣",
+    "Several. 🔢",
+    "Lucky number. 🍀"
+  ],
+  "several": [
+    "More than two. 🔢",
+    "Various. 🌈",
+    "Separate distinct. 💎"
+  ],
+  "severe": [
+    "Very serious. ⚠️",
+    "Strict harsh. 😠",
+    "Plain simple. ⭕"
+  ],
+  "sex": [
+    "Biological category. ♀️",
+    "Sexual activity. ❤️",
+    "Gender. 👥"
+  ],
+  "shade": [
+    "Slight darkness. 🌑",
+    "Color variation. 🎨",
+    "Protection from sun. 🌳"
+  ],
+  "shadow": [
+    "Dark shape. 👤",
+    "Follow secretly. 🕵️",
+    "Small amount. 🔹"
+  ],
+  "shake": [
+    "Move quickly. 👐",
+    "Upset disturb. 😟",
+    "Hand gesture. 👋"
+  ],
+  "shall": [
+    "Future intention. 🔮",
+    "Obligation. ⚖️",
+    "Determination. 💪"
+  ],
+  "shape": [
+    "Form outline. 🔵",
+    "Condition state. ⚙️",
+    "Influence. ✨"
+  ],
+  "share": [
+    "Divide portion. 🍰",
+    "Participate. 👥",
+    "Stock market. 📈"
+  ],
+  "sharp": [
+    "Having edge. 🔪",
+    "Sudden intense. ⚡",
+    "Intelligent. 🧠"
+  ],
+  "she": [
+    "Female pronoun. 👩",
+    "That woman. 🧍",
+    "Subject. 📝"
+  ],
+  "sheep": [
+    "Farm animal. 🐑",
+    "Follower. 👥",
+    "Timid person. 🫣"
+  ],
+  "sheet": [
+    "Bed cover. 🛏️",
+    "Flat piece. 📄",
+    "Large area. 🌊"
+  ],
+  "shelf": [
+    "Storage surface. 📚",
+    "Sandbank. 🏖️",
+    "Ledge. 🗄️"
+  ],
+  "shell": [
+    "Hard outer cover. 🐚",
+    "Bomb projectile. 💣",
+    "Remove shell. 🥚"
+  ],
+  "shelter": [
+    "Protection refuge. 🛡️",
+    "Housing. 🏠",
+    "Take cover. 🌧️"
+  ],
+  "shift": [
+    "Change move. 🔄",
+    "Work period. 🕐",
+    "Gear change. 🚗"
+  ],
+  "shine": [
+    "Emit light. ✨",
+    "Polish bright. 🔆",
+    "Excellence. ⭐"
+  ],
+  "ship": [
+    "Large boat. 🚢",
+    "Send transport. 📦",
+    "Vessel. ⚓"
+  ],
+  "shirt": [
+    "Clothing garment. 👕",
+    "Top wear. 🧥",
+    "Sports jersey. ⚽"
+  ],
+  "shock": [
+    "Surprise upset. 😲",
+    "Electric jolt. ⚡",
+    "Medical condition. 🏥"
+  ],
+  "shoe": [
+    "Footwear. 👞",
+    "Horseshoe. 🐎",
+    "Position situation. 📍"
+  ],
+  "shoot": [
+    "Fire weapon. 🔫",
+    "Photograph film. 📸",
+    "New growth. 🌱"
+  ],
+  "shop": [
+    "Store market. 🛒",
+    "Workshop. 🔨",
+    "Buy goods. 🛍️"
+  ],
+  "short": [
+    "Small length. 📏",
+    "Brief time. ⏳",
+    "Deficient lacking. 📉"
+  ],
+  "should": [
+    "Ought to. ⚖️",
+    "Expected. 👁️",
+    "Conditional. 🔀"
+  ],
+  "shoulder": [
+    "Body part. 💪",
+    "Carry responsibility. 🏋️",
+    "Road edge. 🛣️"
+  ],
+  "shout": [
+    "Loud cry. 📢",
+    "Yell call. 🗣️",
+    "Express strongly. 💪"
+  ],
+  "show": [
+    "Display exhibit. 👁️",
+    "Prove demonstrate. ✅",
+    "Entertainment program. 📺"
+  ],
+  "shower": [
+    "Brief rain. 🌧️",
+    "Wash under spray. 🚿",
+    "Party gifts. 🎁"
+  ],
+  "shut": [
+    "Close fasten. 🚪",
+    "Stop operation. ⚙️",
+    "Confined. 🔒"
+  ],
+  "sick": [
+    "Ill unwell. 🤒",
+    "Morbid interest. 🩸",
+    "Vomit. 🤢"
+  ],
+  "side": [
+    "Edge position. ⬅️",
+    "Aspect facet. 💎",
+    "Sports team. ⚽"
+  ],
+  "sight": [
+    "Ability see. 👁️",
+    "View spectacle. ✨",
+    "Aim device. 🎯"
+  ],
+  "sign": [
+    "Symbol indication. 🔣",
+    "Write signature. ✍️",
+    "Omen. 🔮"
+  ],
+  "signal": [
+    "Gesture message. 📶",
+    "Indicator. ⚠️",
+    "Communicate. 📡"
+  ],
+  "silence": [
+    "Absence sound. 🤫",
+    "Secrecy. 🔒",
+    "Make quiet. 🚫"
+  ],
+  "silent": [
+    "Making no sound. 🤫",
+    "Not speaking. 🗣️",
+    "Inactive. 😴"
+  ],
+  "silk": [
+    "Fine fabric. 🧵",
+    "Smooth soft. 🍃",
+    "Royal. 👑"
+  ],
+  "silly": [
+    "Foolish stupid. 🤪",
+    "Playful. 🎈",
+    "Ridiculous. 😄"
+  ],
+  "silver": [
+    "Precious metal. 🥈",
+    "Color gray. ⚪",
+    "25th anniversary. 🎉"
+  ],
+  "similar": [
+    "Alike resembling. 🔄",
+    "Comparable. ⚖️",
+    "Almost same. ✅"
+  ],
+  "simple": [
+    "Easy plain. ⭕",
+    "Not complex. 🔧",
+    "Genuine. 💎"
+  ],
+  "since": [
+    "From time past. ⏪",
+    "Because reason. ⚙️",
+    "After event. 🔄"
+  ],
+  "sing": [
+    "Musical voice. 🎤",
+    "Produce melody. 🎵",
+    "Celebrate. 🎉"
+  ],
+  "single": [
+    "One only. 1️⃣",
+    "Unmarried. 💍",
+    "Individual. 👤"
+  ],
+  "sink": [
+    "Go down. ⬇️",
+    "Basin fixture. 🚰",
+    "Decline weaken. 📉"
+  ],
+  "sir": [
+    "Polite address. 👨",
+    "Title knight. 🏰",
+    "Respectful. 🤝"
+  ],
+  "sister": [
+    "Female sibling. 👩",
+    "Nun. ⛪",
+    "Close friend. 💕"
+  ],
+  "sit": [
+    "Rest on seat. 🪑",
+    "Be located. 📍",
+    "Pose for artist. 🎨"
+  ],
+  "site": [
+    "Location place. 📍",
+    "Website address. 🌐",
+    "Construction area. 🏗️"
+  ],
+  "situation": [
+    "Circumstances condition. ⚙️",
+    "Location place. 📍",
+    "Job position. 💼"
+  ],
+  "six": [
+    "Number 6. 6️⃣",
+    "Half dozen. 🔢",
+    "Cricket over. 🏏"
+  ],
+  "size": [
+    "Dimensions extent. 📏",
+    "Magnitude scale. 🐘",
+    "Fit suitability. ✅"
+  ],
+  "skill": [
+    "Ability expertise. 🧠",
+    "Proficiency. ⚙️",
+    "Trained talent. 🔧"
+  ],
+  "skin": [
+    "Body covering. 🧍",
+    "Peel remove. 🍌",
+    "Outer layer. 🍎"
+  ],
+  "skirt": [
+    "Clothing garment. 👗",
+    "Edge border. 🚧",
+    "Avoid issue. 🏃‍♂️"
+  ],
+  "sky": [
+    "Atmosphere above. ☁️",
+    "Heaven. ✨",
+    "Weather. 🌤️"
+  ],
+  "slave": [
+    "Enforced servant. ⛓️",
+    "Devotee follower. 🙏",
+    "Work hard. 💪"
+  ],
+  "sleep": [
+    "Rest unconscious. 😴",
+    "State of rest. 🛏️",
+    "Death metaphor. 💀"
+  ],
+  "slice": [
+    "Cut piece. 🍰",
+    "Thin portion. 🔪",
+    "Golf shot. ⛳"
+  ],
+  "slide": [
+    "Move smoothly. 🛝",
+    "Photographic transparency. 📸",
+    "Decline drop. 📉"
+  ],
+  "slight": [
+    "Small minor. 🔹",
+    "Slender thin. 🍃",
+    "Insult snub. 😠"
+  ],
+  "slip": [
+    "Slide lose balance. 🧍",
+    "Mistake error. ⚠️",
+    "Underwear. 🩲"
+  ],
+  "slope": [
+    "Incline slant. 📐",
+    "Hill side. ⛰️",
+    "Angle tilt. ↗️"
+  ],
+  "slow": [
+    "Not fast. 🐌",
+    "Reduce speed. 📉",
+    "Dull boring. 😴"
+  ],
+  "small": [
+    "Little size. 🔹",
+    "Minor unimportant. ⬇️",
+    "Young. 👶"
+  ],
+  "smart": [
+    "Intelligent clever. 🧠",
+    "Well-dressed. 👔",
+    "Sting pain. 💥"
+  ],
+  "smell": [
+    "Odor scent. 👃",
+    "Sense sniff. 🌸",
+    "Bad odor. 🤢"
+  ],
+  "smile": [
+    "Happy expression. 😊",
+    "Show pleasure. ✨",
+    "Favorable aspect. 👍"
+  ],
+  "smoke": [
+    "Visible vapor. 💨",
+    "Tobacco use. 🚬",
+    "Preserve food. 🍖"
+  ],
+  "smooth": [
+    "Even surface. 🔵",
+    "Polished refined. ✨",
+    "Easy effortless. ✅"
+  ],
+  "snake": [
+    "Legless reptile. 🐍",
+    "Treacherous person. 🐍",
+    "Wind twist. 🌀"
+  ],
+  "snow": [
+    "Frozen precipitation. ❄️",
+    "Cocaine slang. 🤧",
+    "Cover with snow. 🌨️"
+  ],
+  "so": [
+    "Therefore thus. ⚙️",
+    "Very extremely. ⭐",
+    "In that way. 🔄"
+  ],
+  "soap": [
+    "Cleaning agent. 🧼",
+    "TV drama. 📺",
+    "Flatter. 💬"
+  ],
+  "social": [
+    "Relating to society. 👥",
+    "Friendly gathering. 🎉",
+    "Community. 🌍"
+  ],
+  "society": [
+    "Community group. 👥",
+    "Organization club. 🏢",
+    "Fashionable people. 👔"
+  ],
+  "sock": [
+    "Foot garment. 🧦",
+    "Hit punch. 👊",
+    "Store savings. 💰"
+  ],
+  "soft": [
+    "Not hard. 🍞",
+    "Gentle mild. 🌸",
+    "Foolish weak. 🫠"
+  ],
+  "soil": [
+    "Earth ground. 🌱",
+    "Dirty stain. 🗑️",
+    "Country territory. 🏞️"
+  ],
+  "soldier": [
+    "Military member. 🪖",
+    "Warrior fighter. ⚔️",
+    "Persistent worker. 💪"
+  ],
+  "solid": [
+    "Firm hard. 🧱",
+    "Three-dimensional. 📦",
+    "Reliable strong. 💪"
+  ],
+  "solution": [
+    "Answer resolution. 🔑",
+    "Liquid mixture. 🧪",
+    "Act of solving. 🧩"
+  ],
+  "solve": [
+    "Find answer. 🧠",
+    "Work out. 🔧",
+    "End problem. ✅"
+  ],
+  "some": [
+    "Unknown amount. 🔢",
+    "Certain few. 👥",
+    "Approximately. 📏"
+  ],
+  "somebody": [
+    "Some person. 👤",
+    "Important person. ⭐",
+    "Unknown individual. ❓"
+  ],
+  "somehow": [
+    "In some way. 🔄",
+    "For some reason. ⚙️",
+    "Managed to. 💪"
+  ],
+  "someone": [
+    "Some person. 👤",
+    "Unknown individual. ❓",
+    "Person of note. ⭐"
+  ],
+  "something": [
+    "Unspecified thing. 📦",
+    "Important thing. ⭐",
+    "Approximate. 📏"
+  ],
+  "sometimes": [
+    "Occasionally. 🔄",
+    "Now and then. ⏳",
+    "At times. 🕐"
+  ],
+  "somewhat": [
+    "To some extent. ⚖️",
+    "Rather. ⭐",
+    "Slightly. 🔹"
+  ],
+  "son": [
+    "Male child. 👦",
+    "Male descendant. 🌳",
+    "Familiar term. 👨"
+  ],
+  "song": [
+    "Music composition. 🎵",
+    "Poem for singing. 📝",
+    "Bird sound. 🐦"
+  ],
+  "soon": [
+    "In short time. ⏳",
+    "Early quick. ⚡",
+    "Willingly readily. 👍"
+  ],
+  "sorry": [
+    "Apology regret. 😔",
+    "Feeling sorrow. 💔",
+    "Poor pitiful. 😢"
+  ],
+  "sort": [
+    "Type kind. 📋",
+    "Arrange classify. 🗂️",
+    "Solve fix. 🔧"
+  ],
+  "soul": [
+    "Spiritual part. 👻",
+    "Person individual. 👤",
+    "Emotional energy. ❤️"
+  ],
+  "sound": [
+    "Noise heard. 🔊",
+    "Healthy solid. ✅",
+    "Measure depth. 🌊"
+  ],
+  "soup": [
+    "Liquid food. 🍲",
+    "Difficult situation. 🌀",
+    "Fog mist. 🌫️"
+  ],
+  "source": [
+    "Origin beginning. 🎯",
+    "Supplier provider. 📦",
+    "Information reference. 📚"
+  ],
+  "south": [
+    "Direction. ⬇️",
+    "Southern region. 🌍",
+    "Downward. 🔽"
+  ],
+  "space": [
+    "Empty area. 🌌",
+    "Universe cosmos. 🚀",
+    "Room capacity. 📏"
+  ],
+  "speak": [
+    "Talk say. 🗣️",
+    "Communicate. 💬",
+    "Give speech. 📢"
+  ],
+  "special": [
+    "Different unique. ⭐",
+    "Extraordinary. ✨",
+    "Specific. 🎯"
+  ],
+  "specific": [
+    "Particular definite. 🎯",
+    "Detailed precise. 🔍",
+    "Unique. 💎"
+  ],
+  "speech": [
+    "Spoken language. 🗣️",
+    "Formal talk. 📢",
+    "Ability to speak. 💬"
+  ],
+  "speed": [
+    "Rate movement. ⚡",
+    "Quickness. 🏃‍♂️",
+    "Drug amphetamine. 💊"
+  ],
+  "spell": [
+    "Write words. ✍️",
+    "Magical formula. 🪄",
+    "Short period. ⏳"
+  ],
+  "spend": [
+    "Use money. 💰",
+    "Pass time. ⏳",
+    "Exhaust use up. 🏁"
+  ],
+  "spirit": [
+    "Non-physical part. 👻",
+    "Mood attitude. 😊",
+    "Alcohol. 🥃"
+  ],
+  "spite": [
+    "Malicious desire. 😈",
+    "Despite. 🔄",
+    "Resentment. 😠"
+  ],
+  "split": [
+    "Divide separate. 🔀",
+    "Leave depart. 🚶",
+    "Share divide. 🍰"
+  ],
+  "sponsor": [
+    "Supporter backer. 🤝",
+    "Finance fund. 💰",
+    "Guarantee. ✅"
+  ],
+  "spoon": [
+    "Eating utensil. 🥄",
+    "Scoop lift. 🍨",
+    "Cuddle nestle. 🤗"
+  ],
+  "sport": [
+    "Physical activity. ⚽",
+    "Fun amusement. 😄",
+    "Wear display. 👕"
+  ],
+  "spot": [
+    "Small mark. 🔴",
+    "Location place. 📍",
+    "Recognize see. 👁️"
+  ],
+  "spread": [
+    "Extend over area. 🗺️",
+    "Butter etc. 🧈",
+    "Disease transmission. 🦠"
+  ],
+  "spring": [
+    "Season of growth. 🌸",
+    "Jump leap. 🦘",
+    "Water source. 💦"
+  ],
+  "square": [
+    "Shape four sides. ⬛",
+    "Public plaza. 🏛️",
+    "Fair honest. ✅"
+  ],
+  "stable": [
+    "Steady firm. 🏗️",
+    "Horse building. 🐎",
+    "Chemical unchanging. 🧪"
+  ],
+  "staff": [
+    "Employees workers. 👥",
+    "Stick rod. 🏑",
+    "Support group. 🫂"
+  ],
+  "stage": [
+    "Platform performance. 🎭",
+    "Phase period. 📅",
+    "Organize arrange. 🛠️"
+  ],
+  "stair": [
+    "Step flight. 🪜",
+    "Series levels. ⬆️",
+    "Way up. 🔼"
+  ],
+  "stamp": [
+    "Postage imprint. 🏷️",
+    "Trample foot. 👣",
+    "Characteristic mark. ✨"
+  ],
+  "stand": [
+    "Be upright. 🧍",
+    "Tolerate endure. 💪",
+    "Stall booth. 🏪"
+  ],
+  "standard": [
+    "Level quality. ⭐",
+    "Flag banner. 🏴",
+    "Normal usual. ✅"
+  ],
+  "star": [
+    "Celestial body. ⭐",
+    "Famous performer. 🌟",
+    "Asterisk symbol. *"
+  ],
+  "start": [
+    "Begin commence. 🚀",
+    "Jump sudden. ⚡",
+    "Advantage lead. 🥇"
+  ],
+  "state": [
+    "Condition mode. ⚙️",
+    "Nation country. 🏛️",
+    "Express say. 🗣️"
+  ],
+  "station": [
+    "Place position. 📍",
+    "Train stop. 🚂",
+    "Social rank. ⭐"
+  ],
+  "stay": [
+    "Remain continue. 🧍",
+    "Visit temporarily. 🏨",
+    "Halt stop. 🛑"
+  ],
+  "steady": [
+    "Firm stable. 🏗️",
+    "Regular constant. 🔄",
+    "Calm reliable. 😌"
+  ],
+  "steal": [
+    "Take unlawfully. 🏴‍☠️",
+    "Move secretly. 🕵️",
+    "Bargain deal. 💰"
+  ],
+  "steam": [
+    "Water vapor. 💨",
+    "Power energy. ⚡",
+    "Cook with steam. 🍲"
+  ],
+  "steel": [
+    "Strong metal. 🦾",
+    "Determined resolve. 💪",
+    "Sharpen edge. 🔪"
+  ],
+  "stem": [
+    "Plant stalk. 🌿",
+    "Originate arise. 🎯",
+    "Stop flow. 🛑"
+  ],
+  "step": [
+    "Foot movement. 👣",
+    "Action measure. 📋",
+    "Stage phase. 📅"
+  ],
+  "stick": [
+    "Thin piece wood. 🏑",
+    "Adhere attach. 🧷",
+    "Persist continue. 💪"
+  ],
+  "still": [
+    "Not moving. 🧍",
+    "Even so. 🔄",
+    "Silent quiet. 🤫"
+  ],
+  "stock": [
+    "Supply goods. 📦",
+    "Shares investment. 📈",
+    "Broth soup. 🍲"
+  ],
+  "stomach": [
+    "Digestive organ. 🫀",
+    "Tolerate accept. 😣",
+    "Desire appetite. 🍽️"
+  ],
+  "stone": [
+    "Hard mineral. 🪨",
+    "Gem jewel. 💎",
+    "British weight. ⚖️"
+  ],
+  "stop": [
+    "Cease halt. 🛑",
+    "Prevent obstruct. 🚧",
+    "Period punctuation. ."
+  ],
+  "store": [
+    "Shop retail. 🛒",
+    "Keep supply. 📦",
+    "Memory computer. 💾"
+  ],
+  "storm": [
+    "Violent weather. ⛈️",
+    "Sudden attack. ⚔️",
+    "Rage anger. 😠"
+  ],
+  "story": [
+    "Narrative tale. 📖",
+    "Floor level. 🏢",
+    "News article. 📰"
+  ],
+  "straight": [
+    "Not curved. ➡️",
+    "Direct honest. 💎",
+    "In order tidy. 🧹"
+  ],
+  "strange": [
+    "Unusual odd. 🤔",
+    "Foreign unfamiliar. 🗺️",
+    "Uncomfortable. 😟"
+  ],
+  "strategy": [
+    "Plan method. 🧠",
+    "Military planning. ⚔️",
+    "Skillful management. ⚙️"
+  ],
+  "stream": [
+    "Small river. 🌊",
+    "Flow continuous. 🔄",
+    "Data transfer. 💻"
+  ],
+  "street": [
+    "Road in town. 🛣️",
+    "Urban public way. 🏙️",
+    "Community people. 👥"
+  ],
+  "strength": [
+    "Power force. 💪",
+    "Intensity degree. ⭐",
+    "Advantage asset. ✨"
+  ],
+  "stress": [
+    "Pressure tension. 😟",
+    "Emphasis accent. 🔍",
+    "Physical force. 🏋️"
+  ],
+  "stretch": [
+    "Extend lengthen. 🏹",
+    "Period time. ⏳",
+    "Elasticity. 🔄"
+  ],
+  "strike": [
+    "Hit impact. 👊",
+    "Stop work protest. ⚠️",
+    "Discover find. 🔍"
+  ],
+  "string": [
+    "Thin cord. 🧵",
+    "Series sequence. 🔢",
+    "Musical instrument. 🎻"
+  ],
+  "strip": [
+    "Remove covering. 🚫",
+    "Long narrow piece. 🏖️",
+    "Undress. 👕"
+  ],
+  "stroke": [
+    "Gentle touch. ✋",
+    "Medical attack. 🏥",
+    "Single movement. 🏊"
+  ],
+  "strong": [
+    "Powerful forceful. 💪",
+    "Convincing solid. ✅",
+    "Intense flavor. 🌶️"
+  ],
+  "structure": [
+    "Arrangement organization. 🏗️",
+    "Building construction. 🧱",
+    "Framework. 🔨"
+  ],
+  "struggle": [
+    "Fight effort. 💪",
+    "Difficulty problem. ⚠️",
+    "Contend. ⚔️"
+  ],
+  "student": [
+    "Learner pupil. 🎓",
+    "Scholar. 📚",
+    "Follower. 👥"
+  ],
+  "study": [
+    "Learn research. 📚",
+    "Room for work. 🏠",
+    "Detailed examination. 🔍"
+  ],
+  "stuff": [
+    "Material substance. 🧱",
+    "Things belongings. 📦",
+    "Fill tightly. 🍽️"
+  ],
+  "stupid": [
+    "Lacking intelligence. 🤪",
+    "Silly foolish. 😄",
+    "Pointless. 🚫"
+  ],
+  "style": [
+    "Manner fashion. 👔",
+    "Elegance sophistication. ✨",
+    "Design type. 🎨"
+  ],
+  "subject": [
+    "Topic theme. 📖",
+    "Person ruled. 👥",
+    "Likely to. 🔀"
+  ],
+  "substance": [
+    "Material matter. 🧪",
+    "Essence meaning. 💎",
+    "Drug. 💊"
+  ],
+  "succeed": [
+    "Achieve success. 🏆",
+    "Follow after. 🔄",
+    "Take over. 📈"
+  ],
+  "such": [
+    "Of that kind. 📋",
+    "Very extremely. ⭐",
+    "For example. 🔤"
+  ],
+  "sudden": [
+    "Happening quickly. ⚡",
+    "Unexpected. 😲",
+    "Abrupt. 🏃‍♂️"
+  ],
+  "suffer": [
+    "Experience pain. 😔",
+    "Tolerate endure. 😣",
+    "Be disadvantaged. 📉"
+  ],
+  "sugar": [
+    "Sweet substance. 🍬",
+    "Dear term. 💕",
+    "Diabetes concern. 🩸"
+  ],
+  "suggest": [
+    "Propose idea. 💡",
+    "Hint imply. 🔍",
+    "Evoke thought. 💭"
+  ],
+  "suit": [
+    "Set of clothes. 🤵",
+    "Be appropriate. ✅",
+    "Legal case. ⚖️"
+  ],
+  "summer": [
+    "Warm season. ☀️",
+    "Peak period. ⭐",
+    "Spend summer. 🏖️"
+  ],
+  "sun": [
+    "Star center. ☀️",
+    "Sunlight. 🌅",
+    "Expose to sun. 😎"
+  ],
+  "supply": [
+    "Provide furnish. 📦",
+    "Stock amount. 🏪",
+    "Economic provision. 📈"
+  ],
+  "support": [
+    "Hold up. 🫂",
+    "Assist help. 🤝",
+    "Endorse approve. 👍"
+  ],
+  "suppose": [
+    "Assume believe. 💭",
+    "Require expect. ⚠️",
+    "Imagine. 🔮"
+  ],
+  "sure": [
+    "Certain confident. ✅",
+    "Without doubt. 💯",
+    "Indeed certainly. ✨"
+  ],
+  "surface": [
+    "Outer layer. 🪞",
+    "Appear emerge. ✨",
+    "Superficial. 👁️"
+  ],
+  "surprise": [
+    "Unexpected event. 😲",
+    "Astonish amaze. ✨",
+    "Sudden attack. ⚔️"
+  ],
+  "surround": [
+    "Enclose encircle. 🔄",
+    "Be all around. 🌳",
+    "Environment. 🏞️"
+  ],
+  "survey": [
+    "Examine study. 🔍",
+    "Poll questionnaire. 📋",
+    "Land measurement. 🗺️"
+  ],
+  "survive": [
+    "Remain alive. ❤️",
+    "Outlive endure. 💪",
+    "Continue exist. ✅"
+  ],
+  "suspect": [
+    "Believe possible. 🤔",
+    "Doubtful distrust. 🕵️",
+    "Person accused. 👤"
+  ],
+  "swear": [
+    "Promise oath. 🤞",
+    "Curse profanity. 😠",
+    "Assert strongly. 💪"
+  ],
+  "sweep": [
+    "Clean with broom. 🧹",
+    "Move quickly. 🌪️",
+    "Overwhelm. 💥"
+  ],
+  "sweet": [
+    "Sugar taste. 🍬",
+    "Pleasant kind. 😊",
+    "Dear darling. 💕"
+  ],
+  "swim": [
+    "Move in water. 🏊",
+    "Be immersed. 🌊",
+    "Dizzy feeling. 😵"
+  ],
+  "swing": [
+    "Move back forth. 🎡",
+    "Change rapidly. 🔄",
+    "Jazz music. 🎵"
+  ],
+  "switch": [
+    "Change shift. 🔄",
+    "Device control. 🔘",
+    "Thin flexible rod. 🏐"
+  ],
+  "symbol": [
+    "Sign representation. 🔣",
+    "Emblem token. 🏆",
+    "Mathematics letter. 🔢"
+  ],
+  "system": [
+    "Set of connected parts. ⚙️",
+    "Method organization. 🏢",
+    "Body organism. 🧍"
+  ],
+  "table": [
+    "Furniture piece. 🪑",
+    "Data arrangement. 📊",
+    "Postpone. ⏳"
+  ],
+  "tail": [
+    "Animal rear. 🐕",
+    "Follow closely. 🕵️",
+    "End part. 🔚"
+  ],
+  "take": [
+    "Lay hold. ✋",
+    "Accept receive. 📥",
+    "Require need. ⚠️"
+  ],
+  "talk": [
+    "Speak converse. 🗣️",
+    "Discussion lecture. 💬",
+    "Gossip rumor. 📢"
+  ],
+  "tall": [
+    "High stature. 🦒",
+    "Exaggerated story. 📖",
+    "Difficult. 🏔️"
+  ],
+  "tank": [
+    "Container liquid. 🛢️",
+    "Armored vehicle. 🪖",
+    "Swimming pool. 🏊"
+  ],
+  "tape": [
+    "Adhesive strip. 🎞️",
+    "Record music. 📼",
+    "Measure length. 📏"
+  ],
+  "target": [
+    "Objective goal. 🎯",
+    "Aim point. 🏹",
+    "Criticize. 👆"
+  ],
+  "task": [
+    "Piece of work. 📋",
+    "Assign duty. ⚙️",
+    "Challenging job. 🏋️"
+  ],
+  "taste": [
+    "Flavor sense. 😋",
+    "Small sample. 🍰",
+    "Aesthetic judgment. 🎨"
+  ],
+  "tax": [
+    "Compulsory payment. 💰",
+    "Strain burden. 😣",
+    "Charge duty. 🏦"
+  ],
+  "tea": [
+    "Drink beverage. 🍵",
+    "Afternoon meal. 🫖",
+    "Gossip information. 📢"
+  ],
+  "teach": [
+    "Instruct educate. 👨‍🏫",
+    "Show how. 💡",
+    "Cause learn. 🧠"
+  ],
+  "team": [
+    "Group working. 👥",
+    "Animals harnessed. 🐎",
+    "Join together. 🤝"
+  ],
+  "tear": [
+    "Rip apart. 💔",
+    "Drop from eye. 😢",
+    "Move quickly. 🏃‍♂️"
+  ],
+  "technical": [
+    "Relating to technique. ⚙️",
+    "Specialized detailed. 🔧",
+    "Strictly legal. ⚖️"
+  ],
+  "technique": [
+    "Method skill. 🛠️",
+    "Way of doing. ⚙️",
+    "Artistic style. 🎨"
+  ],
+  "technology": [
+    "Application science. 💻",
+    "Machinery equipment. 🤖",
+    "Industrial methods. 🏭"
+  ],
+  "teenager": [
+    "Young person. 🧒",
+    "Ages 13-19. 🔢",
+    "Adolescent. 🌱"
+  ],
+  "telephone": [
+    "Communication device. 📱",
+    "Call contact. 📞",
+    "System network. 📡"
+  ],
+  "television": [
+    "Broadcasting medium. 📺",
+    "TV set. 📡",
+    "Programs shows. 🎬"
+  ],
+  "tell": [
+    "Inform relate. 💬",
+    "Order command. 📢",
+    "Distinguish. 🔍"
+  ],
+  "temperature": [
+    "Degree of heat. 🌡️",
+    "Fever condition. 🤒",
+    "Emotional mood. 😠"
+  ],
+  "temporary": [
+    "Not permanent. ⏳",
+    "Lasting briefly. 🕐",
+    "Provisional. 📋"
+  ],
+  "ten": [
+    "Number 10. 🔟",
+    "Perfect score. 💯",
+    "Many. 🔢"
+  ],
+  "tend": [
+    "Incline towards. 🔄",
+    "Care for look after. 🤗",
+    "Regularly behave. 👥"
+  ],
+  "term": [
+    "Word expression. 💬",
+    "Fixed period. ⏳",
+    "Condition stipulation. 📜"
+  ],
+  "terrible": [
+    "Extremely bad. 😨",
+    "Causing terror. 👻",
+    "Very great. ⚠️"
+  ],
+  "test": [
+    "Trial examination. 🧪",
+    "Check evaluate. ✅",
+    "Challenge. ⚔️"
+  ],
+  "text": [
+    "Written words. 📝",
+    "Textbook. 📚",
+    "SMS message. 📱"
+  ],
+  "than": [
+    "Comparison word. ⚖️",
+    "Except other than. 🚫",
+    "Rather than. 🔀"
+  ],
+  "thank": [
+    "Express gratitude. 🙏",
+    "Gratefulness. 😊",
+    "Polite response. 🤝"
+  ],
+  "that": [
+    "Referring thing. 👆",
+    "Conjunction. 🔗",
+    "To such degree. ⭐"
+  ],
+  "the": [
+    "Definite article. 🔤",
+    "Used before noun. 📝",
+    "Emphasizing. ⭐"
+  ],
+  "theater": [
+    "Drama performance. 🎭",
+    "Building for plays. 🏛️",
+    "Area of war. ⚔️"
+  ],
+  "their": [
+    "Belonging to them. 👥",
+    "Possessive pronoun. 🏷️",
+    "Associated with. 🔗"
+  ],
+  "them": [
+    "Object pronoun. 👥",
+    "Those people. 🧍",
+    "Referring group. 🔢"
+  ],
+  "theme": [
+    "Subject topic. 📖",
+    "Recurring idea. 🔄",
+    "Musical melody. 🎵"
+  ],
+  "themselves": [
+    "Reflexive pronoun. 👥",
+    "Emphasizing. ⭐",
+    "Alone without help. 🧍"
+  ],
+  "then": [
+    "At that time. ⏳",
+    "Next after. 🔜",
+    "Therefore. ⚙️"
+  ],
+  "theory": [
+    "System of ideas. 🧠",
+    "Speculation hypothesis. 💭",
+    "Abstract knowledge. 📚"
+  ],
+  "there": [
+    "In that place. 📍",
+    "Existence. ✅",
+    "Attention focus. 👁️"
+  ],
+  "therefore": [
+    "For that reason. ⚙️",
+    "Consequently. 🔄",
+    "Thus. ✅"
+  ],
+  "these": [
+    "Plural of this. 👆",
+    "Referring nearby. 📍",
+    "Specific ones. 🔢"
+  ],
+  "they": [
+    "Third person plural. 👥",
+    "People in general. 🧍",
+    "Indefinite pronoun. ❓"
+  ],
+  "thick": [
+    "Wide across. 📏",
+    "Dense crowded. 🌳",
+    "Stupid dull. 🤪"
+  ],
+  "thin": [
+    "Narrow slender. 🍃",
+    "Sparse light. 💡",
+    "Watery weak. 💧"
+  ],
+  "thing": [
+    "Object item. 📦",
+    "Idea concept. 💭",
+    "Situation matter. ⚙️"
+  ],
+  "think": [
+    "Have thought. 💭",
+    "Believe consider. 🤔",
+    "Imagine. 🔮"
+  ],
+  "third": [
+    "Number 3. 3️⃣",
+    "One of three. 🔢",
+    "Gear in vehicle. 🚗"
+  ],
+  "thirsty": [
+    "Need drink. 🥤",
+    "Eager for. 🔥",
+    "Dry arid. 🏜️"
+  ],
+  "this": [
+    "Referring near. 👆",
+    "Present time. ⏳",
+    "Specific one. 🔢"
+  ],
+  "those": [
+    "Plural of that. 👆",
+    "Referring distant. 🌌",
+    "Specific ones. 🔢"
+  ],
+  "though": [
+    "Although despite. 🔄",
+    "However but. ⚠️",
+    "Even if. ⚖️"
+  ],
+  "thought": [
+    "Idea mental process. 💭",
+    "Consideration care. 🤗",
+    "Intention plan. 🎯"
+  ],
+  "thousand": [
+    "Number 1,000. 1️⃣0️⃣0️⃣0️⃣",
+    "Many large number. 🔢",
+    "Great amount. 📦"
+  ],
+  "threat": [
+    "Statement of harm. ⚠️",
+    "Danger risk. ☠️",
+    "Menacing. 😠"
+  ],
+  "three": [
+    "Number 3. 3️⃣",
+    "Several few. 🔢",
+    "Group of three. 👥"
+  ],
+  "throat": [
+    "Passage neck. 👤",
+    "Voice sound. 🗣️",
+    "Narrow passage. 🚪"
+  ],
+  "through": [
+    "Moving in one side. ➡️",
+    "By means of. ⚙️",
+    "Finished completed. ✅"
+  ],
+  "throughout": [
+    "All through. 🔄",
+    "During entire. ⏳",
+    "In every part. 🌐"
+  ],
+  "throw": [
+    "Propel through air. 🏀",
+    "Host party. 🎉",
+    "Confuse upset. 😵"
+  ],
+  "thus": [
+    "Therefore so. ⚙️",
+    "In this way. 🔄",
+    "To this extent. 📏"
+  ],
+  "ticket": [
+    "Pass admission. 🎫",
+    "Fine penalty. 💸",
+    "Political list. 🏛️"
+  ],
+  "tie": [
+    "Fasten together. 👔",
+    "Equal score. ⚖️",
+    "Connection link. 🔗"
+  ],
+  "tight": [
+    "Firmly fixed. 🔒",
+    "Close-fitting. 👖",
+    "Limited scarce. 📉"
+  ],
+  "till": [
+    "Until up to. ⏳",
+    "Cash register. 💰",
+    "Prepare soil. 🌾"
+  ],
+  "time": [
+    "Duration period. ⏰",
+    "Occasion instance. ⏳",
+    "Rhythm tempo. 🎵"
+  ],
+  "tiny": [
+    "Very small. 🔬",
+    "Minute little. 🔹",
+    "Insignificant. ⬇️"
+  ],
+  "tip": [
+    "End point. 🔝",
+    "Gratuity money. 💰",
+    "Helpful advice. 💡"
+  ],
+  "tire": [
+    "Wheel covering. 🛞",
+    "Become weary. 😴",
+    "Exhaust patience. 😣"
+  ],
+  "tired": [
+    "Need rest. 😴",
+    "Bored fed up. 😑",
+    "Overused cliché. 💬"
+  ],
+  "title": [
+    "Name heading. 🏷️",
+    "Championship honor. 🏆",
+    "Legal right. 📜"
+  ],
+  "to": [
+    "Toward direction. ➡️",
+    "Infinitive marker. 🔤",
+    "Until. ⏳"
+  ],
+  "today": [
+    "Present day. 📅",
+    "Modern times. 🆕",
+    "Now currently. ⏳"
+  ],
+  "toe": [
+    "Foot digit. 🦶",
+    "Front part. 🔝",
+    "Obey line. 👣"
+  ],
+  "together": [
+    "With each other. 👥",
+    "Simultaneously. ⏰",
+    "United. 🤝"
+  ],
+  "tomorrow": [
+    "Day after today. 📅",
+    "Future time. 🔮",
+    "Near future. ⏳"
+  ],
+  "tone": [
+    "Sound quality. 🎵",
+    "Mood attitude. 😊",
+    "Color shade. 🎨"
+  ],
+  "tongue": [
+    "Mouth organ. 👅",
+    "Language speech. 💬",
+    "Shape of flame. 🔥"
+  ],
+  "tonight": [
+    "This evening night. 🌙",
+    "Present night. 🌆",
+    "Performance show. 🎭"
+  ],
+  "too": [
+    "Also as well. ➕",
+    "Excessively very. ⭐",
+    "Unfortunately. 😔"
+  ],
+  "tool": [
+    "Instrument implement. 🛠️",
+    "Person used. 👥",
+    "Equipment. ⚙️"
+  ],
+  "tooth": [
+    "Mouth structure. 🦷",
+    "Projection cog. ⚙️",
+    "Effective power. 💪"
+  ],
+  "top": [
+    "Highest point. 🔝",
+    "Cover lid. 🫙",
+    "Best excellent. ⭐"
+  ],
+  "topic": [
+    "Subject theme. 📖",
+    "Discussion matter. 💬",
+    "Focus point. 🎯"
+  ],
+  "total": [
+    "Complete whole. 💯",
+    "Entire amount. 📊",
+    "Absolute. ✅"
+  ],
+  "touch": [
+    "Physical contact. ✋",
+    "Small amount. 🔹",
+    "Affect emotionally. ❤️"
+  ],
+  "tough": [
+    "Strong durable. 💪",
+    "Difficult hard. 🏋️",
+    "Unfortunate. 😔"
+  ],
+  "tour": [
+    "Journey trip. 🧳",
+    "Performance series. 🎤",
+    "Inspection visit. 👁️"
+  ],
+  "toward": [
+    "In direction of. ➡️",
+    "Regarding about. 💬",
+    "Near almost. 📍"
+  ],
+  "tower": [
+    "Tall structure. 🗼",
+    "Rise high. ⬆️",
+    "Superiority. ⭐"
+  ],
+  "town": [
+    "Urban area. 🏘️",
+    "City smaller. 🏙️",
+    "Community people. 👥"
+  ],
+  "toy": [
+    "Plaything object. 🧸",
+    "Trifle unimportant. 🚫",
+    "Play with. 🎮"
+  ],
+  "track": [
+    "Path trail. 🛤️",
+    "Follow pursue. 🕵️",
+    "Racing course. 🏃‍♂️"
+  ],
+  "trade": [
+    "Buying selling. 💱",
+    "Exchange swap. 🔄",
+    "Occupation job. 💼"
+  ],
+  "tradition": [
+    "Custom belief. 🏛️",
+    "Long-established. 🕰️",
+    "Cultural practice. 🌍"
+  ],
+  "traffic": [
+    "Vehicles moving. 🚗",
+    "Trade commerce. 💱",
+    "Illegal trade. ⚠️"
+  ],
+  "train": [
+    "Rail vehicle. 🚂",
+    "Teach instruct. 👨‍🏫",
+    "Series sequence. 🔢"
+  ],
+  "transfer": [
+    "Move from place. 📦",
+    "Change ownership. 📜",
+    "Shift position. 🔄"
+  ],
+  "transform": [
+    "Change completely. 🔄",
+    "Convert alter. ♻️",
+    "Metamorphose. 🐛"
+  ],
+  "transition": [
+    "Change from one. 🔄",
+    "Passage process. 🛤️",
+    "Period between. ⏳"
+  ],
+  "translate": [
+    "Express in language. 🔤",
+    "Convert meaning. 💬",
+    "Transfer move. 📦"
+  ],
+  "transport": [
+    "Carry from place. 🚚",
+    "System vehicles. 🚗",
+    "Emotion ecstasy. 😍"
+  ],
+  "trap": [
+    "Catching device. 🪤",
+    "Trick deceive. 🎭",
+    "Difficult situation. 🌀"
+  ],
+  "travel": [
+    "Go journey. 🧳",
+    "Move along. 🛣️",
+    "Pass light. ✨"
+  ],
+  "treat": [
+    "Act toward. 🤝",
+    "Medical care. 🏥",
+    "Special gift. 🎁"
+  ],
+  "treatment": [
+    "Medical care. 🏥",
+    "Manner of dealing. ⚙️",
+    "Process substance. 🧪"
+  ],
+  "tree": [
+    "Tall plant. 🌳",
+    "Structure diagram. 📊",
+    "Family lineage. 👨‍👩‍👧"
+  ],
+  "trend": [
+    "General direction. 📈",
+    "Fashion style. 👔",
+    "Tendency inclination. 🔄"
+  ],
+  "trial": [
+    "Test experiment. 🧪",
+    "Legal hearing. ⚖️",
+    "Difficulty hardship. ⚠️"
+  ],
+  "tribe": [
+    "Social group. 👥",
+    "Ethnic division. 🌍",
+    "Family clan. 🏠"
+  ],
+  "trick": [
+    "Deceive cheat. 🎭",
+    "Skillful act. 🪄",
+    "Prank joke. 😄"
+  ],
+  "trip": [
+    "Journey voyage. 🧳",
+    "Stumble fall. 🚶",
+    "Experience hallucination. 🌈"
+  ],
+  "trouble": [
+    "Difficulty problem. ⚠️",
+    "Effort bother. 😟",
+    "Disturb upset. 🌊"
+  ],
+  "truck": [
+    "Large vehicle. 🚚",
+    "Goods transport. 📦",
+    "Exchange trade. 💱"
+  ],
+  "true": [
+    "Correct accurate. ✅",
+    "Loyal faithful. 🤝",
+    "Real genuine. 💎"
+  ],
+  "trust": [
+    "Belief confidence. 🤝",
+    "Legal arrangement. 📜",
+    "Hope expect. ✨"
+  ],
+  "truth": [
+    "True facts. ✅",
+    "Honesty sincerity. 💎",
+    "Reality actuality. 🌍"
+  ],
+  "try": [
+    "Attempt effort. 💪",
+    "Test experiment. 🧪",
+    "Legal trial. ⚖️"
+  ],
+  "tube": [
+    "Long hollow cylinder. 🚇",
+    "Television old. 📺",
+    "Container. 🧴"
+  ],
+  "tune": [
+    "Melody music. 🎵",
+    "Adjust correct. ⚙️",
+    "Agreement harmony. 🤝"
+  ],
+  "turn": [
+    "Rotate revolve. 🔄",
+    "Change direction. ↩️",
+    "Opportunity chance. ✨"
+  ],
+  "twelve": [
+    "Number 12. 1️⃣2️⃣",
+    "Dozen. 📦",
+    "Noon midnight. 🕛"
+  ],
+  "twenty": [
+    "Number 20. 2️⃣0️⃣",
+    "Score. 🏆",
+    "Many. 🔢"
+  ],
+  "twice": [
+    "Two times. ✌️",
+    "Double. 🔄",
+    "On two occasions. ⏳"
+  ],
+  "twin": [
+    "Two born together. 👥",
+    "Exactly alike. 🔄",
+    "Double. ➕"
+  ],
+  "two": [
+    "Number 2. 2️⃣",
+    "Pair couple. 👥",
+    "Both. 🔗"
+  ],
+  "type": [
+    "Category kind. 📋",
+    "Print letters. 🖨️",
+    "Typical example. ⭐"
+  ],
+  "typical": [
+    "Representative example. ⭐",
+    "Characteristic usual. ✅",
+    "Normal standard. 📏"
+  ],
+  "ugly": [
+    "Unpleasant appearance. 👹",
+    "Unpleasant nasty. 😠",
+    "Threatening ominous. ⚠️"
+  ],
+  "ultimate": [
+    "Final last. 🔚",
+    "Best extreme. ⭐",
+    "Fundamental basic. ⭐"
+  ],
+  "umbrella": [
+    "Rain protection. ☔",
+    "General cover. 🛡️",
+    "Political protection. 🏛️"
+  ],
+  "unable": [
+    "Not able. 🚫",
+    "Lacking power. 💪",
+    "Incapable. 😔"
+  ],
+  "uncle": [
+    "Parent's brother. 👨",
+    "Family relative. 👨‍👩‍👧",
+    "Term of address. 👴"
+  ],
+  "under": [
+    "Below beneath. ⬇️",
+    "Less than. 📉",
+    "According to. 📜"
+  ],
+  "understand": [
+    "Comprehend grasp. 🧠",
+    "Sympathize with. 🤝",
+    "Assume infer. 💭"
+  ],
+  "uniform": [
+    "Same consistent. 🔄",
+    "Clothing outfit. 👕",
+    "Even regular. ⚖️"
+  ],
+  "union": [
+    "Joining together. 🤝",
+    "Organization workers. 👥",
+    "Marriage. 💍"
+  ],
+  "unique": [
+    "One of a kind. 💎",
+    "Unusual special. ✨",
+    "Particular. 🎯"
+  ],
+  "unit": [
+    "Single thing. 1️⃣",
+    "Measurement standard. 📏",
+    "Group part. 👥"
+  ],
+  "unite": [
+    "Join together. 🤝",
+    "Combine merge. 🔗",
+    "Agree. ✅"
+  ],
+  "universe": [
+    "All existing things. 🌌",
+    "Cosmos space. 🚀",
+    "World sphere. 🌍"
+  ],
+  "university": [
+    "Higher education. 🎓",
+    "Academic institution. 🏛️",
+    "College collection. 📚"
+  ],
+  "unless": [
+    "Except if. 🚫",
+    "Condition. ⚖️",
+    "Otherwise. 🔀"
+  ],
+  "until": [
+    "Up to time. ⏳",
+    "Before. 🕐",
+    "As far as. 📍"
+  ],
+  "up": [
+    "Toward higher. ⬆️",
+    "Out of bed. 🛏️",
+    "Finished over. ✅"
+  ],
+  "upon": [
+    "On top of. ⬆️",
+    "At the time. ⏳",
+    "About concerning. 💬"
+  ],
+  "upper": [
+    "Higher in place. ⬆️",
+    "Superior rank. ⭐",
+    "Top part. 🔝"
+  ],
+  "upset": [
+    "Overturn tip. 🔄",
+    "Distress disturb. 😟",
+    "Unexpected result. 😲"
+  ],
+  "urban": [
+    "Relating to city. 🏙️",
+    "Metropolitan. 🏢",
+    "City life. 👥"
+  ],
+  "urge": [
+    "Strong desire. 🔥",
+    "Encourage push. 📢",
+    "Recommend advise. 💡"
+  ],
+  "use": [
+    "Employ utilize. ⚙️",
+    "Purpose function. 🎯",
+    "Consume expend. 📉"
+  ],
+  "usual": [
+    "Habitual typical. ✅",
+    "Common regular. 🔄",
+    "Ordinary. ⭐"
+  ],
+  "usually": [
+    "Under normal conditions. ✅",
+    "Generally. 👥",
+    "Frequently. 🔄"
+  ],
+  "vacation": [
+    "Leisure time off. 🏖️",
+    "Holiday break. 🎉",
+    "Empty vacate. 🏠"
+  ],
+  "valley": [
+    "Low area hills. 🏞️",
+    "Depression trough. 📉",
+    "River land. 🌊"
+  ],
+  "valuable": [
+    "Worth much. 💎",
+    "Important useful. ⭐",
+    "Precious. ✨"
+  ],
+  "value": [
+    "Worth importance. ⭐",
+    "Numerical amount. 🔢",
+    "Principles standards. ⚖️"
+  ],
+  "van": [
+    "Type of vehicle. 🚐",
+    "Front vanguard. ⚔️",
+    "Move transport. 📦"
+  ],
+  "variation": [
+    "Change difference. 🔄",
+    "Version form. 📋",
+    "Music theme. 🎵"
+  ],
+  "variety": [
+    "Diversity assortment. 🌈",
+    "Type kind. 📋",
+    "Entertainment show. 🎭"
+  ],
+  "various": [
+    "Different several. 🌈",
+    "Many diverse. 🔢",
+    "Separate distinct. 💎"
+  ],
+  "vast": [
+    "Very large. 🌍",
+    "Immense huge. 🐘",
+    "Great extent. 📏"
+  ],
+  "vegetable": [
+    "Plant food. 🥦",
+    "Person inactive. 🛋️",
+    "Derived from plants. 🌱"
+  ],
+  "vehicle": [
+    "Transport conveyance. 🚗",
+    "Medium means. ⚙️",
+    "Carrier. 📦"
+  ],
+  "venture": [
+    "Risky undertaking. 🎲",
+    "Dare to go. 🚀",
+    "Business project. 💼"
+  ],
+  "version": [
+    "Form variant. 📋",
+    "Translation account. 💬",
+    "Adaptation. 🔄"
+  ],
+  "very": [
+    "Extremely highly. ⭐",
+    "Actual same. ✅",
+    "Exactly precisely. 🎯"
+  ],
+  "vessel": [
+    "Ship boat. 🚢",
+    "Container. 🍶",
+    "Blood tube. ❤️"
+  ],
+  "victim": [
+    "Person harmed. 😔",
+    "Sacrifice offering. ⚰️",
+    "Prey target. 🎯"
+  ],
+  "victory": [
+    "Success triumph. 🏆",
+    "Win conquest. ⚔️",
+    "Overcoming. 💪"
+  ],
+  "video": [
+    "Recording moving images. 📹",
+    "Television. 📺",
+    "Digital format. 💻"
+  ],
+  "view": [
+    "Sight scene. 👁️",
+    "Opinion belief. 💭",
+    "Inspect look. 🔍"
+  ],
+  "village": [
+    "Small community. 🏘️",
+    "Rural settlement. 🌄",
+    "Group houses. 🏠"
+  ],
+  "violence": [
+    "Physical force. 💥",
+    "Intensity strength. 💪",
+    "Law breaking. ⚖️"
+  ],
+  "visit": [
+    "Go see. 👁️",
+    "Stay temporarily. 🏨",
+    "Chat conversation. 💬"
+  ],
+  "visual": [
+    "Relating to sight. 👁️",
+    "Picture image. 🖼️",
+    "Visible. ✨"
+  ],
+  "voice": [
+    "Sound speaking. 🗣️",
+    "Expression opinion. 💬",
+    "Singing quality. 🎤"
+  ],
+  "volume": [
+    "Amount space. 📦",
+    "Loudness sound. 🔊",
+    "Book tome. 📚"
+  ],
+  "vote": [
+    "Formal choice. 🗳️",
+    "Express opinion. 💬",
+    "Election right. ✅"
+  ],
+  "wage": [
+    "Payment work. 💰",
+    "Carry on war. ⚔️",
+    "Engage in. 🔥"
+  ],
+  "wait": [
+    "Stay until. ⏳",
+    "Serve tables. 🍽️",
+    "Delay action. 🕐"
+  ],
+  "wake": [
+    "Stop sleeping. 🛏️",
+    "Funeral vigil. ⚰️",
+    "Trail behind. 🚤"
+  ],
+  "walk": [
+    "Move on foot. 🚶",
+    "Path way. 🛤️",
+    "Manner of walking. 🚶"
+  ],
+  "wall": [
+    "Vertical structure. 🧱",
+    "Barrier obstacle. 🚧",
+    "Enclose surround. 🏰"
+  ],
+  "want": [
+    "Desire wish. 💭",
+    "Lack need. ⚠️",
+    "Poverty. 💸"
+  ],
+  "war": [
+    "Armed conflict. ⚔️",
+    "Struggle campaign. 🛡️",
+    "Hostility. 😠"
+  ],
+  "warm": [
+    "Moderately hot. 🔥",
+    "Friendly kind. 🤗",
+    "Excited enthusiastic. 😊"
+  ],
+  "warn": [
+    "Inform of danger. ⚠️",
+    "Advise caution. 🛡️",
+    "Notify. 📢"
+  ],
+  "wash": [
+    "Clean with water. 🧼",
+    "Flow sweep. 🌊",
+    "Thin coating. 🎨"
+  ],
+  "waste": [
+    "Use carelessly. 🗑️",
+    "Unwanted material. 🗑️",
+    "Devastate ruin. 💔"
+  ],
+  "watch": [
+    "Look at observe. 👁️",
+    "Timepiece wrist. ⌚",
+    "Guard protect. 🛡️"
+  ],
+  "water": [
+    "Liquid H2O. 💧",
+    "Sea lake. 🌊",
+    "Weaken dilute. 💦"
+  ],
+  "wave": [
+    "Move hand. 👋",
+    "Sea movement. 🌊",
+    "Surge increase. 📈"
+  ],
+  "way": [
+    "Method manner. ⚙️",
+    "Path road. 🛣️",
+    "Distance extent. 📏"
+  ],
+  "we": [
+    "First person plural. 👥",
+    "People generally. 🌍",
+    "Royal editorial. 👑"
+  ],
+  "weak": [
+    "Lacking strength. 🫠",
+    "Not convincing. 🤔",
+    "Diluted thin. 💧"
+  ],
+  "wealth": [
+    "Riches abundance. 💰",
+    "Plenty large amount. 📦",
+    "Valuable resources. 💎"
+  ],
+  "weapon": [
+    "Tool for fighting. ⚔️",
+    "Means of attack. 🔫",
+    "Defense. 🛡️"
+  ],
+  "wear": [
+    "Have on body. 👕",
+    "Deteriorate use. 📉",
+    "Endure tolerate. 💪"
+  ],
+  "weather": [
+    "Atmospheric conditions. 🌤️",
+    "Withstand survive. 🛡️",
+    "Faded by elements. 🌧️"
+  ],
+  "web": [
+    "Spider's net. 🕸️",
+    "Internet network. 🌐",
+    "Complex system. 🕸️"
+  ],
+  "wedding": [
+    "Marriage ceremony. 💍",
+    "Union joining. 🤝",
+    "Anniversary. 🎉"
+  ],
+  "week": [
+    "Seven-day period. 📅",
+    "Work days. 💼",
+    "Weak comparison. ⬇️"
+  ],
+  "weekend": [
+    "Saturday Sunday. 🛋️",
+    "Leisure time. 😴",
+    "Short vacation. 🏖️"
+  ],
+  "weight": [
+    "Heaviness mass. ⚖️",
+    "Importance influence. ⭐",
+    "Burden pressure. 😟"
+  ],
+  "welcome": [
+    "Greet gladly. 👋",
+    "Pleasant received. 😊",
+    "Invite acceptance. ✅"
+  ],
+  "well": [
+    "In good health. ✅",
+    "Satisfactorily. 👍",
+    "Water source. 💦"
+  ],
+  "west": [
+    "Direction sunset. 🌅",
+    "Western region. 🗺️",
+    "Occidental. 🌍"
+  ],
+  "wet": [
+    "Covered liquid. 💦",
+    "Rainy weather. 🌧️",
+    "Inexperienced. 🌱"
+  ],
+  "what": [
+    "Asking information. ❓",
+    "Whatever anything. 🔀",
+    "Exclamation. 😲"
+  ],
+  "whatever": [
+    "Anything at all. 🔀",
+    "Regardless. 💪",
+    "No matter what. 🚫"
+  ],
+  "wheel": [
+    "Circular frame. 🛞",
+    "Steering device. 🚗",
+    "Cycle rotation. 🔄"
+  ],
+  "when": [
+    "At what time. ⏰",
+    "At the time. ⏳",
+    "Although. 🔄"
+  ],
+  "where": [
+    "In what place. 📍",
+    "Situation position. 🎯",
+    "Whereas. ⚖️"
+  ],
+  "whether": [
+    "Expressing choice. 🔀",
+    "If it is so. ⚖️",
+    "Either case. ✅"
+  ],
+  "which": [
+    "Asking choice. ❓",
+    "Referring thing. 👆",
+    "Whichever any. 🔀"
+  ],
+  "while": [
+    "Period of time. ⏳",
+    "Although whereas. 🔄",
+    "Spend time. 🕐"
+  ],
+  "whisper": [
+    "Speak softly. 🤫",
+    "Rumor gossip. 📢",
+    "Soft sound. 🍃"
+  ],
+  "white": [
+    "Color snow. ⚪",
+    "Pale light. 💡",
+    "Innocent pure. 🕊️"
+  ],
+  "who": [
+    "Asking person. ❓",
+    "Relative pronoun. 👤",
+    "Which person. 👥"
+  ],
+  "whole": [
+    "Entire complete. 💯",
+    "Uninjured healthy. ✅",
+    "All of. 🌐"
+  ],
+  "whom": [
+    "Object form who. 👤",
+    "Formal who. 📝",
+    "Which person. ❓"
+  ],
+  "whose": [
+    "Belonging to whom. 🏷️",
+    "Of which. 🔗",
+    "Possessive. ✅"
+  ],
+  "why": [
+    "For what reason. ❓",
+    "Reason cause. ⚙️",
+    "Exclamation. 😠"
+  ],
+  "wide": [
+    "Large breadth. 📏",
+    "Extensive range. 🌈",
+    "Fully open. 🚪"
+  ],
+  "wife": [
+    "Married woman. 👰",
+    "Spouse partner. 💑",
+    "Woman. 👩"
+  ],
+  "wild": [
+    "Untamed natural. 🌳",
+    "Uncontrolled. 🌪️",
+    "Exciting enthusiastic. 😄"
+  ],
+  "will": [
+    "Future auxiliary. 🔮",
+    "Determination desire. 💪",
+    "Legal document. 📜"
+  ],
+  "win": [
+    "Be victorious. 🏆",
+    "Gain obtain. 📈",
+    "Succeed achieve. ✅"
+  ],
+  "wind": [
+    "Moving air. 💨",
+    "Breath respiration. 🌬️",
+    "Twist turn. 🔄"
+  ],
+  "window": [
+    "Glass opening. 🪟",
+    "Opportunity chance. ✨",
+    "Computer display. 💻"
+  ],
+  "wine": [
+    "Alcoholic drink. 🍷",
+    "Dark red color. 🔴",
+    "Entertain with wine. 🥂"
+  ],
+  "wing": [
+    "Bird's limb. 🕊️",
+    "Political faction. 🏛️",
+    "Part of building. 🏢"
+  ],
+  "winner": [
+    "Person who wins. 🏆",
+    "Successful thing. ✅",
+    "Champion. 🥇"
+  ],
+  "winter": [
+    "Coldest season. ❄️",
+    "Year end. 📅",
+    "Depressant period. 😔"
+  ],
+  "wipe": [
+    "Clean rub. 🧹",
+    "Erase remove. 🚫",
+    "Defeat easily. 👊"
+  ],
+  "wire": [
+    "Metal thread. 🧵",
+    "Telegram message. 📧",
+    "Install listening. 🕵️"
+  ],
+  "wise": [
+    "Having knowledge. 🧠",
+    "Judicious sensible. ⚖️",
+    "Manner way. ⚙️"
+  ],
+  "wish": [
+    "Desire want. 💭",
+    "Express hope. ✨",
+    "Greeting good. 😊"
+  ],
+  "with": [
+    "Accompanied by. 👥",
+    "Using by means. ⚙️",
+    "In relation to. 🔗"
+  ],
+  "within": [
+    "Inside inner. 🏠",
+    "Not beyond. 📏",
+    "Inside limits. 🚧"
+  ],
+  "without": [
+    "Not having. 🚫",
+    "Outside external. 🏞️",
+    "Unless. ⚠️"
+  ],
+  "woman": [
+    "Adult female. 👩",
+    "Wife lover. 💑",
+    "Female qualities. 🌸"
+  ],
+  "wonder": [
+    "Marvel amazement. ✨",
+    "Curious desire. 🤔",
+    "Miracle phenomenon. 🌟"
+  ],
+  "wonderful": [
+    "Extremely good. 🌟",
+    "Astonishing amazing. ✨",
+    "Pleasant delightful. 😊"
+  ],
+  "wood": [
+    "Hard material. 🪵",
+    "Forest trees. 🌲",
+    "Golf club. ⛳"
+  ],
+  "word": [
+    "Unit of language. 🔤",
+    "Promise assurance. 🤝",
+    "News information. 📢"
+  ],
+  "work": [
+    "Labor activity. 💼",
+    "Function operate. ⚙️",
+    "Art creation. 🎨"
+  ],
+  "worker": [
+    "Person who works. 👷",
+    "Employee laborer. 💼",
+    "Insect bee. 🐝"
+  ],
+  "world": [
+    "Earth planet. 🌍",
+    "Human society. 👥",
+    "Domain sphere. 🌐"
+  ],
+  "worry": [
+    "Anxious concern. 😟",
+    "Trouble problem. ⚠️",
+    "Bother annoy. 😠"
+  ],
+  "worth": [
+    "Value equivalent. 💰",
+    "Deserving merit. ⭐",
+    "Wealth riches. 💎"
+  ],
+  "would": [
+    "Past of will. ⏪",
+    "Conditional mood. 🔀",
+    "Polite request. 🙏"
+  ],
+  "wound": [
+    "Injury harm. 🩹",
+    "Hurt feelings. 💔",
+    "Twist spiral. 🔄"
+  ],
+  "write": [
+    "Mark words. ✍️",
+    "Compose author. 📝",
+    "Correspond letter. ✉️"
+  ],
+  "writer": [
+    "Person who writes. ✍️",
+    "Author novelist. 📖",
+    "Professional scribe. 🖋️"
+  ],
+  "wrong": [
+    "Incorrect mistaken. ❌",
+    "Unjust immoral. ⚖️",
+    "Fault error. ⚠️"
+  ],
+  "yard": [
+    "Unit of length. 📏",
+    "Garden area. 🏡",
+    "Enclosed ground. 🏞️"
+  ],
+  "yeah": [
+    "Yes informal. 👍",
+    "Affirmation agreement. ✅",
+    "Excitement. 😄"
+  ],
+  "year": [
+    "12-month period. 📅",
+    "Age time. 🕰️",
+    "Grade level. 🎓"
+  ],
+  "yellow": [
+    "Color of lemon. 💛",
+    "Cowardly. 🐤",
+    "Caution signal. ⚠️"
+  ],
+  "yes": [
+    "Affirmative answer. ✅",
+    "Agreement consent. 👍",
+    "Expression of joy. 😊"
+  ],
+  "yesterday": [
+    "Day before today. 📅",
+    "Recent past. ⏪",
+    "Former time. 🕰️"
+  ],
+  "yet": [
+    "Up until now. ⏳",
+    "Nevertheless but. 🔄",
+    "Even still. ⭐"
+  ],
+  "you": [
+    "Second person pronoun. 👤",
+    "One people generally. 👥",
+    "Indefinite pronoun. ❓"
+  ],
+  "young": [
+    "Early life. 👶",
+    "Inexperienced new. 🌱",
+    "Offspring children. 🧒"
+  ],
+  "your": [
+    "Belonging to you. 🏷️",
+    "Possessive form. ✅",
+    "One's. 👤"
+  ],
+  "yourself": [
+    "Reflexive pronoun. 👤",
+    "Emphasizing you. ⭐",
+    "Alone unaided. 🧍"
+  ],
+  "youth": [
+    "Period young. 🧒",
+    "Young people. 👥",
+    "Early stage. 🌱"
+  ],
+  "zero": [
+    "Number 0. 0️⃣",
+    "Nothing nil. 🚫",
+    "Lowest point. 📉"
+  ],
+  "zone": [
+    "Area region. 🗺️",
+    "Division section. 📏",
+    "Time zone. ⏰"
+  ]
+}
