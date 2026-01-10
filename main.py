@@ -783,7 +783,7 @@ async def schedule_announcement(self, message: str, send_time: datetime):
 # =========================
 # EventsHandler Advanced
 # =========================
-@self.client.on(events.ChatAction)
+@client.on(events.ChatAction)
 async def handle_chat_events(event):
     """Join/leave detection and auto greeting"""
     try:
