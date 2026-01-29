@@ -190,6 +190,8 @@ class SafeUserBot:
 
 **Available package:**
 • Normal bot: - @black_lovers1_bot
+• Adult bot: - @losie_chat_bot
+• 18+ bot: - https://t.me/losie_chat_bot
 • Editing: https://t.me/master_editz_team
 • Adult: https://t.me/+oOGhfUxEzhozMTg1
 • Photo Gelary: https://t.me/+V9XzZZEgu9MwM2Y9
