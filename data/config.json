@@ -2,8 +2,7 @@
     "bot_info": {
         "name": "YOUR CRUSH ⟵o_0",
         "developer": "RANA",
-        "version": "1.0.0",
-        "description": "Professional Safe UserBot with Islamic features"
+        "version": "1.0.0"
     },
     "settings": {
         "timezone": "Asia/Dhaka",
@@ -13,14 +12,15 @@
         "log_level": "INFO"
     },
     "features": {
-        "auto_reply": True,
-        "namaz_alert": True,
-        "slot_reminders": True,
-        "quotes_enabled": True,
-        "duas_enabled": True,
-        "developer_info": True
-    },"telegram": {
-        "api_id": 123456,  # Update with your API ID
-        "api_hash": "your_api_hash_here"  # Update with your API Hash
+        "auto_reply": true,
+        "namaz_alert": true,
+        "slot_reminders": false,
+        "quotes_enabled": true,
+        "duas_enabled": true,
+        "developer_info": true
+    },
+    "telegram": {
+        "api_id": 123456,
+        "api_hash": "your_api_hash_here"
     }
 }
